@@ -1,0 +1,8 @@
+[2018-06-01 18:27:50] xcloner_restore.INFO: Processing ajax request ID _phwt6cabt [] []
+[2018-06-01 18:27:50] xcloner_restore.INFO: Current filesystem max upload size is 1048576000 bytes [] []
+[2018-06-01 18:27:50] xcloner_restore.INFO: Processing ajax request ID _h7xjyvl6v [] []
+[2018-06-01 18:27:50] xcloner_restore.DEBUG: Starting action get_current_directory_action [] []
+[2018-06-01 18:27:50] xcloner_restore.INFO: Determining current url as C:\xampp\htdocs\St. Paul College and path as http://localhost/St.%20Paul%20College [] []
+[2018-06-01 18:27:50] xcloner_restore.INFO: Processing ajax request ID _q9mb6zz60 [] []
+[2018-06-01 18:27:50] xcloner_restore.DEBUG: Starting action list_backup_archives_action [] []
+[2018-06-01 18:27:50] xcloner_restore.INFO: Found backup_localhost-2018-06-01_18-08-sql-da974.tar backup file [] []
