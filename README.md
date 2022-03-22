@@ -1,2 +1,2 @@
 # stpauls_wp
-Sitio WordPress San Pauls Collage
+Sitio WordPress San Pauls College
