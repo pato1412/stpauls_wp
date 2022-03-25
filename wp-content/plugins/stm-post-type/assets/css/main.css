@@ -1,0 +1,56 @@
+.form-table.stm th {
+    width: 100px;
+    white-space: nowrap;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.form-table.stm td {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.form-table.stm td input[type="text"],
+.form-table.stm td textarea {
+    border-radius: 3px;
+}
+
+.form-table.stm th h3 {
+    padding: 0 !important;
+    font-size: 20px !important;
+    margin: 10px 0 0;
+    text-transform: uppercase;
+}
+
+.form-table.stm .stm_metabox_image .custom_preview_image {
+    vertical-align: top;
+    max-width: 250px;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.form-table.stm .textfield-description {
+    color: #aaa;
+    font-style: italic;
+}
+
+.stm-metabox-spacing__field-label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: 600;
+}
+
+.stm-metabox-spacing__field-input {
+    max-width: 70px;
+    margin-left: 10px;
+}
+
+.stm-metabox-spacing__field {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+}
+
+.stm-metabox-spacing__field:last-child {
+    margin-right: 0;
+}

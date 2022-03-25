@@ -1,0 +1,673 @@
+0000.001 (0) Opened log file at time: Sat, 19 Mar 2022 02:42:23 +0000 on https://test.stpauls.edu.ar
+0000.042 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.11 WP: 5.8.4 PHP: 7.4.28 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-1160.36.2.el7.x86_64 #1 SMP Wed Jul 21 11:57:15 UTC 2021 x86_64) MySQL: 5.7.37 (max packet size=268435456) WPLANG: es_ES Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 54.8M | 56.5M) multisite: N openssl: OpenSSL 1.1.1n  15 Mar 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.271 (0) Free space on disk containing Updraft's temporary directory: 451149.2 MB
+0000.320 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.359 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.451 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1647135760, seconds_ago=521984)
+0000.602 (0) Set semaphore last lock (fd) time to 2022-03-19 02:42:24
+0000.640 (0) Semaphore lock (fd) complete
+0000.773 (0) Backup run: resumption=0, nonce=1e24fda88692, file_nonce=1e24fda88692 begun at=1647657743 (1s ago), job type=backup
+0000.849 (0) Scheduling a resumption (1) after 300 seconds (1647658044) in case this run gets aborted
+0000.968 (0) Checking if we have a zip executable available
+0001.011 (0) Testing: /usr/bin/zip
+0001.062 (0) Output: zip warning: binziptest/test.zip not found or empty
+0001.100 (0) Output: adding: binziptest/subdir1/	(in=0) (out=0) (stored 0%)
+0001.137 (0) Output: adding: binziptest/subdir1/subdir2/	(in=0) (out=0) (stored 0%)
+0001.175 (0) Output: adding: binziptest/subdir1/subdir2/test.html	(in=131) (out=107) (deflated 18%)
+0001.212 (0) Output: total bytes=131, compressed=107 -> 18% savings
+0001.271 (0) Output: adding: binziptest/subdir1/subdir2/test2.html	(in=138) (out=113) (deflated 18%)
+0001.318 (0) Output: total bytes=269, compressed=220 -> 18% savings
+0001.383 (0) Working binary zip found: /usr/bin/zip
+0001.485 (0) Zip engine: found/will use a binary zip: /usr/bin/zip
+0001.527 (0) Creation of backups of directories: beginning
+0001.656 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0002.094 (0) Total entities for the zip file: 1793 directories, 8368 files (0 skipped as non-modified), 170.1 MB
+0002.142 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0002.186 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0002.232 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0002.277 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0002.319 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0002.362 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 600 files added (on-disk size: 0 KB)
+0002.403 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 700 files added (on-disk size: 0 KB)
+0002.445 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 800 files added (on-disk size: 0 KB)
+0002.487 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 900 files added (on-disk size: 0 KB)
+0002.529 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0002.568 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (17.4 MB, 8368 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0004.611 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: size is now: 8.80 MB
+0004.748 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 1100 files added (on-disk size: 9043.4 KB)
+0004.781 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 1200 files added (on-disk size: 9043.4 KB)
+0004.823 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 1300 files added (on-disk size: 9043.4 KB)
+0004.865 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 1400 files added (on-disk size: 9043.4 KB)
+0004.906 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 25 MB added on this batch (25.6 MB, 8368 files batched, 480 (1481) added so far); re-opening (prior size: 9043.4 KB)
+0006.628 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: size is now: 32.40 MB
+0006.710 (0) A useful amount of data was added after this amount of zip processing: 2.5 s (normalised: 2.4 s, rate: 10637.1 KB/s)
+0006.794 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.4620831012726, normalised_time=2.4066667137743, max_time=6.7515120506287, data points known=1, old_max_bytes=26214400, new_max_bytes=65354458)
+0006.878 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 1500 files added (on-disk size: 33152.5 KB)
+0006.926 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 1600 files added (on-disk size: 33152.5 KB)
+0006.972 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 1700 files added (on-disk size: 33152.5 KB)
+0007.018 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 1800 files added (on-disk size: 33152.5 KB)
+0007.069 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 1900 files added (on-disk size: 33152.5 KB)
+0007.152 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 2000 files added (on-disk size: 33152.5 KB)
+0007.198 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 2100 files added (on-disk size: 33152.5 KB)
+0007.244 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 2200 files added (on-disk size: 33152.5 KB)
+0007.290 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 2300 files added (on-disk size: 33152.5 KB)
+0007.336 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 2400 files added (on-disk size: 33152.5 KB)
+0007.382 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (61.4 MB, 8368 files batched, 1001 (2482) added so far); re-opening (prior size: 33152.5 KB)
+0011.621 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: size is now: 88.90 MB
+0011.726 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 2500 files added (on-disk size: 91054.3 KB)
+0011.770 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 2600 files added (on-disk size: 91054.3 KB)
+0011.812 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 2700 files added (on-disk size: 91054.3 KB)
+0011.854 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 2800 files added (on-disk size: 91054.3 KB)
+0011.897 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 2900 files added (on-disk size: 91054.3 KB)
+0011.938 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 3000 files added (on-disk size: 91054.3 KB)
+0012.014 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 3100 files added (on-disk size: 91054.3 KB)
+0012.076 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 3200 files added (on-disk size: 91054.3 KB)
+0012.144 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 3300 files added (on-disk size: 91054.3 KB)
+0012.209 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 3400 files added (on-disk size: 91054.3 KB)
+0012.256 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (10.2 MB, 8368 files batched, 1001 (3483) added so far); re-opening (prior size: 91054.3 KB)
+0013.762 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 3500 files added (on-disk size: 95037.2 KB)
+0013.803 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 3600 files added (on-disk size: 95037.2 KB)
+0013.845 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 3700 files added (on-disk size: 95037.2 KB)
+0013.886 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 3800 files added (on-disk size: 95037.2 KB)
+0013.928 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 3900 files added (on-disk size: 95037.2 KB)
+0013.970 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 4000 files added (on-disk size: 95037.2 KB)
+0014.012 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 4100 files added (on-disk size: 95037.2 KB)
+0014.053 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 4200 files added (on-disk size: 95037.2 KB)
+0014.095 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 4300 files added (on-disk size: 95037.2 KB)
+0014.138 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 4400 files added (on-disk size: 95037.2 KB)
+0014.179 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (8.3 MB, 8368 files batched, 1001 (4484) added so far); re-opening (prior size: 95037.2 KB)
+0015.924 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 4500 files added (on-disk size: 97685.5 KB)
+0015.977 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 4600 files added (on-disk size: 97685.5 KB)
+0016.057 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 4700 files added (on-disk size: 97685.5 KB)
+0016.098 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 4800 files added (on-disk size: 97685.5 KB)
+0016.144 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 4900 files added (on-disk size: 97685.5 KB)
+0016.190 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 5000 files added (on-disk size: 97685.5 KB)
+0016.236 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 5100 files added (on-disk size: 97685.5 KB)
+0016.282 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 5200 files added (on-disk size: 97685.5 KB)
+0016.328 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 5300 files added (on-disk size: 97685.5 KB)
+0016.374 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 5400 files added (on-disk size: 97685.5 KB)
+0016.428 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (3.7 MB, 8368 files batched, 1001 (5485) added so far); re-opening (prior size: 97685.5 KB)
+0017.335 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 5500 files added (on-disk size: 99415.5 KB)
+0017.380 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 5600 files added (on-disk size: 99415.5 KB)
+0017.421 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 5700 files added (on-disk size: 99415.5 KB)
+0017.463 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 5800 files added (on-disk size: 99415.5 KB)
+0017.504 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 5900 files added (on-disk size: 99415.5 KB)
+0017.547 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 6000 files added (on-disk size: 99415.5 KB)
+0017.588 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 6100 files added (on-disk size: 99415.5 KB)
+0017.630 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 6200 files added (on-disk size: 99415.5 KB)
+0017.672 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 6300 files added (on-disk size: 99415.5 KB)
+0017.714 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 6400 files added (on-disk size: 99415.5 KB)
+0017.755 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (17.9 MB, 8368 files batched, 1001 (6486) added so far); re-opening (prior size: 99415.5 KB)
+0020.268 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 6500 files added (on-disk size: 104721 KB)
+0020.313 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 6600 files added (on-disk size: 104721 KB)
+0020.350 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 6700 files added (on-disk size: 104721 KB)
+0020.400 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 6800 files added (on-disk size: 104721 KB)
+0020.568 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 6900 files added (on-disk size: 104721 KB)
+0020.654 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 7000 files added (on-disk size: 104721 KB)
+0020.718 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 7100 files added (on-disk size: 104721 KB)
+0020.764 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 7200 files added (on-disk size: 104721 KB)
+0020.810 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 7300 files added (on-disk size: 104721 KB)
+0020.856 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 7400 files added (on-disk size: 104721 KB)
+0020.902 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (8.7 MB, 8368 files batched, 1001 (7487) added so far); re-opening (prior size: 104721 KB)
+0022.909 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 7500 files added (on-disk size: 107550.2 KB)
+0022.949 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 7600 files added (on-disk size: 107550.2 KB)
+0022.991 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 7700 files added (on-disk size: 107550.2 KB)
+0023.034 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 7800 files added (on-disk size: 107550.2 KB)
+0023.129 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 7900 files added (on-disk size: 107550.2 KB)
+0023.184 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 8000 files added (on-disk size: 107550.2 KB)
+0023.226 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 8100 files added (on-disk size: 107550.2 KB)
+0023.267 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 8200 files added (on-disk size: 107550.2 KB)
+0023.309 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.tmp: 8300 files added (on-disk size: 107550.2 KB)
+0025.758 (0) Creating zip file manifest (/home/paulscon/test/wp-content/updraft/backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.list-temp.tmp)
+0025.852 (0) Successfully created zip file manifest (size: 722516)
+0028.198 (0) Created plugins zip (0) - 113835.5 KB in 26.4 s (4309.4 KB/s) (sha1: 0ccb21481d9b3e1dac24c48398f3663db3471519, sha256: 20195409a08db2f38700bba055f0d30600bf552e69594dba2bfe77f932194256)
+0028.286 (0) Beginning creation of dump of themes (split every: 400 MB)
+0028.517 (0) Total entities for the zip file: 283 directories, 1572 files (0 skipped as non-modified), 28.2 MB
+0028.565 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0028.610 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0028.657 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0028.702 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0028.749 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0028.794 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0028.840 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0028.886 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: 800 files added (on-disk size: 0 KB)
+0028.933 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: 900 files added (on-disk size: 0 KB)
+0028.978 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0029.017 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (19.5 MB, 1572 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0031.004 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: size is now: 6.70 MB
+0031.089 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: 1100 files added (on-disk size: 6835.1 KB)
+0031.131 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: 1200 files added (on-disk size: 6835.1 KB)
+0031.173 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: 1300 files added (on-disk size: 6835.1 KB)
+0031.215 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: 1400 files added (on-disk size: 6835.1 KB)
+0031.257 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: 1500 files added (on-disk size: 6835.1 KB)
+0031.998 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.tmp: size is now: 12.20 MB
+0032.176 (0) Creating zip file manifest (/home/paulscon/test/wp-content/updraft/backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.list-temp.tmp)
+0032.220 (0) Successfully created zip file manifest (size: 110486)
+0032.626 (0) Created themes zip (0) - 12534.1 KB in 4.2 s (2974.6 KB/s) (sha1: c239816c6caba36ddeca9be6bd21637505928580, sha256: 67ecd1a386b0a9e0fc067383f31404e046bdaa0b21706519f931249229ebca08)
+0032.710 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0032.752 (0) Looking for candidates to backup in: /home/paulscon/test/wp-content/uploads
+0032.794 (0) finding files: resized: adding to list (1)
+0032.836 (0) finding files: cache: adding to list (2)
+0032.877 (0) finding files: 2021: adding to list (3)
+0032.919 (0) finding files: wc-logs: adding to list (4)
+0033.011 (0) finding files: revslider: adding to list (5)
+0033.061 (0) finding files: smush-e22c42192ff23a6a3122.log: adding to list (6)
+0033.130 (0) finding files: 2022: adding to list (7)
+0033.191 (0) finding files: wpcf7_uploads: adding to list (8)
+0033.233 (0) finding files: woocommerce_uploads: adding to list (9)
+0033.274 (0) finding files: 2019: adding to list (10)
+0033.316 (0) finding files: 2014: adding to list (11)
+0033.371 (0) finding files: GeoLite2-Country.mmdb: adding to list (12)
+0033.413 (0) finding files: stm_uploads: adding to list (13)
+0033.454 (0) finding files: 2015: adding to list (14)
+0033.492 (0) finding files: js_composer: adding to list (15)
+0033.534 (0) finding files: 2020: adding to list (16)
+0033.575 (0) finding files: 2016: adding to list (17)
+0033.613 (0) finding files: smush-2a9fd681c15dba31d7fd.log: adding to list (18)
+0033.651 (0) finding files: wpo-plugins-tables-list.json: adding to list (19)
+0033.689 (0) finding files: flags: adding to list (20)
+0033.726 (0) finding files: 2018: adding to list (21)
+0033.764 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0034.017 (0) Total entities for the zip file: 263 directories, 2728 files (0 skipped as non-modified), 230.2 MB
+0034.064 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0034.139 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0034.197 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 300 files added (on-disk size: 0 KB)
+0034.238 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 62.3 MB added on this batch (62.4 MB, 2728 files batched, 363 (363) added so far); re-opening (prior size: 0 KB)
+0035.316 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: size is now: 61.90 MB
+0035.404 (0) A useful amount of data was added after this amount of zip processing: 2.2 s (normalised: 2.2 s, rate: 29641.5 KB/s)
+0035.479 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.1555409431458, normalised_time=2.1531506312599, max_time=35.440861940384, data points known=1, old_max_bytes=65354458, new_max_bytes=209715200)
+0035.555 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 400 files added (on-disk size: 63376.1 KB)
+0035.599 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 500 files added (on-disk size: 63376.1 KB)
+0035.641 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 600 files added (on-disk size: 63376.1 KB)
+0035.679 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 700 files added (on-disk size: 63376.1 KB)
+0035.721 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 800 files added (on-disk size: 63376.1 KB)
+0035.758 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 900 files added (on-disk size: 63376.1 KB)
+0035.844 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 1000 files added (on-disk size: 63376.1 KB)
+0035.946 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 1100 files added (on-disk size: 63376.1 KB)
+0036.009 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 1200 files added (on-disk size: 63376.1 KB)
+0036.064 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 1300 files added (on-disk size: 63376.1 KB)
+0036.142 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (53.8 MB, 2728 files batched, 1001 (1364) added so far); re-opening (prior size: 63376.1 KB)
+0037.344 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: size is now: 115.20 MB
+0037.434 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 1400 files added (on-disk size: 117933.4 KB)
+0037.482 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 1500 files added (on-disk size: 117933.4 KB)
+0037.528 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 1600 files added (on-disk size: 117933.4 KB)
+0037.570 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 1700 files added (on-disk size: 117933.4 KB)
+0037.611 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 1800 files added (on-disk size: 117933.4 KB)
+0037.654 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 1900 files added (on-disk size: 117933.4 KB)
+0037.695 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 2000 files added (on-disk size: 117933.4 KB)
+0037.737 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 2100 files added (on-disk size: 117933.4 KB)
+0037.779 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 2200 files added (on-disk size: 117933.4 KB)
+0037.821 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 2300 files added (on-disk size: 117933.4 KB)
+0037.862 (0) Adding batch to zip file (UpdraftPlus_BinZip): over 1000 files added on this batch (85.6 MB, 2728 files batched, 1001 (2365) added so far); re-opening (prior size: 117933.4 KB)
+0039.825 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: size is now: 197.40 MB
+0039.926 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 2400 files added (on-disk size: 202113 KB)
+0039.970 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 2500 files added (on-disk size: 202113 KB)
+0040.012 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 2600 files added (on-disk size: 202113 KB)
+0040.057 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.tmp: 2700 files added (on-disk size: 202113 KB)
+0040.965 (0) Creating zip file manifest (/home/paulscon/test/wp-content/updraft/backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.list-temp.tmp)
+0041.107 (0) Successfully created zip file manifest (size: 151626)
+0045.911 (0) Created uploads zip (0) - 231313.4 KB in 12 s (19237 KB/s) (sha1: 1e551ff3c43a0268a1f790af134287fc9e4f0c73, sha256: d016d986167233c521e46b53f61ab59758e6d60477a769121d2a323bbf5a72d3)
+0046.004 (0) Beginning backup of other directories found in the content directory (index: 0)
+0046.041 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0046.125 (0) Looking for candidates to backup in: /home/paulscon/test/wp-content
+0046.179 (0) finding files: maintenance.php: adding to list (1)
+0046.217 (0) finding files: languages: adding to list (2)
+0046.307 (0) finding files: updraft: skipping: this is the updraft directory
+0046.409 (0) finding files: cache: skipping: excluded by options
+0046.509 (0) finding files: uploads: skipping: this is the uploads directory
+0046.542 (0) finding files: plugins: skipping: this is the plugins directory
+0046.584 (0) finding files: maintenance: adding to list (3)
+0046.626 (0) finding files: ai1wm-backups: skipping: excluded by options (glob)
+0046.668 (0) finding files: wpo-cache: adding to list (4)
+0046.710 (0) finding files: backups: skipping: excluded by options (glob)
+0046.752 (0) finding files: backups: skipping: excluded by options (glob)
+0046.752 (0) finding files: themes: skipping: this is the themes directory
+0046.793 (0) finding files: index.php: adding to list (5)
+0046.835 (0) finding files: advanced-cache.php: adding to list (6)
+0046.877 (0) finding files: upgrade: skipping: excluded by options
+0047.057 (0) Total entities for the zip file: 11 directories, 219 files (0 skipped as non-modified), 11.4 MB
+0047.136 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0047.215 (0) Zip: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0047.911 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-others.zip.tmp: size is now: 5.20 MB
+0048.022 (0) Creating zip file manifest (/home/paulscon/test/wp-content/updraft/backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-others.zip.list-temp.tmp)
+0048.069 (0) Successfully created zip file manifest (size: 12711)
+0048.380 (0) Created others zip (0) - 5319.2 KB in 1.4 s (3868.8 KB/s) (sha1: 2285e37dd6fea47f51499590466b9a140917a4ba, sha256: d1e458ea860fa40be42d125f1f8f1e2004db714ae9c9ca281e67da23404509d1)
+0048.535 (0) Saving backup status to database (elements: 8)
+0048.614 (0) Beginning creation of database dump (WordPress DB)
+0048.653 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+0048.732 (0) Testing potential mysqldump binary: /usr/bin/mysqldump
+0048.834 (0) Output: /*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;\n/*!40103 SET TIME_ZONE='+00:00' */;\n/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;\n/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;\n/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;\n/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;\nDROP TABLE IF EXISTS `wp_options`;\n/*!40101 SET @saved_cs_client     = @@character_set_client */;\n/*!40101 SET character_set_client = utf8 */;\nCRE (truncated - 1529 bytes total)
+0048.890 (0) Working binary mysqldump found: /usr/bin/mysqldump
+0049.062 (0) Table wp_options: Total expected rows (via COUNT): 523
+0049.285 (0) Table wp_options: Rows added in this batch (next record: 18934): 519 (uncompressed bytes in this segment=1653473) in 0.27 seconds
+0049.442 (0) Table wp_options: finishing file(s) (2, 293.9 KB)
+0049.513 (0) Table wp_users: Total expected rows (via COUNT): 2
+0049.547 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0049.628 (0) Table wp_users: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=1498) in 0.12 seconds
+0049.761 (0) Table wp_users: finishing file(s) (2, 0.7 KB)
+0049.891 (0) Table wp_usermeta: Total expected rows (via COUNT): 58
+0049.932 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0050.018 (0) Table wp_usermeta: Rows added in this batch (next record: 88): 58 (uncompressed bytes in this segment=7223) in 0.17 seconds
+0050.263 (0) Table wp_usermeta: finishing file(s) (2, 2.5 KB)
+0050.396 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0050.476 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=673) in 0.13 seconds
+0050.635 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0050.714 (0) Table wp_comments: Total expected rows (via COUNT): 3
+0050.752 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0050.829 (0) Table wp_comments: Rows added in this batch (next record: 4): 3 (uncompressed bytes in this segment=2528) in 0.12 seconds
+0050.945 (0) Table wp_comments: finishing file(s) (2, 0.7 KB)
+0051.024 (0) Table wp_links: Total expected rows (via COUNT): 0
+0051.140 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1270) in 0.12 seconds
+0051.279 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0051.401 (0) Table wp_postmeta: Total expected rows (approximate): 5120
+0051.556 (0) Table wp_postmeta: Rows added in this batch (next record: 10446): 5098 (uncompressed bytes in this segment=1169166) in 0.20 seconds
+0051.706 (0) Table wp_postmeta: finishing file(s) (2, 117.5 KB)
+0051.815 (0) Table wp_posts: Total expected rows (via COUNT): 710
+0051.964 (0) Table wp_posts: Rows added in this batch (next record: 4674): 710 (uncompressed bytes in this segment=934971) in 0.19 seconds
+0052.187 (0) Table wp_posts: finishing file(s) (2, 150.9 KB)
+0052.273 (0) Table wp_term_relationships: Total expected rows (approximate): 343
+0052.362 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 354 (uncompressed bytes in this segment=6326) in 0.09 seconds
+0052.493 (0) Table wp_term_relationships: finishing file(s) (2, 1.3 KB)
+0052.623 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 90
+0052.660 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0052.738 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 95): 90 (uncompressed bytes in this segment=4432) in 0.16 seconds
+0052.894 (0) Table wp_term_taxonomy: finishing file(s) (2, 1.1 KB)
+0053.012 (0) Table wp_termmeta: Total expected rows (via COUNT): 20
+0053.058 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0053.214 (0) Table wp_termmeta: Rows added in this batch (next record: 20): 20 (uncompressed bytes in this segment=1509) in 0.24 seconds
+0053.367 (0) Table wp_termmeta: finishing file(s) (2, 0.6 KB)
+0053.446 (0) Table wp_terms: Total expected rows (via COUNT): 90
+0053.484 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0053.603 (0) Table wp_terms: Rows added in this batch (next record: 95): 90 (uncompressed bytes in this segment=4091) in 0.16 seconds
+0053.723 (0) Table wp_terms: finishing file(s) (2, 1.4 KB)
+0053.801 (0) Table wp_duplicator_pro_entities: Total expected rows (via COUNT): 5
+0053.836 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0053.904 (0) Table wp_duplicator_pro_entities: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=4201) in 0.10 seconds
+0054.020 (0) Table wp_duplicator_pro_entities: finishing file(s) (2, 1.4 KB)
+0054.168 (0) Table wp_duplicator_pro_packages: Total expected rows (via COUNT): 0
+0054.255 (0) Table wp_duplicator_pro_packages: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=701) in 0.11 seconds
+0054.380 (0) Table wp_duplicator_pro_packages: finishing file(s) (2, 0.4 KB)
+0054.467 (0) Table wp_event_hours: Total expected rows (via COUNT): 113
+0054.510 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0054.609 (0) Table wp_event_hours: Rows added in this batch (next record: 589): 113 (uncompressed bytes in this segment=12954) in 0.14 seconds
+0054.744 (0) Table wp_event_hours: finishing file(s) (2, 2.5 KB)
+0054.831 (0) Table wp_event_hours_booking: Total expected rows (via COUNT): 0
+0054.908 (0) Table wp_event_hours_booking: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=681) in 0.08 seconds
+0055.021 (0) Table wp_event_hours_booking: finishing file(s) (2, 0.4 KB)
+0055.177 (0) Table wp_icl_content_status: Total expected rows (via COUNT): 0
+0055.218 (0) Table wp_icl_content_status: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=576) in 0.07 seconds
+0055.330 (0) Table wp_icl_content_status: finishing file(s) (2, 0.3 KB)
+0055.409 (0) Table wp_icl_core_status: Total expected rows (via COUNT): 0
+0055.448 (0) Table wp_icl_core_status: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=694) in 0.04 seconds
+0055.561 (0) Table wp_icl_core_status: finishing file(s) (2, 0.4 KB)
+0055.639 (0) Table wp_icl_flags: Total expected rows (via COUNT): 63
+0055.678 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0055.767 (0) Table wp_icl_flags: Rows added in this batch (next record: 63): 63 (uncompressed bytes in this segment=2318) in 0.13 seconds
+0055.879 (0) Table wp_icl_flags: finishing file(s) (2, 0.9 KB)
+0055.966 (0) Table wp_icl_languages: Total expected rows (via COUNT): 63
+0056.009 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0056.057 (0) Table wp_icl_languages: Rows added in this batch (next record: 63): 63 (uncompressed bytes in this segment=3986) in 0.09 seconds
+0056.235 (0) Table wp_icl_languages: finishing file(s) (2, 1.6 KB)
+0056.322 (0) Table wp_icl_languages_translations: Total expected rows (approximate): 3969
+0056.455 (0) Table wp_icl_languages_translations: Rows added in this batch (next record: 3969): 3969 (uncompressed bytes in this segment=139052) in 0.13 seconds
+0057.887 (0) Table wp_icl_languages_translations: finishing file(s) (2, 33.1 KB)
+0058.020 (0) Table wp_icl_locale_map: Total expected rows (approximate): 2
+0058.068 (0) Table wp_icl_locale_map: Rows added in this batch (next record: 1000): 2 (uncompressed bytes in this segment=591) in 0.05 seconds
+0058.235 (0) Table wp_icl_locale_map: finishing file(s) (2, 0.3 KB)
+0058.313 (0) Table wp_icl_message_status: Total expected rows (via COUNT): 0
+0058.353 (0) Table wp_icl_message_status: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=948) in 0.04 seconds
+0058.465 (0) Table wp_icl_message_status: finishing file(s) (2, 0.4 KB)
+0058.544 (0) Table wp_icl_node: Total expected rows (via COUNT): 0
+0058.583 (0) Table wp_icl_node: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=482) in 0.04 seconds
+0058.695 (0) Table wp_icl_node: finishing file(s) (2, 0.3 KB)
+0058.766 (0) Table wp_icl_reminders: Total expected rows (via COUNT): 0
+0058.810 (0) Table wp_icl_reminders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=574) in 0.05 seconds
+0058.939 (0) Table wp_icl_reminders: finishing file(s) (2, 0.3 KB)
+0059.025 (0) Table wp_icl_string_positions: Total expected rows (via COUNT): 0
+0059.073 (0) Table wp_icl_string_positions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=643) in 0.05 seconds
+0059.265 (0) Table wp_icl_string_positions: finishing file(s) (2, 0.4 KB)
+0059.352 (0) Table wp_icl_string_status: Total expected rows (via COUNT): 0
+0059.396 (0) Table wp_icl_string_status: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=702) in 0.05 seconds
+0059.525 (0) Table wp_icl_string_status: finishing file(s) (2, 0.4 KB)
+0059.654 (0) Table wp_icl_string_translations: Total expected rows (via COUNT): 0
+0059.697 (0) Table wp_icl_string_translations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1027) in 0.09 seconds
+0059.864 (0) Table wp_icl_string_translations: finishing file(s) (2, 0.5 KB)
+0059.981 (0) Table wp_icl_strings: Total expected rows (via COUNT): 0
+0060.019 (0) Table wp_icl_strings: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1220) in 0.08 seconds
+0060.241 (0) Table wp_icl_strings: finishing file(s) (2, 0.5 KB)
+0060.358 (0) Table wp_icl_translate: Total expected rows (via COUNT): 0
+0060.396 (0) Table wp_icl_translate: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=960) in 0.08 seconds
+0060.555 (0) Table wp_icl_translate: finishing file(s) (2, 0.4 KB)
+0060.625 (0) Table wp_icl_translate_job: Total expected rows (via COUNT): 0
+0060.665 (0) Table wp_icl_translate_job: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=870) in 0.04 seconds
+0060.790 (0) Table wp_icl_translate_job: finishing file(s) (2, 0.4 KB)
+0060.876 (0) Table wp_icl_translation_batches: Total expected rows (via COUNT): 0
+0060.920 (0) Table wp_icl_translation_batches: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=648) in 0.05 seconds
+0061.087 (0) Table wp_icl_translation_batches: finishing file(s) (2, 0.4 KB)
+0061.242 (0) Table wp_icl_translation_status: Total expected rows (via COUNT): 2
+0061.284 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0061.368 (0) Table wp_icl_translation_status: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1276) in 0.17 seconds
+0061.531 (0) Table wp_icl_translation_status: finishing file(s) (2, 0.6 KB)
+0061.615 (0) Table wp_icl_translations: Total expected rows (via COUNT): 405
+0061.652 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0061.733 (0) Table wp_icl_translations: Rows added in this batch (next record: 733): 405 (uncompressed bytes in this segment=21622) in 0.12 seconds
+0061.865 (0) Table wp_icl_translations: finishing file(s) (2, 4 KB)
+0061.948 (0) Table wp_nextend2_image_storage: Total expected rows (via COUNT): 37
+0061.987 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0062.068 (0) Table wp_nextend2_image_storage: Rows added in this batch (next record: 37): 37 (uncompressed bytes in this segment=15219) in 0.12 seconds
+0062.238 (0) Table wp_nextend2_image_storage: finishing file(s) (2, 1.7 KB)
+0062.316 (0) Table wp_nextend2_section_storage: Total expected rows (via COUNT): 11
+0062.355 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0062.644 (0) Table wp_nextend2_section_storage: Rows added in this batch (next record: 12272): 11 (uncompressed bytes in this segment=69237) in 0.33 seconds
+0062.790 (0) Table wp_nextend2_section_storage: finishing file(s) (2, 9.2 KB)
+0062.877 (0) Table wp_nextend2_smartslider3_generators: Total expected rows (via COUNT): 0
+0062.962 (0) Table wp_nextend2_smartslider3_generators: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=591) in 0.09 seconds
+0063.129 (0) Table wp_nextend2_smartslider3_generators: finishing file(s) (2, 0.3 KB)
+0063.234 (0) Table wp_nextend2_smartslider3_sliders: Total expected rows (via COUNT): 1
+0063.275 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0063.365 (0) Table wp_nextend2_smartslider3_sliders: Rows added in this batch (next record: 4): 1 (uncompressed bytes in this segment=4643) in 0.13 seconds
+0063.506 (0) Table wp_nextend2_smartslider3_sliders: finishing file(s) (2, 1.6 KB)
+0063.592 (0) Table wp_nextend2_smartslider3_sliders_xref: Total expected rows (approximate): 0
+0063.669 (0) Table wp_nextend2_smartslider3_sliders_xref: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=627) in 0.08 seconds
+0063.782 (0) Table wp_nextend2_smartslider3_sliders_xref: finishing file(s) (2, 0.3 KB)
+0063.900 (0) Table wp_nextend2_smartslider3_slides: Total expected rows (via COUNT): 12
+0063.936 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0064.016 (0) Table wp_nextend2_smartslider3_slides: Rows added in this batch (next record: 35): 12 (uncompressed bytes in this segment=95515) in 0.16 seconds
+0064.238 (0) Table wp_nextend2_smartslider3_slides: finishing file(s) (2, 4.6 KB)
+0064.316 (0) Table wp_redirection_404: Total expected rows (via COUNT): 24
+0064.355 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0064.412 (0) Table wp_redirection_404: Rows added in this batch (next record: 207): 24 (uncompressed bytes in this segment=7304) in 0.10 seconds
+0064.539 (0) Table wp_redirection_404: finishing file(s) (2, 1 KB)
+0064.609 (0) Table wp_redirection_groups: Total expected rows (via COUNT): 2
+0064.644 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0064.696 (0) Table wp_redirection_groups: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=979) in 0.09 seconds
+0064.832 (0) Table wp_redirection_groups: finishing file(s) (2, 0.5 KB)
+0064.923 (0) Table wp_redirection_items: Total expected rows (via COUNT): 25
+0064.966 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0065.077 (0) Table wp_redirection_items: Rows added in this batch (next record: 27): 25 (uncompressed bytes in this segment=5857) in 0.15 seconds
+0065.226 (0) Table wp_redirection_items: finishing file(s) (2, 1.4 KB)
+0065.313 (0) Table wp_redirection_logs: Total expected rows (via COUNT): 0
+0065.398 (0) Table wp_redirection_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1256) in 0.09 seconds
+0065.524 (0) Table wp_redirection_logs: finishing file(s) (2, 0.5 KB)
+0065.658 (0) Table wp_revslider_css: Total expected rows (via COUNT): 121
+0065.695 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0065.798 (0) Table wp_revslider_css: Rows added in this batch (next record: 121): 121 (uncompressed bytes in this segment=100941) in 0.20 seconds
+0065.959 (0) Table wp_revslider_css: finishing file(s) (2, 5.3 KB)
+0066.037 (0) Table wp_revslider_layer_animations: Total expected rows (via COUNT): 0
+0066.169 (0) Table wp_revslider_layer_animations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=540) in 0.13 seconds
+0066.294 (0) Table wp_revslider_layer_animations: finishing file(s) (2, 0.3 KB)
+0066.407 (0) Table wp_revslider_navigations: Total expected rows (via COUNT): 2
+0066.440 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.525 (0) Table wp_revslider_navigations: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=1068) in 0.16 seconds
+0066.696 (0) Table wp_revslider_navigations: finishing file(s) (2, 0.5 KB)
+0066.826 (0) Table wp_revslider_sliders: Total expected rows (via COUNT): 5
+0066.867 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0066.912 (0) Table wp_revslider_sliders: Rows added in this batch (next record: 5): 5 (uncompressed bytes in this segment=44643) in 0.13 seconds
+0067.124 (0) Table wp_revslider_sliders: finishing file(s) (2, 4.3 KB)
+0067.307 (0) Table wp_revslider_slides: Total expected rows (via COUNT): 10
+0067.348 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0067.400 (0) Table wp_revslider_slides: Rows added in this batch (next record: 13): 10 (uncompressed bytes in this segment=259557) in 0.15 seconds
+0067.591 (0) Table wp_revslider_slides: finishing file(s) (2, 11.6 KB)
+0067.709 (0) Table wp_revslider_static_slides: Total expected rows (via COUNT): 1
+0067.746 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0067.785 (0) Table wp_revslider_static_slides: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=742) in 0.12 seconds
+0067.951 (0) Table wp_revslider_static_slides: finishing file(s) (2, 0.4 KB)
+0068.030 (0) Table wp_smush_dir_images: Total expected rows (via COUNT): 0
+0068.148 (0) Table wp_smush_dir_images: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1065) in 0.12 seconds
+0068.328 (0) Table wp_smush_dir_images: finishing file(s) (2, 0.5 KB)
+0068.454 (0) Table wp_tm_taskmeta: Total expected rows (via COUNT): 0
+0068.525 (0) Table wp_tm_taskmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=665) in 0.12 seconds
+0068.658 (0) Table wp_tm_taskmeta: finishing file(s) (2, 0.4 KB)
+0068.741 (0) Table wp_tm_tasks: Total expected rows (via COUNT): 0
+0068.826 (0) Table wp_tm_tasks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=875) in 0.09 seconds
+0068.952 (0) Table wp_tm_tasks: finishing file(s) (2, 0.4 KB)
+0069.038 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0069.136 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=739) in 0.10 seconds
+0069.328 (0) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+0069.415 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0069.454 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1206) in 0.04 seconds
+0069.584 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0069.701 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0069.739 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1018) in 0.08 seconds
+0069.894 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.4 KB)
+0069.981 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0070.020 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=941) in 0.04 seconds
+0070.213 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0070.287 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0070.326 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1418) in 0.04 seconds
+0070.431 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0070.560 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0070.602 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=706) in 0.09 seconds
+0070.769 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0070.899 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0070.983 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=759) in 0.13 seconds
+0071.237 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0071.324 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 0
+0071.405 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=727) in 0.08 seconds
+0071.527 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0071.644 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0071.720 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=786) in 0.12 seconds
+0071.891 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0071.969 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0072.047 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=825) in 0.08 seconds
+0072.230 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0072.304 (0) Table wp_woocommerce_sessions: Total expected rows (approximate): 1
+0072.344 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 1000): 1 (uncompressed bytes in this segment=2117) in 0.04 seconds
+0072.448 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 0.8 KB)
+0072.551 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0072.695 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=862) in 0.14 seconds
+0075.750 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0075.825 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0075.864 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=767) in 0.04 seconds
+0075.985 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0076.063 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0076.106 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=625) in 0.04 seconds
+0076.232 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0076.302 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0076.333 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=836) in 0.03 seconds
+0076.525 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0076.612 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0076.652 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1277) in 0.04 seconds
+0076.777 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0076.819 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_options.table.tmpr18935.gz (1/69/fopen): adding to final database dump
+0076.867 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_options.table.gz (2/69/fopen): adding to final database dump
+0076.909 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_users.table.tmpr4.gz (3/69/fopen): adding to final database dump
+0076.951 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_users.table.gz (4/69/fopen): adding to final database dump
+0076.994 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_usermeta.table.tmpr89.gz (5/69/fopen): adding to final database dump
+0077.036 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_usermeta.table.gz (6/69/fopen): adding to final database dump
+0077.078 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_commentmeta.table.tmpr0.gz (7/69/fopen): adding to final database dump
+0077.120 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_commentmeta.table.gz (8/69/fopen): adding to final database dump
+0077.161 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_comments.table.tmpr5.gz (9/69/fopen): adding to final database dump
+0077.203 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_comments.table.gz (10/69/fopen): adding to final database dump
+0077.245 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_links.table.tmpr0.gz (11/69/fopen): adding to final database dump
+0077.287 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_links.table.gz (12/69/fopen): adding to final database dump
+0077.329 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_postmeta.table.tmpr10447.gz (13/69/fopen): adding to final database dump
+0077.374 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_postmeta.table.gz (14/69/fopen): adding to final database dump
+0077.454 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_posts.table.tmpr4675.gz (15/69/fopen): adding to final database dump
+0077.534 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_posts.table.gz (16/69/fopen): adding to final database dump
+0077.596 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_term_relationships.table.tmpr100001.gz (17/69/fopen): adding to final database dump
+0077.638 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_term_relationships.table.gz (18/69/fopen): adding to final database dump
+0077.680 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_term_taxonomy.table.tmpr96.gz (19/69/fopen): adding to final database dump
+0077.722 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_term_taxonomy.table.gz (20/69/fopen): adding to final database dump
+0077.764 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_termmeta.table.tmpr21.gz (21/69/fopen): adding to final database dump
+0077.806 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_termmeta.table.gz (22/69/fopen): adding to final database dump
+0077.847 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_terms.table.tmpr96.gz (23/69/fopen): adding to final database dump
+0077.887 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_terms.table.gz (24/69/fopen): adding to final database dump
+0077.929 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_duplicator_pro_entities.table.tmpr6.gz (25/69/fopen): adding to final database dump
+0077.971 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_duplicator_pro_entities.table.gz (26/69/fopen): adding to final database dump
+0078.013 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_duplicator_pro_packages.table.tmpr0.gz (27/69/fopen): adding to final database dump
+0078.055 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_duplicator_pro_packages.table.gz (28/69/fopen): adding to final database dump
+0078.096 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_event_hours.table.tmpr590.gz (29/69/fopen): adding to final database dump
+0078.138 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_event_hours.table.gz (30/69/fopen): adding to final database dump
+0078.189 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_event_hours_booking.table.tmpr0.gz (31/69/fopen): adding to final database dump
+0078.231 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_event_hours_booking.table.gz (32/69/fopen): adding to final database dump
+0078.272 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_content_status.table.tmpr0.gz (33/69/fopen): adding to final database dump
+0078.308 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_content_status.table.gz (34/69/fopen): adding to final database dump
+0078.341 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_core_status.table.tmpr0.gz (35/69/fopen): adding to final database dump
+0078.383 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_core_status.table.gz (36/69/fopen): adding to final database dump
+0078.467 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_flags.table.tmpr64.gz (37/69/fopen): adding to final database dump
+0078.517 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_flags.table.gz (38/69/fopen): adding to final database dump
+0078.550 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_languages.table.tmpr64.gz (39/69/fopen): adding to final database dump
+0078.592 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_languages.table.gz (40/69/fopen): adding to final database dump
+0078.634 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_languages_translations.table.tmpr3970.gz (41/69/fopen): adding to final database dump
+0078.677 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_languages_translations.table.gz (42/69/fopen): adding to final database dump
+0078.718 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_locale_map.table.tmpr1001.gz (43/69/fopen): adding to final database dump
+0078.760 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_locale_map.table.gz (44/69/fopen): adding to final database dump
+0078.801 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_message_status.table.tmpr0.gz (45/69/fopen): adding to final database dump
+0078.843 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_message_status.table.gz (46/69/fopen): adding to final database dump
+0078.883 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_node.table.tmpr0.gz (47/69/fopen): adding to final database dump
+0078.927 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_node.table.gz (48/69/fopen): adding to final database dump
+0078.966 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_reminders.table.tmpr0.gz (49/69/fopen): adding to final database dump
+0079.009 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_reminders.table.gz (50/69/fopen): adding to final database dump
+0079.050 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_string_positions.table.tmpr0.gz (51/69/fopen): adding to final database dump
+0079.092 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_string_positions.table.gz (52/69/fopen): adding to final database dump
+0079.134 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_string_status.table.tmpr0.gz (53/69/fopen): adding to final database dump
+0079.178 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_string_status.table.gz (54/69/fopen): adding to final database dump
+0079.220 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_string_translations.table.tmpr0.gz (55/69/fopen): adding to final database dump
+0079.261 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_string_translations.table.gz (56/69/fopen): adding to final database dump
+0079.303 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_strings.table.tmpr0.gz (57/69/fopen): adding to final database dump
+0079.345 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_strings.table.gz (58/69/fopen): adding to final database dump
+0079.393 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_translate.table.tmpr0.gz (59/69/fopen): adding to final database dump
+0079.470 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_translate.table.gz (60/69/fopen): adding to final database dump
+0079.537 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_translate_job.table.tmpr0.gz (61/69/fopen): adding to final database dump
+0079.579 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_translate_job.table.gz (62/69/fopen): adding to final database dump
+0079.621 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_translation_batches.table.tmpr0.gz (63/69/fopen): adding to final database dump
+0079.663 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_translation_batches.table.gz (64/69/fopen): adding to final database dump
+0079.705 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_translation_status.table.tmpr3.gz (65/69/fopen): adding to final database dump
+0079.747 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_translation_status.table.gz (66/69/fopen): adding to final database dump
+0079.788 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_translations.table.tmpr734.gz (67/69/fopen): adding to final database dump
+0079.830 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_icl_translations.table.gz (68/69/fopen): adding to final database dump
+0079.872 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_nextend2_image_storage.table.tmpr38.gz (69/69/fopen): adding to final database dump
+0079.914 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_nextend2_image_storage.table.gz (70/69/fopen): adding to final database dump
+0079.956 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_nextend2_section_storage.table.tmpr12273.gz (71/69/fopen): adding to final database dump
+0079.998 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_nextend2_section_storage.table.gz (72/69/fopen): adding to final database dump
+0080.039 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_nextend2_smartslider3_generators.table.tmpr0.gz (73/69/fopen): adding to final database dump
+0080.081 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_nextend2_smartslider3_generators.table.gz (74/69/fopen): adding to final database dump
+0080.120 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_nextend2_smartslider3_sliders.table.tmpr5.gz (75/69/fopen): adding to final database dump
+0080.162 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_nextend2_smartslider3_sliders.table.gz (76/69/fopen): adding to final database dump
+0080.213 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_nextend2_smartslider3_sliders_xref.table.tmpr1.gz (77/69/fopen): adding to final database dump
+0080.254 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_nextend2_smartslider3_sliders_xref.table.gz (78/69/fopen): adding to final database dump
+0080.296 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_nextend2_smartslider3_slides.table.tmpr36.gz (79/69/fopen): adding to final database dump
+0080.338 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_nextend2_smartslider3_slides.table.gz (80/69/fopen): adding to final database dump
+0080.388 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_redirection_404.table.tmpr208.gz (81/69/fopen): adding to final database dump
+0080.472 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_redirection_404.table.gz (82/69/fopen): adding to final database dump
+0080.530 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_redirection_groups.table.tmpr3.gz (83/69/fopen): adding to final database dump
+0080.573 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_redirection_groups.table.gz (84/69/fopen): adding to final database dump
+0080.614 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_redirection_items.table.tmpr28.gz (85/69/fopen): adding to final database dump
+0080.650 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_redirection_items.table.gz (86/69/fopen): adding to final database dump
+0080.727 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_redirection_logs.table.tmpr0.gz (87/69/fopen): adding to final database dump
+0080.859 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_redirection_logs.table.gz (88/69/fopen): adding to final database dump
+0080.893 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_revslider_css.table.tmpr122.gz (89/69/fopen): adding to final database dump
+0080.935 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_revslider_css.table.gz (90/69/fopen): adding to final database dump
+0080.976 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_revslider_layer_animations.table.tmpr0.gz (91/69/fopen): adding to final database dump
+0081.018 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_revslider_layer_animations.table.gz (92/69/fopen): adding to final database dump
+0081.060 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_revslider_navigations.table.tmpr3.gz (93/69/fopen): adding to final database dump
+0081.102 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_revslider_navigations.table.gz (94/69/fopen): adding to final database dump
+0081.143 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_revslider_sliders.table.tmpr6.gz (95/69/fopen): adding to final database dump
+0081.185 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_revslider_sliders.table.gz (96/69/fopen): adding to final database dump
+0081.225 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_revslider_slides.table.tmpr14.gz (97/69/fopen): adding to final database dump
+0081.267 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_revslider_slides.table.gz (98/69/fopen): adding to final database dump
+0081.308 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_revslider_static_slides.table.tmpr2.gz (99/69/fopen): adding to final database dump
+0081.394 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_revslider_static_slides.table.gz (100/69/fopen): adding to final database dump
+0081.453 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_smush_dir_images.table.tmpr0.gz (101/69/fopen): adding to final database dump
+0081.511 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_smush_dir_images.table.gz (102/69/fopen): adding to final database dump
+0081.553 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_tm_taskmeta.table.tmpr0.gz (103/69/fopen): adding to final database dump
+0081.595 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_tm_taskmeta.table.gz (104/69/fopen): adding to final database dump
+0081.637 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_tm_tasks.table.tmpr0.gz (105/69/fopen): adding to final database dump
+0081.679 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_tm_tasks.table.gz (106/69/fopen): adding to final database dump
+0081.720 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_wc_download_log.table.tmpr0.gz (107/69/fopen): adding to final database dump
+0081.762 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_wc_download_log.table.gz (108/69/fopen): adding to final database dump
+0081.852 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_wc_webhooks.table.tmpr0.gz (109/69/fopen): adding to final database dump
+0081.896 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_wc_webhooks.table.gz (110/69/fopen): adding to final database dump
+0081.938 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (111/69/fopen): adding to final database dump
+0081.980 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_api_keys.table.gz (112/69/fopen): adding to final database dump
+0082.021 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (113/69/fopen): adding to final database dump
+0082.072 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_attribute_taxonomies.table.gz (114/69/fopen): adding to final database dump
+0082.113 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (115/69/fopen): adding to final database dump
+0082.155 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (116/69/fopen): adding to final database dump
+0082.197 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_log.table.tmpr0.gz (117/69/fopen): adding to final database dump
+0082.239 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_log.table.gz (118/69/fopen): adding to final database dump
+0082.281 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_order_itemmeta.table.tmpr0.gz (119/69/fopen): adding to final database dump
+0082.323 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_order_itemmeta.table.gz (120/69/fopen): adding to final database dump
+0082.364 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_order_items.table.tmpr0.gz (121/69/fopen): adding to final database dump
+0082.448 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_order_items.table.gz (122/69/fopen): adding to final database dump
+0082.504 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (123/69/fopen): adding to final database dump
+0082.546 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_payment_tokenmeta.table.gz (124/69/fopen): adding to final database dump
+0082.588 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (125/69/fopen): adding to final database dump
+0082.629 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_payment_tokens.table.gz (126/69/fopen): adding to final database dump
+0082.671 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_sessions.table.tmpr1001.gz (127/69/fopen): adding to final database dump
+0082.713 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_sessions.table.gz (128/69/fopen): adding to final database dump
+0082.755 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr0.gz (129/69/fopen): adding to final database dump
+0082.797 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_shipping_zone_locations.table.gz (130/69/fopen): adding to final database dump
+0082.838 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr0.gz (131/69/fopen): adding to final database dump
+0082.880 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_shipping_zone_methods.table.gz (132/69/fopen): adding to final database dump
+0082.922 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_shipping_zones.table.tmpr0.gz (133/69/fopen): adding to final database dump
+0082.959 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_shipping_zones.table.gz (134/69/fopen): adding to final database dump
+0082.993 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (135/69/fopen): adding to final database dump
+0083.026 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_tax_rate_locations.table.gz (136/69/fopen): adding to final database dump
+0083.059 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (137/69/fopen): adding to final database dump
+0083.093 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db-table-wp_woocommerce_tax_rates.table.gz (138/69/fopen): adding to final database dump
+0083.133 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db.gz: finished writing out complete database file (672.4 KB)
+0083.333 (0) Total database tables backed up: 69 (backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db.gz, size: 688627, sha1: fe1cbd6041bad109195c44735b3709782a1c7cb8, sha256: 7a32e9f73868084f6352bfd5fe13d77fe92260829cb0803fe7356e57ca910427)
+0083.575 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0083.620 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0083.662 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0083.704 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-others.zip: others: This file has not yet been successfully uploaded: will queue
+0083.745 (0) backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db.gz: db: This file has not yet been successfully uploaded: will queue
+0083.787 (0) Saving backup history. Total backup size: 355.2 MB
+0083.871 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0083.996 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0084.038 (0) No remote despatch: user chose no remote backup service
+0084.088 (0) Recording as successfully uploaded: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip
+0084.171 (0) Deleting zip manifest (backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-plugins.zip.list.tmp)
+0084.214 (0) Recording as successfully uploaded: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip
+0084.297 (0) Deleting zip manifest (backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-themes.zip.list.tmp)
+0084.339 (0) Recording as successfully uploaded: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip
+0084.457 (0) Deleting zip manifest (backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-uploads.zip.list.tmp)
+0084.523 (0) Recording as successfully uploaded: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-others.zip
+0084.607 (0) Deleting zip manifest (backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-others.zip.list.tmp)
+0084.649 (0) Recording as successfully uploaded: backup_2022-03-19-0242_St_Paul039s_College_1e24fda88692-db.gz
+0084.771 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0084.814 (0) Number of backup sets in history: 3; groups (db): 1
+0084.855 (0) Examining (for databases) backup set with group_id=0, nonce=1e24fda88692, datestamp=1647657743 (Mar 19 2022 02:42:23)
+0084.896 (0) This backup set is the backup set just made, so will not be deleted.
+0084.897 (0) Examining (for databases) backup set with group_id=0, nonce=b37869439deb, datestamp=1647135759 (Mar 13 2022 01:42:39)
+0084.897 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0084.938 (0) Examining (for databases) backup set with group_id=0, nonce=2ec7f1dca0b8, datestamp=1646530942 (Mar 06 2022 01:42:22)
+0084.938 (0) 1646530942: db: this set includes a database (backup_2022-03-06-0142_St_Paul039s_College_2ec7f1dca0b8-db.gz); db count is now 2
+0084.938 (0) 1646530942: db: over retain limit (2); will delete this database
+0084.938 (0) Delete file: backup_2022-03-06-0142_St_Paul039s_College_2ec7f1dca0b8-db.gz, service=none
+0084.980 (0) Deleting local copy (backup_2022-03-06-0142_St_Paul039s_College_2ec7f1dca0b8-db.gz)
+0085.064 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0085.101 (0) Number of backup sets in history: 3; groups (files): 1
+0085.139 (0) Examining (for files) backup set with nonce=1e24fda88692, datestamp=1647657743 (Mar 19 2022 02:42:23)
+0085.139 (0) This backup set is the backup set just made, so will not be deleted.
+0085.176 (0) This backup set is the backup set just made, so will not be deleted.
+0085.176 (0) This backup set is the backup set just made, so will not be deleted.
+0085.176 (0) This backup set is the backup set just made, so will not be deleted.
+0085.177 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0085.214 (0) Examining (for files) backup set with nonce=b37869439deb, datestamp=1647135759 (Mar 13 2022 01:42:39)
+0085.214 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0085.215 (0) Examining (for files) backup set with nonce=2ec7f1dca0b8, datestamp=1646530942 (Mar 06 2022 01:42:22)
+0085.215 (0) plugins: over retain limit (2); will delete this file entity
+0085.215 (0) themes: over retain limit (2); will delete this file entity
+0085.215 (0) uploads: over retain limit (2); will delete this file entity
+0085.215 (0) others: over retain limit (2); will delete this file entity
+0085.215 (0) Delete file: backup_2022-03-06-0142_St_Paul039s_College_2ec7f1dca0b8-plugins.zip, service=none
+0085.256 (0) Deleting local copy (backup_2022-03-06-0142_St_Paul039s_College_2ec7f1dca0b8-plugins.zip)
+0085.333 (0) Delete file: backup_2022-03-06-0142_St_Paul039s_College_2ec7f1dca0b8-themes.zip, service=none
+0085.369 (0) Deleting local copy (backup_2022-03-06-0142_St_Paul039s_College_2ec7f1dca0b8-themes.zip)
+0085.460 (0) Delete file: backup_2022-03-06-0142_St_Paul039s_College_2ec7f1dca0b8-uploads.zip, service=none
+0085.511 (0) Deleting local copy (backup_2022-03-06-0142_St_Paul039s_College_2ec7f1dca0b8-uploads.zip)
+0085.589 (0) Delete file: backup_2022-03-06-0142_St_Paul039s_College_2ec7f1dca0b8-others.zip, service=none
+0085.634 (0) Deleting local copy (backup_2022-03-06-0142_St_Paul039s_College_2ec7f1dca0b8-others.zip)
+0085.729 (0) This backup set is now empty; will remove from history
+0085.771 (0) Deleting log file (log.2ec7f1dca0b8.txt)
+0085.853 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0086.264 (0) Resume backup (1e24fda88692, 0): finish run
+0086.460 (0) Decremented the semaphore (fd) by 1
+0086.560 (0) Semaphore (fd) unlocked
+0086.602 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0086.731 (0) The backup apparently succeeded and is now complete
+0086.773 (0) No email will/can be sent - the user has not configured an email address.
+0086.815 (0) Aparentemente, la copia de seguridad ha sido correcta y ahora está completa

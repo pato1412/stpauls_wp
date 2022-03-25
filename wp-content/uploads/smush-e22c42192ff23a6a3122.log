@@ -1,0 +1,52 @@
+[2020-03-04 12:35:34 : INFO] - Re_Smush_It_Task with attachment ID : 4454, autocreated on : March 04, 2020 12:35:34 
+[2020-03-04 12:40:54 : INFO] - 
+ 
+[2020-03-04 12:40:54 : INFO] - Header for logs at time:  Wed, 04 Mar 2020 12:40:54 +0000 on https://chapalcaz.com.ar 
+[2020-03-04 12:40:54 : INFO] - WP: 5.3.2 
+[2020-03-04 12:40:54 : INFO] - PHP: 7.2.28 (fpm-fcgi, Linux server.suryweb.com.ar 2.6.32-042stab123.3 #1 SMP Fri May 5 12:29:05 MSK 2017 x86_64) 
+[2020-03-04 12:40:54 : INFO] - MySQL: 5.5.5 
+[2020-03-04 12:40:54 : INFO] - WPLANG: es_ES 
+[2020-03-04 12:40:54 : INFO] - Server: Apache 
+[2020-03-04 12:40:54 : INFO] - Outbound connections: N 
+[2020-03-04 12:40:54 : INFO] - safe_mode: 0 
+[2020-03-04 12:40:54 : INFO] - max_execution_time: 180 
+[2020-03-04 12:40:54 : INFO] - memory_limit: 128M (used: 57.4M | 60M) 
+[2020-03-04 12:40:54 : INFO] - multisite: N 
+[2020-03-04 12:40:54 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-04 12:40:54 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-03-04 12:40:54 : INFO] - Set semaphore last lock (smush) time to 2020-03-04 12:40:54 
+[2020-03-04 12:40:54 : INFO] - Semaphore lock (smush) complete 
+[2020-03-04 12:40:54 : INFO] - Processing task with ID : 370, and type 'smush' 
+[2020-03-04 12:40:54 : INFO] - Re_Smush_It_Task with attachment ID : 4454, autocreated on : March 04, 2020 12:35:34 
+[2020-03-04 12:40:54 : INFO] - 100 
+[2020-03-04 12:40:56 : INFO] - Backing up the original image - 2020/03/logoapaisado1a-updraft-pre-smush-original.jpg 
+[2020-03-04 12:40:56 : INFO] - Re_Smush_It_Task with attachment ID : 4454, autocreated on : March 04, 2020 12:35:34 
+[2020-03-04 12:40:56 : INFO] - 100 
+[2020-03-04 12:40:57 : INFO] - Re_Smush_It_Task with attachment ID : 4454, autocreated on : March 04, 2020 12:35:34 
+[2020-03-04 12:40:57 : INFO] - 100 
+[2020-03-04 12:40:59 : INFO] - Re_Smush_It_Task with attachment ID : 4454, autocreated on : March 04, 2020 12:35:34 
+[2020-03-04 12:40:59 : INFO] - 100 
+[2020-03-04 12:41:01 : INFO] - Re_Smush_It_Task with attachment ID : 4454, autocreated on : March 04, 2020 12:35:34 
+[2020-03-04 12:41:01 : INFO] - 100 
+[2020-03-04 12:41:03 : INFO] - Successfully optimized the image - /home/cazchapalcom/public_html/wp-content/uploads/2020/03/logoapaisado1a.jpg.El archivo ha sido comprimido de 50.65 KB a 48.25 KB ahorrando un 4.75 por ciento utilizando WP-Optimize 
+[2020-03-04 12:41:03 : INFO] - Completed processing task with ID : 370, and type 'smush' 
+[2020-03-04 12:41:03 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-03-04 12:41:03 : INFO] - Semaphore (smush) unlocked 
+[2020-03-04 12:41:03 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-03-04 12:41:03 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-03-04 12:41:03 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-03-04 12:51:03 : INFO] - 
+ 
+[2020-03-04 12:51:03 : INFO] - Header for logs at time:  Wed, 04 Mar 2020 12:51:03 +0000 on https://chapalcaz.com.ar 
+[2020-03-04 12:51:03 : INFO] - WP: 5.3.2 
+[2020-03-04 12:51:03 : INFO] - PHP: 7.2.28 (fpm-fcgi, Linux server.suryweb.com.ar 2.6.32-042stab123.3 #1 SMP Fri May 5 12:29:05 MSK 2017 x86_64) 
+[2020-03-04 12:51:03 : INFO] - MySQL: 5.5.5 
+[2020-03-04 12:51:03 : INFO] - WPLANG: es_ES 
+[2020-03-04 12:51:03 : INFO] - Server: Apache 
+[2020-03-04 12:51:03 : INFO] - Outbound connections: N 
+[2020-03-04 12:51:03 : INFO] - safe_mode: 0 
+[2020-03-04 12:51:03 : INFO] - max_execution_time: 180 
+[2020-03-04 12:51:03 : INFO] - memory_limit: 128M (used: 57.5M | 60M) 
+[2020-03-04 12:51:03 : INFO] - multisite: N 
+[2020-03-04 12:51:03 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2020-03-04 12:51:03 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

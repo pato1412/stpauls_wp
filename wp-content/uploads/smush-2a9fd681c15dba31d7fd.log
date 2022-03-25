@@ -1,0 +1,1780 @@
+[2020-08-31 17:37:58 : INFO] - Re_Smush_It_Task with attachment ID : 4465, autocreated on : August 31, 2020 05:37:58 
+[2020-08-31 17:43:01 : INFO] - 
+ 
+[2020-08-31 17:43:01 : INFO] - Header for logs at time:  Mon, 31 Aug 2020 17:43:01 +0000 on http://test.stpauls.edu.ar 
+[2020-08-31 17:43:01 : INFO] - WP: 5.4.2 
+[2020-08-31 17:43:01 : INFO] - PHP: 7.2.33 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2020-08-31 17:43:01 : INFO] - MySQL: 5.7.31 
+[2020-08-31 17:43:01 : INFO] - WPLANG: es_ES 
+[2020-08-31 17:43:01 : INFO] - Server: Apache 
+[2020-08-31 17:43:01 : INFO] - Outbound connections: N 
+[2020-08-31 17:43:01 : INFO] - safe_mode: 0 
+[2020-08-31 17:43:01 : INFO] - max_execution_time: 30 
+[2020-08-31 17:43:01 : INFO] - memory_limit: 128M (used: 53.5M | 54.3M) 
+[2020-08-31 17:43:01 : INFO] - multisite: N 
+[2020-08-31 17:43:01 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-08-31 17:43:01 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2020-08-31 17:43:01 : INFO] - Set semaphore last lock (smush) time to 2020-08-31 17:43:01 
+[2020-08-31 17:43:01 : INFO] - Semaphore lock (smush) complete 
+[2020-08-31 17:43:01 : INFO] - Processing task with ID : 371, and type 'smush' 
+[2020-08-31 17:43:01 : INFO] - Task with ID 371 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2020/08/Himno.mp3 - cannot be optimized, it has an invalid file type 
+[2020-08-31 17:43:01 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-08-31 17:43:01 : INFO] - Semaphore (smush) unlocked 
+[2020-08-31 17:43:01 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2020-08-31 17:43:01 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-08-31 17:43:01 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2020-08-31 17:53:26 : INFO] - 
+ 
+[2020-08-31 17:53:26 : INFO] - Header for logs at time:  Mon, 31 Aug 2020 17:53:26 +0000 on http://test.stpauls.edu.ar 
+[2020-08-31 17:53:26 : INFO] - WP: 5.4.2 
+[2020-08-31 17:53:26 : INFO] - PHP: 7.2.33 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2020-08-31 17:53:26 : INFO] - MySQL: 5.7.31 
+[2020-08-31 17:53:26 : INFO] - WPLANG: es_ES 
+[2020-08-31 17:53:26 : INFO] - Server: Apache 
+[2020-08-31 17:53:26 : INFO] - Outbound connections: N 
+[2020-08-31 17:53:26 : INFO] - safe_mode: 0 
+[2020-08-31 17:53:26 : INFO] - max_execution_time: 30 
+[2020-08-31 17:53:26 : INFO] - memory_limit: 128M (used: 53.5M | 54.3M) 
+[2020-08-31 17:53:26 : INFO] - multisite: N 
+[2020-08-31 17:53:26 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-08-31 17:53:26 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-09-23 18:13:58 : INFO] - Re_Smush_It_Task with attachment ID : 4492, autocreated on : September 23, 2020 06:13:58 
+[2020-09-23 18:14:00 : INFO] - Re_Smush_It_Task with attachment ID : 4493, autocreated on : September 23, 2020 06:14:00 
+[2020-09-23 18:14:03 : INFO] - Re_Smush_It_Task with attachment ID : 4494, autocreated on : September 23, 2020 06:14:03 
+[2020-09-23 18:14:06 : INFO] - Re_Smush_It_Task with attachment ID : 4495, autocreated on : September 23, 2020 06:14:06 
+[2020-09-23 18:14:07 : INFO] - Re_Smush_It_Task with attachment ID : 4496, autocreated on : September 23, 2020 06:14:07 
+[2020-09-23 18:14:11 : INFO] - Re_Smush_It_Task with attachment ID : 4497, autocreated on : September 23, 2020 06:14:11 
+[2020-09-23 18:14:14 : INFO] - Re_Smush_It_Task with attachment ID : 4498, autocreated on : September 23, 2020 06:14:14 
+[2020-09-23 18:14:16 : INFO] - Re_Smush_It_Task with attachment ID : 4499, autocreated on : September 23, 2020 06:14:16 
+[2020-09-23 18:14:18 : INFO] - Re_Smush_It_Task with attachment ID : 4500, autocreated on : September 23, 2020 06:14:18 
+[2020-09-23 18:14:20 : INFO] - Re_Smush_It_Task with attachment ID : 4501, autocreated on : September 23, 2020 06:14:20 
+[2020-09-23 18:19:17 : INFO] - 
+ 
+[2020-09-23 18:19:17 : INFO] - Header for logs at time:  Wed, 23 Sep 2020 18:19:17 +0000 on http://test.stpauls.edu.ar 
+[2020-09-23 18:19:17 : INFO] - WP: 5.5.1 
+[2020-09-23 18:19:17 : INFO] - PHP: 7.2.33 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2020-09-23 18:19:17 : INFO] - MySQL: 5.7.31 
+[2020-09-23 18:19:17 : INFO] - WPLANG: es_ES 
+[2020-09-23 18:19:17 : INFO] - Server: Apache 
+[2020-09-23 18:19:17 : INFO] - Outbound connections: N 
+[2020-09-23 18:19:17 : INFO] - safe_mode: 0 
+[2020-09-23 18:19:17 : INFO] - max_execution_time: 30 
+[2020-09-23 18:19:17 : INFO] - memory_limit: 256M (used: 48.5M | 50.3M) 
+[2020-09-23 18:19:17 : INFO] - multisite: N 
+[2020-09-23 18:19:17 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-09-23 18:19:17 : INFO] - A total of 10 tasks of type smush found and will be processed in this iteration 
+[2020-09-23 18:19:17 : INFO] - Set semaphore last lock (smush) time to 2020-09-23 18:19:17 
+[2020-09-23 18:19:17 : INFO] - Semaphore lock (smush) complete 
+[2020-09-23 18:19:17 : INFO] - Processing task with ID : 372, and type 'smush' 
+[2020-09-23 18:19:17 : INFO] - Task with ID 372 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2020/09/Anexos-KIN-2020.pdf - cannot be optimized, it has an invalid file type 
+[2020-09-23 18:19:17 : INFO] - Processing task with ID : 373, and type 'smush' 
+[2020-09-23 18:19:17 : INFO] - Task with ID 373 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2020/09/Anexos-SEC-2020.pdf - cannot be optimized, it has an invalid file type 
+[2020-09-23 18:19:17 : INFO] - Processing task with ID : 374, and type 'smush' 
+[2020-09-23 18:19:17 : INFO] - Task with ID 374 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2020/09/Anexos-PRI-2020.pdf - cannot be optimized, it has an invalid file type 
+[2020-09-23 18:19:17 : INFO] - Processing task with ID : 375, and type 'smush' 
+[2020-09-23 18:19:17 : INFO] - Task with ID 375 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2020/09/Lista-de-materiales-y-libros-de-verano-2020.pdf - cannot be optimized, it has an invalid file type 
+[2020-09-23 18:19:17 : INFO] - Processing task with ID : 376, and type 'smush' 
+[2020-09-23 18:19:17 : INFO] - Task with ID 376 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2020/09/3.-LIBROS-EGB1-Y-2-FEBRERO-CICLO-LECTIVO-2020.pdf - cannot be optimized, it has an invalid file type 
+[2020-09-23 18:19:17 : INFO] - Processing task with ID : 377, and type 'smush' 
+[2020-09-23 18:19:18 : INFO] - Task with ID 377 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2020/09/03_marzo2020.pdf - cannot be optimized, it has an invalid file type 
+[2020-09-23 18:19:18 : INFO] - Processing task with ID : 378, and type 'smush' 
+[2020-09-23 18:19:18 : INFO] - Task with ID 378 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2020/09/02_febrero2020.pdf - cannot be optimized, it has an invalid file type 
+[2020-09-23 18:19:18 : INFO] - Processing task with ID : 379, and type 'smush' 
+[2020-09-23 18:19:18 : INFO] - Task with ID 379 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2020/09/Handbook-SEC-2020.pdf - cannot be optimized, it has an invalid file type 
+[2020-09-23 18:19:18 : INFO] - Processing task with ID : 380, and type 'smush' 
+[2020-09-23 18:19:18 : INFO] - Task with ID 380 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2020/09/Handbook-PRI-2020.pdf - cannot be optimized, it has an invalid file type 
+[2020-09-23 18:19:18 : INFO] - Processing task with ID : 381, and type 'smush' 
+[2020-09-23 18:19:18 : INFO] - Task with ID 381 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2020/09/Handbook-KIN-2020.pdf - cannot be optimized, it has an invalid file type 
+[2020-09-23 18:19:18 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-09-23 18:19:18 : INFO] - Semaphore (smush) unlocked 
+[2020-09-23 18:19:18 : INFO] - Successfully processed the queue (smush). 10 tasks were processed out of 10. 
+[2020-09-23 18:19:18 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-09-23 18:19:18 : INFO] - Cleaning up tasks of type (smush). A total of 10 tasks will be deleted. 
+[2020-09-23 18:29:25 : INFO] - 
+ 
+[2020-09-23 18:29:25 : INFO] - Header for logs at time:  Wed, 23 Sep 2020 18:29:25 +0000 on http://test.stpauls.edu.ar 
+[2020-09-23 18:29:25 : INFO] - WP: 5.5.1 
+[2020-09-23 18:29:25 : INFO] - PHP: 7.2.33 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2020-09-23 18:29:25 : INFO] - MySQL: 5.7.31 
+[2020-09-23 18:29:25 : INFO] - WPLANG: es_ES 
+[2020-09-23 18:29:25 : INFO] - Server: Apache 
+[2020-09-23 18:29:25 : INFO] - Outbound connections: N 
+[2020-09-23 18:29:25 : INFO] - safe_mode: 0 
+[2020-09-23 18:29:25 : INFO] - max_execution_time: 30 
+[2020-09-23 18:29:25 : INFO] - memory_limit: 256M (used: 48.5M | 50.3M) 
+[2020-09-23 18:29:25 : INFO] - multisite: N 
+[2020-09-23 18:29:25 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-09-23 18:29:25 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2020-09-23 19:58:56 : INFO] - Re_Smush_It_Task with attachment ID : 4515, autocreated on : September 23, 2020 07:58:56 
+[2020-09-23 19:58:58 : INFO] - Re_Smush_It_Task with attachment ID : 4516, autocreated on : September 23, 2020 07:58:58 
+[2020-09-23 19:59:01 : INFO] - Re_Smush_It_Task with attachment ID : 4517, autocreated on : September 23, 2020 07:59:01 
+[2020-09-23 20:03:56 : INFO] - 
+ 
+[2020-09-23 20:03:56 : INFO] - Header for logs at time:  Wed, 23 Sep 2020 20:03:56 +0000 on http://test.stpauls.edu.ar 
+[2020-09-23 20:03:56 : INFO] - WP: 5.5.1 
+[2020-09-23 20:03:56 : INFO] - PHP: 7.2.33 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2020-09-23 20:03:56 : INFO] - MySQL: 5.7.31 
+[2020-09-23 20:03:56 : INFO] - WPLANG: es_ES 
+[2020-09-23 20:03:56 : INFO] - Server: Apache 
+[2020-09-23 20:03:56 : INFO] - Outbound connections: N 
+[2020-09-23 20:03:56 : INFO] - safe_mode: 0 
+[2020-09-23 20:03:56 : INFO] - max_execution_time: 30 
+[2020-09-23 20:03:56 : INFO] - memory_limit: 256M (used: 48.5M | 50.3M) 
+[2020-09-23 20:03:56 : INFO] - multisite: N 
+[2020-09-23 20:03:56 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-09-23 20:03:56 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2020-09-23 20:03:57 : INFO] - Set semaphore last lock (smush) time to 2020-09-23 20:03:57 
+[2020-09-23 20:03:57 : INFO] - Semaphore lock (smush) complete 
+[2020-09-23 20:03:57 : INFO] - Processing task with ID : 384, and type 'smush' 
+[2020-09-23 20:03:57 : INFO] - Re_Smush_It_Task with attachment ID : 4517, autocreated on : September 23, 2020 07:59:01 
+[2020-09-23 20:03:57 : INFO] - 100 
+[2020-09-23 20:03:57 : INFO] - Backing up the original image - 2020/09/Handbook-KINDER-2020A-updraft-pre-smush-original.jpg 
+[2020-09-23 20:03:57 : INFO] - Re_Smush_It_Task with attachment ID : 4517, autocreated on : September 23, 2020 07:59:01 
+[2020-09-23 20:03:57 : INFO] - 100 
+[2020-09-23 20:03:58 : INFO] - Re_Smush_It_Task with attachment ID : 4517, autocreated on : September 23, 2020 07:59:01 
+[2020-09-23 20:03:58 : INFO] - 100 
+[2020-09-23 20:03:59 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2020/09/Handbook-KINDER-2020A.jpg.El archivo ha sido comprimido de 28.66 KB a 27.32 KB ahorrando un 4.69 por ciento utilizando WP-Optimize 
+[2020-09-23 20:03:59 : INFO] - Completed processing task with ID : 384, and type 'smush' 
+[2020-09-23 20:03:59 : INFO] - Processing task with ID : 383, and type 'smush' 
+[2020-09-23 20:03:59 : INFO] - Re_Smush_It_Task with attachment ID : 4516, autocreated on : September 23, 2020 07:58:58 
+[2020-09-23 20:03:59 : INFO] - 100 
+[2020-09-23 20:04:00 : INFO] - Backing up the original image - 2020/09/Handbook-PRIMARIA-2020A-updraft-pre-smush-original.jpg 
+[2020-09-23 20:04:00 : INFO] - Re_Smush_It_Task with attachment ID : 4516, autocreated on : September 23, 2020 07:58:58 
+[2020-09-23 20:04:00 : INFO] - 100 
+[2020-09-23 20:04:01 : INFO] - Re_Smush_It_Task with attachment ID : 4516, autocreated on : September 23, 2020 07:58:58 
+[2020-09-23 20:04:01 : INFO] - 100 
+[2020-09-23 20:04:02 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2020/09/Handbook-PRIMARIA-2020A.jpg.El archivo ha sido comprimido de 27.64 KB a 26.10 KB ahorrando un 5.56 por ciento utilizando WP-Optimize 
+[2020-09-23 20:04:02 : INFO] - Completed processing task with ID : 383, and type 'smush' 
+[2020-09-23 20:04:02 : INFO] - Processing task with ID : 382, and type 'smush' 
+[2020-09-23 20:04:02 : INFO] - Re_Smush_It_Task with attachment ID : 4515, autocreated on : September 23, 2020 07:58:56 
+[2020-09-23 20:04:02 : INFO] - 100 
+[2020-09-23 20:04:03 : INFO] - Backing up the original image - 2020/09/Handbook-SECUNDARIAA-2020-updraft-pre-smush-original.jpg 
+[2020-09-23 20:04:03 : INFO] - Re_Smush_It_Task with attachment ID : 4515, autocreated on : September 23, 2020 07:58:56 
+[2020-09-23 20:04:03 : INFO] - 100 
+[2020-09-23 20:04:04 : INFO] - Re_Smush_It_Task with attachment ID : 4515, autocreated on : September 23, 2020 07:58:56 
+[2020-09-23 20:04:04 : INFO] - 100 
+[2020-09-23 20:04:04 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2020/09/Handbook-SECUNDARIAA-2020.jpg.El archivo ha sido comprimido de 28.31 KB a 26.92 KB ahorrando un 4.92 por ciento utilizando WP-Optimize 
+[2020-09-23 20:04:05 : INFO] - Completed processing task with ID : 382, and type 'smush' 
+[2020-09-23 20:04:05 : INFO] - Decremented the semaphore (smush) by 1 
+[2020-09-23 20:04:05 : INFO] - Semaphore (smush) unlocked 
+[2020-09-23 20:04:05 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2020-09-23 20:04:05 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2020-09-23 20:04:05 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2020-09-24 19:51:44 : INFO] - 
+ 
+[2020-09-24 19:51:44 : INFO] - Header for logs at time:  Thu, 24 Sep 2020 19:51:44 +0000 on http://test.stpauls.edu.ar 
+[2020-09-24 19:51:44 : INFO] - WP: 5.5.1 
+[2020-09-24 19:51:44 : INFO] - PHP: 7.2.33 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2020-09-24 19:51:44 : INFO] - MySQL: 5.7.31 
+[2020-09-24 19:51:44 : INFO] - WPLANG: es_ES 
+[2020-09-24 19:51:44 : INFO] - Server: Apache 
+[2020-09-24 19:51:44 : INFO] - Outbound connections: N 
+[2020-09-24 19:51:44 : INFO] - safe_mode: 0 
+[2020-09-24 19:51:44 : INFO] - max_execution_time: 30 
+[2020-09-24 19:51:44 : INFO] - memory_limit: 256M (used: 48.5M | 50.3M) 
+[2020-09-24 19:51:44 : INFO] - multisite: N 
+[2020-09-24 19:51:44 : INFO] - openssl: OpenSSL 1.1.1g  21 Apr 2020 
+[2020-09-24 19:51:44 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-08-20 12:14:47 : INFO] - Re_Smush_It_Task with attachment ID : 4547, autocreated on : August 20, 2021 12:14:47 
+[2021-08-20 12:14:51 : INFO] - Re_Smush_It_Task with attachment ID : 4548, autocreated on : August 20, 2021 12:14:51 
+[2021-08-20 12:14:55 : INFO] - Re_Smush_It_Task with attachment ID : 4549, autocreated on : August 20, 2021 12:14:55 
+[2021-08-20 12:14:58 : INFO] - Re_Smush_It_Task with attachment ID : 4550, autocreated on : August 20, 2021 12:14:58 
+[2021-08-20 12:15:02 : INFO] - Re_Smush_It_Task with attachment ID : 4551, autocreated on : August 20, 2021 12:15:02 
+[2021-08-20 12:19:57 : INFO] - 
+ 
+[2021-08-20 12:19:57 : INFO] - Header for logs at time:  Fri, 20 Aug 2021 12:19:57 +0000 on http://test.stpauls.edu.ar 
+[2021-08-20 12:19:57 : INFO] - WP: 5.8 
+[2021-08-20 12:19:57 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-08-20 12:19:57 : INFO] - MySQL: 5.7.35 
+[2021-08-20 12:19:57 : INFO] - WPLANG: es_ES 
+[2021-08-20 12:19:57 : INFO] - Server: Apache 
+[2021-08-20 12:19:57 : INFO] - Outbound connections: N 
+[2021-08-20 12:19:57 : INFO] - safe_mode: 0 
+[2021-08-20 12:19:57 : INFO] - max_execution_time: 30 
+[2021-08-20 12:19:57 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-08-20 12:19:57 : INFO] - multisite: N 
+[2021-08-20 12:19:57 : INFO] - openssl: OpenSSL 1.1.1k  25 Mar 2021 
+[2021-08-20 12:19:57 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2021-08-20 12:19:57 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 12:19:57 
+[2021-08-20 12:19:57 : INFO] - Semaphore lock (smush) complete 
+[2021-08-20 12:19:57 : INFO] - Processing task with ID : 388, and type 'smush' 
+[2021-08-20 12:19:57 : INFO] - Re_Smush_It_Task with attachment ID : 4550, autocreated on : August 20, 2021 12:14:58 
+[2021-08-20 12:19:57 : INFO] - 100 
+[2021-08-20 12:19:58 : INFO] - Backing up the original image - 2021/08/WhatsApp-Image-2021-04-14-at-3.51.48-PM-2-updraft-pre-smush-original.jpeg 
+[2021-08-20 12:19:58 : INFO] - Re_Smush_It_Task with attachment ID : 4550, autocreated on : August 20, 2021 12:14:58 
+[2021-08-20 12:19:58 : INFO] - 100 
+[2021-08-20 12:19:58 : INFO] - Re_Smush_It_Task with attachment ID : 4550, autocreated on : August 20, 2021 12:14:58 
+[2021-08-20 12:19:58 : INFO] - 100 
+[2021-08-20 12:20:02 : INFO] - Re_Smush_It_Task with attachment ID : 4550, autocreated on : August 20, 2021 12:14:58 
+[2021-08-20 12:20:02 : INFO] - 100 
+[2021-08-20 12:20:05 : INFO] - Re_Smush_It_Task with attachment ID : 4550, autocreated on : August 20, 2021 12:14:58 
+[2021-08-20 12:20:05 : INFO] - 100 
+[2021-08-20 12:20:08 : INFO] - Re_Smush_It_Task with attachment ID : 4550, autocreated on : August 20, 2021 12:14:58 
+[2021-08-20 12:20:08 : INFO] - 100 
+[2021-08-20 12:20:11 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/WhatsApp-Image-2021-04-14-at-3.51.48-PM-2.jpeg.El archivo ha sido comprimido de 68.84 KB a 68.84 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-08-20 12:20:11 : INFO] - Completed processing task with ID : 388, and type 'smush' 
+[2021-08-20 12:20:11 : INFO] - Processing task with ID : 386, and type 'smush' 
+[2021-08-20 12:20:11 : INFO] - Re_Smush_It_Task with attachment ID : 4548, autocreated on : August 20, 2021 12:14:51 
+[2021-08-20 12:20:11 : INFO] - 100 
+[2021-08-20 12:20:15 : INFO] - Backing up the original image - 2021/08/WhatsApp-Image-2021-04-14-at-3.51.47-PM-updraft-pre-smush-original.jpeg 
+[2021-08-20 12:20:15 : INFO] - Re_Smush_It_Task with attachment ID : 4548, autocreated on : August 20, 2021 12:14:51 
+[2021-08-20 12:20:15 : INFO] - 100 
+[2021-08-20 12:20:15 : INFO] - Re_Smush_It_Task with attachment ID : 4548, autocreated on : August 20, 2021 12:14:51 
+[2021-08-20 12:20:15 : INFO] - 100 
+[2021-08-20 12:20:16 : INFO] - Re_Smush_It_Task with attachment ID : 4548, autocreated on : August 20, 2021 12:14:51 
+[2021-08-20 12:20:16 : INFO] - 100 
+[2021-08-20 12:20:20 : INFO] - Re_Smush_It_Task with attachment ID : 4548, autocreated on : August 20, 2021 12:14:51 
+[2021-08-20 12:20:20 : INFO] - 100 
+[2021-08-20 12:20:25 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/WhatsApp-Image-2021-04-14-at-3.51.47-PM.jpeg.El archivo ha sido comprimido de 63.39 KB a 63.39 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-08-20 12:20:25 : INFO] - Completed processing task with ID : 386, and type 'smush' 
+[2021-08-20 12:20:25 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 12:20:25 
+[2021-08-20 12:20:25 : INFO] - Processing task with ID : 389, and type 'smush' 
+[2021-08-20 12:20:25 : INFO] - Re_Smush_It_Task with attachment ID : 4551, autocreated on : August 20, 2021 12:15:02 
+[2021-08-20 12:20:25 : INFO] - 100 
+[2021-08-20 12:20:30 : INFO] - Backing up the original image - 2021/08/WhatsApp-Image-2021-04-14-at-3.51.48-PM-updraft-pre-smush-original.jpeg 
+[2021-08-20 12:20:30 : INFO] - Re_Smush_It_Task with attachment ID : 4551, autocreated on : August 20, 2021 12:15:02 
+[2021-08-20 12:20:30 : INFO] - 100 
+[2021-08-20 12:20:30 : INFO] - Re_Smush_It_Task with attachment ID : 4551, autocreated on : August 20, 2021 12:15:02 
+[2021-08-20 12:20:30 : INFO] - 100 
+[2021-08-20 12:20:31 : INFO] - Re_Smush_It_Task with attachment ID : 4551, autocreated on : August 20, 2021 12:15:02 
+[2021-08-20 12:20:31 : INFO] - 100 
+[2021-08-20 12:20:34 : INFO] - Re_Smush_It_Task with attachment ID : 4551, autocreated on : August 20, 2021 12:15:02 
+[2021-08-20 12:20:34 : INFO] - 100 
+[2021-08-20 12:20:35 : INFO] - Re_Smush_It_Task with attachment ID : 4551, autocreated on : August 20, 2021 12:15:02 
+[2021-08-20 12:20:35 : INFO] - 100 
+[2021-08-20 12:20:36 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/WhatsApp-Image-2021-04-14-at-3.51.48-PM.jpeg.El archivo ha sido comprimido de 68.84 KB a 68.84 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-08-20 12:20:36 : INFO] - Completed processing task with ID : 389, and type 'smush' 
+[2021-08-20 12:20:36 : INFO] - Processing task with ID : 387, and type 'smush' 
+[2021-08-20 12:20:36 : INFO] - Re_Smush_It_Task with attachment ID : 4549, autocreated on : August 20, 2021 12:14:55 
+[2021-08-20 12:20:36 : INFO] - 100 
+[2021-08-20 12:20:37 : INFO] - Backing up the original image - 2021/08/WhatsApp-Image-2021-04-14-at-3.51.48-PM-1-updraft-pre-smush-original.jpeg 
+[2021-08-20 12:20:37 : INFO] - Re_Smush_It_Task with attachment ID : 4549, autocreated on : August 20, 2021 12:14:55 
+[2021-08-20 12:20:37 : INFO] - 100 
+[2021-08-20 12:20:38 : INFO] - Re_Smush_It_Task with attachment ID : 4549, autocreated on : August 20, 2021 12:14:55 
+[2021-08-20 12:20:38 : INFO] - 100 
+[2021-08-20 12:20:39 : INFO] - Re_Smush_It_Task with attachment ID : 4549, autocreated on : August 20, 2021 12:14:55 
+[2021-08-20 12:20:39 : INFO] - 100 
+[2021-08-20 12:20:39 : INFO] - Re_Smush_It_Task with attachment ID : 4549, autocreated on : August 20, 2021 12:14:55 
+[2021-08-20 12:20:39 : INFO] - 100 
+[2021-08-20 12:20:40 : INFO] - Re_Smush_It_Task with attachment ID : 4549, autocreated on : August 20, 2021 12:14:55 
+[2021-08-20 12:20:40 : INFO] - 100 
+[2021-08-20 12:20:41 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/WhatsApp-Image-2021-04-14-at-3.51.48-PM-1.jpeg.El archivo ha sido comprimido de 79.07 KB a 79.07 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-08-20 12:20:41 : INFO] - Completed processing task with ID : 387, and type 'smush' 
+[2021-08-20 12:20:41 : INFO] - Processing task with ID : 385, and type 'smush' 
+[2021-08-20 12:20:41 : INFO] - Re_Smush_It_Task with attachment ID : 4547, autocreated on : August 20, 2021 12:14:47 
+[2021-08-20 12:20:41 : INFO] - 100 
+[2021-08-20 12:20:42 : INFO] - Backing up the original image - 2021/08/WhatsApp-Image-2021-04-14-at-3.51.47-PM-1-updraft-pre-smush-original.jpeg 
+[2021-08-20 12:20:42 : INFO] - Re_Smush_It_Task with attachment ID : 4547, autocreated on : August 20, 2021 12:14:47 
+[2021-08-20 12:20:42 : INFO] - 100 
+[2021-08-20 12:20:45 : INFO] - Re_Smush_It_Task with attachment ID : 4547, autocreated on : August 20, 2021 12:14:47 
+[2021-08-20 12:20:45 : INFO] - 100 
+[2021-08-20 12:20:46 : INFO] - Re_Smush_It_Task with attachment ID : 4547, autocreated on : August 20, 2021 12:14:47 
+[2021-08-20 12:20:46 : INFO] - 100 
+[2021-08-20 12:20:47 : INFO] - Re_Smush_It_Task with attachment ID : 4547, autocreated on : August 20, 2021 12:14:47 
+[2021-08-20 12:20:47 : INFO] - 100 
+[2021-08-20 12:20:47 : INFO] - Re_Smush_It_Task with attachment ID : 4547, autocreated on : August 20, 2021 12:14:47 
+[2021-08-20 12:20:47 : INFO] - 100 
+[2021-08-20 12:20:51 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/WhatsApp-Image-2021-04-14-at-3.51.47-PM-1.jpeg.El archivo ha sido comprimido de 69.30 KB a 69.30 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-08-20 12:20:51 : INFO] - Completed processing task with ID : 385, and type 'smush' 
+[2021-08-20 12:20:51 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 12:20:51 
+[2021-08-20 12:20:51 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-08-20 12:20:51 : INFO] - Semaphore (smush) unlocked 
+[2021-08-20 12:20:51 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2021-08-20 12:20:51 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-08-20 12:20:51 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2021-08-20 12:26:15 : INFO] - Re_Smush_It_Task with attachment ID : 4554, autocreated on : August 20, 2021 12:26:15 
+[2021-08-20 12:26:19 : INFO] - Re_Smush_It_Task with attachment ID : 4555, autocreated on : August 20, 2021 12:26:19 
+[2021-08-20 12:26:22 : INFO] - Re_Smush_It_Task with attachment ID : 4556, autocreated on : August 20, 2021 12:26:22 
+[2021-08-20 12:26:24 : INFO] - Re_Smush_It_Task with attachment ID : 4557, autocreated on : August 20, 2021 12:26:24 
+[2021-08-20 12:26:27 : INFO] - Re_Smush_It_Task with attachment ID : 4558, autocreated on : August 20, 2021 12:26:27 
+[2021-08-20 12:26:30 : INFO] - Re_Smush_It_Task with attachment ID : 4559, autocreated on : August 20, 2021 12:26:30 
+[2021-08-20 12:29:57 : INFO] - 
+ 
+[2021-08-20 12:29:57 : INFO] - Header for logs at time:  Fri, 20 Aug 2021 12:29:57 +0000 on http://test.stpauls.edu.ar 
+[2021-08-20 12:29:57 : INFO] - WP: 5.8 
+[2021-08-20 12:29:57 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-08-20 12:29:57 : INFO] - MySQL: 5.7.35 
+[2021-08-20 12:29:57 : INFO] - WPLANG: es_ES 
+[2021-08-20 12:29:57 : INFO] - Server: Apache 
+[2021-08-20 12:29:57 : INFO] - Outbound connections: N 
+[2021-08-20 12:29:57 : INFO] - safe_mode: 0 
+[2021-08-20 12:29:57 : INFO] - max_execution_time: 30 
+[2021-08-20 12:29:57 : INFO] - memory_limit: 256M (used: 51.7M | 4.3M) 
+[2021-08-20 12:29:57 : INFO] - multisite: N 
+[2021-08-20 12:29:57 : INFO] - openssl: OpenSSL 1.1.1k  25 Mar 2021 
+[2021-08-20 12:29:57 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2021-08-20 12:29:58 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 12:29:58 
+[2021-08-20 12:29:58 : INFO] - Semaphore lock (smush) complete 
+[2021-08-20 12:29:58 : INFO] - Processing task with ID : 393, and type 'smush' 
+[2021-08-20 12:29:58 : INFO] - Re_Smush_It_Task with attachment ID : 4557, autocreated on : August 20, 2021 12:26:24 
+[2021-08-20 12:29:58 : INFO] - 100 
+[2021-08-20 12:29:59 : INFO] - Backing up the original image - 2021/08/image-7-updraft-pre-smush-original.png 
+[2021-08-20 12:29:59 : INFO] - Re_Smush_It_Task with attachment ID : 4557, autocreated on : August 20, 2021 12:26:24 
+[2021-08-20 12:29:59 : INFO] - 100 
+[2021-08-20 12:30:02 : INFO] - Re_Smush_It_Task with attachment ID : 4557, autocreated on : August 20, 2021 12:26:24 
+[2021-08-20 12:30:02 : INFO] - 100 
+[2021-08-20 12:30:03 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/image-7.png.El archivo ha sido comprimido de 170.45 KB a 41.68 KB ahorrando un 75.54 por ciento utilizando WP-Optimize 
+[2021-08-20 12:30:03 : INFO] - Completed processing task with ID : 393, and type 'smush' 
+[2021-08-20 12:30:03 : INFO] - Processing task with ID : 391, and type 'smush' 
+[2021-08-20 12:30:03 : INFO] - Re_Smush_It_Task with attachment ID : 4555, autocreated on : August 20, 2021 12:26:19 
+[2021-08-20 12:30:03 : INFO] - 100 
+[2021-08-20 12:30:04 : INFO] - Backing up the original image - 2021/08/image-5-updraft-pre-smush-original.png 
+[2021-08-20 12:30:04 : INFO] - Re_Smush_It_Task with attachment ID : 4555, autocreated on : August 20, 2021 12:26:19 
+[2021-08-20 12:30:04 : INFO] - 100 
+[2021-08-20 12:30:05 : INFO] - Re_Smush_It_Task with attachment ID : 4555, autocreated on : August 20, 2021 12:26:19 
+[2021-08-20 12:30:05 : INFO] - 100 
+[2021-08-20 12:30:09 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/image-5.png.El archivo ha sido comprimido de 211.21 KB a 52.72 KB ahorrando un 75.04 por ciento utilizando WP-Optimize 
+[2021-08-20 12:30:09 : INFO] - Completed processing task with ID : 391, and type 'smush' 
+[2021-08-20 12:30:09 : INFO] - Processing task with ID : 395, and type 'smush' 
+[2021-08-20 12:30:09 : INFO] - Re_Smush_It_Task with attachment ID : 4559, autocreated on : August 20, 2021 12:26:30 
+[2021-08-20 12:30:09 : INFO] - 100 
+[2021-08-20 12:30:11 : INFO] - Backing up the original image - 2021/08/image-updraft-pre-smush-original.png 
+[2021-08-20 12:30:11 : INFO] - Re_Smush_It_Task with attachment ID : 4559, autocreated on : August 20, 2021 12:26:30 
+[2021-08-20 12:30:11 : INFO] - 100 
+[2021-08-20 12:30:12 : INFO] - Re_Smush_It_Task with attachment ID : 4559, autocreated on : August 20, 2021 12:26:30 
+[2021-08-20 12:30:12 : INFO] - 100 
+[2021-08-20 12:30:16 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/image.png.El archivo ha sido comprimido de 259.20 KB a 57.46 KB ahorrando un 77.83 por ciento utilizando WP-Optimize 
+[2021-08-20 12:30:16 : INFO] - Completed processing task with ID : 395, and type 'smush' 
+[2021-08-20 12:30:16 : INFO] - Processing task with ID : 394, and type 'smush' 
+[2021-08-20 12:30:16 : INFO] - Re_Smush_It_Task with attachment ID : 4558, autocreated on : August 20, 2021 12:26:27 
+[2021-08-20 12:30:16 : INFO] - 100 
+[2021-08-20 12:30:18 : INFO] - Backing up the original image - 2021/08/image-8-updraft-pre-smush-original.png 
+[2021-08-20 12:30:18 : INFO] - Re_Smush_It_Task with attachment ID : 4558, autocreated on : August 20, 2021 12:26:27 
+[2021-08-20 12:30:18 : INFO] - 100 
+[2021-08-20 12:30:22 : INFO] - Re_Smush_It_Task with attachment ID : 4558, autocreated on : August 20, 2021 12:26:27 
+[2021-08-20 12:30:22 : INFO] - 100 
+[2021-08-20 12:30:23 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/image-8.png.El archivo ha sido comprimido de 298.94 KB a 81.78 KB ahorrando un 72.64 por ciento utilizando WP-Optimize 
+[2021-08-20 12:30:23 : INFO] - Completed processing task with ID : 394, and type 'smush' 
+[2021-08-20 12:30:23 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 12:30:23 
+[2021-08-20 12:30:23 : INFO] - Processing task with ID : 392, and type 'smush' 
+[2021-08-20 12:30:23 : INFO] - Re_Smush_It_Task with attachment ID : 4556, autocreated on : August 20, 2021 12:26:22 
+[2021-08-20 12:30:23 : INFO] - 100 
+[2021-08-20 12:30:25 : INFO] - Backing up the original image - 2021/08/image-6-updraft-pre-smush-original.png 
+[2021-08-20 12:30:25 : INFO] - Re_Smush_It_Task with attachment ID : 4556, autocreated on : August 20, 2021 12:26:22 
+[2021-08-20 12:30:25 : INFO] - 100 
+[2021-08-20 12:30:29 : INFO] - Re_Smush_It_Task with attachment ID : 4556, autocreated on : August 20, 2021 12:26:22 
+[2021-08-20 12:30:29 : INFO] - 100 
+[2021-08-20 12:30:33 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/image-6.png.El archivo ha sido comprimido de 289.89 KB a 68.51 KB ahorrando un 76.37 por ciento utilizando WP-Optimize 
+[2021-08-20 12:30:33 : INFO] - Completed processing task with ID : 392, and type 'smush' 
+[2021-08-20 12:30:33 : INFO] - Processing task with ID : 390, and type 'smush' 
+[2021-08-20 12:30:33 : INFO] - Re_Smush_It_Task with attachment ID : 4554, autocreated on : August 20, 2021 12:26:15 
+[2021-08-20 12:30:33 : INFO] - 100 
+[2021-08-20 12:30:38 : INFO] - Backing up the original image - 2021/08/image-2-updraft-pre-smush-original.png 
+[2021-08-20 12:30:38 : INFO] - Re_Smush_It_Task with attachment ID : 4554, autocreated on : August 20, 2021 12:26:15 
+[2021-08-20 12:30:38 : INFO] - 100 
+[2021-08-20 12:30:38 : INFO] - Re_Smush_It_Task with attachment ID : 4554, autocreated on : August 20, 2021 12:26:15 
+[2021-08-20 12:30:38 : INFO] - 100 
+[2021-08-20 12:30:42 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/image-2.png.El archivo ha sido comprimido de 248.45 KB a 59.39 KB ahorrando un 76.1 por ciento utilizando WP-Optimize 
+[2021-08-20 12:30:42 : INFO] - Completed processing task with ID : 390, and type 'smush' 
+[2021-08-20 12:30:42 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-08-20 12:30:42 : INFO] - Semaphore (smush) unlocked 
+[2021-08-20 12:30:42 : INFO] - Successfully processed the queue (smush). 6 tasks were processed out of 6. 
+[2021-08-20 12:30:43 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-08-20 12:30:43 : INFO] - Cleaning up tasks of type (smush). A total of 6 tasks will be deleted. 
+[2021-08-20 12:35:48 : INFO] - Re_Smush_It_Task with attachment ID : 4563, autocreated on : August 20, 2021 12:35:48 
+[2021-08-20 12:35:52 : INFO] - Re_Smush_It_Task with attachment ID : 4564, autocreated on : August 20, 2021 12:35:52 
+[2021-08-20 12:35:58 : INFO] - Re_Smush_It_Task with attachment ID : 4565, autocreated on : August 20, 2021 12:35:58 
+[2021-08-20 12:39:27 : INFO] - Re_Smush_It_Task with attachment ID : 4569, autocreated on : August 20, 2021 12:39:27 
+[2021-08-20 12:39:40 : INFO] - Re_Smush_It_Task with attachment ID : 4570, autocreated on : August 20, 2021 12:39:40 
+[2021-08-20 12:39:53 : INFO] - Re_Smush_It_Task with attachment ID : 4571, autocreated on : August 20, 2021 12:39:53 
+[2021-08-20 12:40:02 : INFO] - 
+ 
+[2021-08-20 12:40:02 : INFO] - Header for logs at time:  Fri, 20 Aug 2021 12:40:02 +0000 on http://test.stpauls.edu.ar 
+[2021-08-20 12:40:02 : INFO] - WP: 5.8 
+[2021-08-20 12:40:02 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-08-20 12:40:02 : INFO] - MySQL: 5.7.35 
+[2021-08-20 12:40:02 : INFO] - WPLANG: es_ES 
+[2021-08-20 12:40:02 : INFO] - Server: Apache 
+[2021-08-20 12:40:02 : INFO] - Outbound connections: N 
+[2021-08-20 12:40:02 : INFO] - safe_mode: 0 
+[2021-08-20 12:40:02 : INFO] - max_execution_time: 30 
+[2021-08-20 12:40:02 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-08-20 12:40:02 : INFO] - multisite: N 
+[2021-08-20 12:40:02 : INFO] - openssl: OpenSSL 1.1.1k  25 Mar 2021 
+[2021-08-20 12:40:02 : INFO] - A total of 6 tasks of type smush found and will be processed in this iteration 
+[2021-08-20 12:40:02 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 12:40:02 
+[2021-08-20 12:40:02 : INFO] - Semaphore lock (smush) complete 
+[2021-08-20 12:40:02 : INFO] - Processing task with ID : 401, and type 'smush' 
+[2021-08-20 12:40:02 : INFO] - Re_Smush_It_Task with attachment ID : 4571, autocreated on : August 20, 2021 12:39:53 
+[2021-08-20 12:40:02 : INFO] - 100 
+[2021-08-20 12:40:04 : INFO] - Backing up the original image - 2021/08/IMG-7279-scaled-updraft-pre-smush-original.jpg 
+[2021-08-20 12:40:04 : INFO] - Re_Smush_It_Task with attachment ID : 4571, autocreated on : August 20, 2021 12:39:53 
+[2021-08-20 12:40:04 : INFO] - 100 
+[2021-08-20 12:40:05 : INFO] - Re_Smush_It_Task with attachment ID : 4572, autocreated on : August 20, 2021 12:40:04 
+[2021-08-20 12:40:06 : INFO] - Re_Smush_It_Task with attachment ID : 4571, autocreated on : August 20, 2021 12:39:53 
+[2021-08-20 12:40:06 : INFO] - 100 
+[2021-08-20 12:40:07 : INFO] - Re_Smush_It_Task with attachment ID : 4571, autocreated on : August 20, 2021 12:39:53 
+[2021-08-20 12:40:07 : INFO] - 100 
+[2021-08-20 12:40:08 : INFO] - Re_Smush_It_Task with attachment ID : 4571, autocreated on : August 20, 2021 12:39:53 
+[2021-08-20 12:40:08 : INFO] - 100 
+[2021-08-20 12:40:09 : INFO] - Re_Smush_It_Task with attachment ID : 4571, autocreated on : August 20, 2021 12:39:53 
+[2021-08-20 12:40:09 : INFO] - 100 
+[2021-08-20 12:40:10 : INFO] - Re_Smush_It_Task with attachment ID : 4571, autocreated on : August 20, 2021 12:39:53 
+[2021-08-20 12:40:10 : INFO] - 100 
+[2021-08-20 12:40:12 : INFO] - Re_Smush_It_Task with attachment ID : 4571, autocreated on : August 20, 2021 12:39:53 
+[2021-08-20 12:40:12 : INFO] - 100 
+[2021-08-20 12:40:13 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/IMG-7279-scaled.jpg.El archivo ha sido comprimido de 233.52 KB a 227.46 KB ahorrando un 2.59 por ciento utilizando WP-Optimize 
+[2021-08-20 12:40:13 : INFO] - Completed processing task with ID : 401, and type 'smush' 
+[2021-08-20 12:40:13 : INFO] - Processing task with ID : 397, and type 'smush' 
+[2021-08-20 12:40:13 : INFO] - Re_Smush_It_Task with attachment ID : 4564, autocreated on : August 20, 2021 12:35:52 
+[2021-08-20 12:40:13 : INFO] - 100 
+[2021-08-20 12:40:15 : INFO] - Backing up the original image - 2021/08/IMG_5632-scaled-updraft-pre-smush-original.jpg 
+[2021-08-20 12:40:15 : INFO] - Re_Smush_It_Task with attachment ID : 4564, autocreated on : August 20, 2021 12:35:52 
+[2021-08-20 12:40:15 : INFO] - 100 
+[2021-08-20 12:40:15 : INFO] - Re_Smush_It_Task with attachment ID : 4564, autocreated on : August 20, 2021 12:35:52 
+[2021-08-20 12:40:15 : INFO] - 100 
+[2021-08-20 12:40:17 : INFO] - Re_Smush_It_Task with attachment ID : 4573, autocreated on : August 20, 2021 12:40:17 
+[2021-08-20 12:40:18 : INFO] - Re_Smush_It_Task with attachment ID : 4564, autocreated on : August 20, 2021 12:35:52 
+[2021-08-20 12:40:18 : INFO] - 100 
+[2021-08-20 12:40:19 : INFO] - Re_Smush_It_Task with attachment ID : 4564, autocreated on : August 20, 2021 12:35:52 
+[2021-08-20 12:40:19 : INFO] - 100 
+[2021-08-20 12:40:20 : INFO] - Re_Smush_It_Task with attachment ID : 4564, autocreated on : August 20, 2021 12:35:52 
+[2021-08-20 12:40:20 : INFO] - 100 
+[2021-08-20 12:40:22 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/IMG_5632-scaled.jpg.El archivo ha sido comprimido de 189.45 KB a 184.57 KB ahorrando un 2.58 por ciento utilizando WP-Optimize 
+[2021-08-20 12:40:22 : INFO] - Completed processing task with ID : 397, and type 'smush' 
+[2021-08-20 12:40:22 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 12:40:22 
+[2021-08-20 12:40:22 : INFO] - Processing task with ID : 399, and type 'smush' 
+[2021-08-20 12:40:22 : INFO] - Re_Smush_It_Task with attachment ID : 4569, autocreated on : August 20, 2021 12:39:27 
+[2021-08-20 12:40:22 : INFO] - 100 
+[2021-08-20 12:40:24 : INFO] - Backing up the original image - 2021/08/IMG-7277-scaled-updraft-pre-smush-original.jpg 
+[2021-08-20 12:40:24 : INFO] - Re_Smush_It_Task with attachment ID : 4569, autocreated on : August 20, 2021 12:39:27 
+[2021-08-20 12:40:24 : INFO] - 100 
+[2021-08-20 12:40:26 : INFO] - Re_Smush_It_Task with attachment ID : 4569, autocreated on : August 20, 2021 12:39:27 
+[2021-08-20 12:40:26 : INFO] - 100 
+[2021-08-20 12:40:27 : INFO] - Re_Smush_It_Task with attachment ID : 4569, autocreated on : August 20, 2021 12:39:27 
+[2021-08-20 12:40:27 : INFO] - 100 
+[2021-08-20 12:40:30 : INFO] - Re_Smush_It_Task with attachment ID : 4569, autocreated on : August 20, 2021 12:39:27 
+[2021-08-20 12:40:30 : INFO] - 100 
+[2021-08-20 12:40:30 : INFO] - Re_Smush_It_Task with attachment ID : 4574, autocreated on : August 20, 2021 12:40:30 
+[2021-08-20 12:40:31 : INFO] - Re_Smush_It_Task with attachment ID : 4569, autocreated on : August 20, 2021 12:39:27 
+[2021-08-20 12:40:31 : INFO] - 100 
+[2021-08-20 12:40:32 : INFO] - Re_Smush_It_Task with attachment ID : 4569, autocreated on : August 20, 2021 12:39:27 
+[2021-08-20 12:40:32 : INFO] - 100 
+[2021-08-20 12:40:34 : INFO] - Re_Smush_It_Task with attachment ID : 4569, autocreated on : August 20, 2021 12:39:27 
+[2021-08-20 12:40:34 : INFO] - 100 
+[2021-08-20 12:40:35 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/IMG-7277-scaled.jpg.El archivo ha sido comprimido de 175.04 KB a 170.75 KB ahorrando un 2.45 por ciento utilizando WP-Optimize 
+[2021-08-20 12:40:35 : INFO] - Completed processing task with ID : 399, and type 'smush' 
+[2021-08-20 12:40:35 : INFO] - Processing task with ID : 400, and type 'smush' 
+[2021-08-20 12:40:35 : INFO] - Re_Smush_It_Task with attachment ID : 4570, autocreated on : August 20, 2021 12:39:40 
+[2021-08-20 12:40:35 : INFO] - 100 
+[2021-08-20 12:40:36 : INFO] - Backing up the original image - 2021/08/IMG-7278-scaled-updraft-pre-smush-original.jpg 
+[2021-08-20 12:40:36 : INFO] - Re_Smush_It_Task with attachment ID : 4570, autocreated on : August 20, 2021 12:39:40 
+[2021-08-20 12:40:36 : INFO] - 100 
+[2021-08-20 12:40:36 : INFO] - Re_Smush_It_Task with attachment ID : 4570, autocreated on : August 20, 2021 12:39:40 
+[2021-08-20 12:40:36 : INFO] - 100 
+[2021-08-20 12:40:37 : INFO] - Re_Smush_It_Task with attachment ID : 4570, autocreated on : August 20, 2021 12:39:40 
+[2021-08-20 12:40:37 : INFO] - 100 
+[2021-08-20 12:40:38 : INFO] - Re_Smush_It_Task with attachment ID : 4570, autocreated on : August 20, 2021 12:39:40 
+[2021-08-20 12:40:38 : INFO] - 100 
+[2021-08-20 12:40:39 : INFO] - Re_Smush_It_Task with attachment ID : 4570, autocreated on : August 20, 2021 12:39:40 
+[2021-08-20 12:40:39 : INFO] - 100 
+[2021-08-20 12:40:42 : INFO] - Re_Smush_It_Task with attachment ID : 4575, autocreated on : August 20, 2021 12:40:42 
+[2021-08-20 12:40:43 : INFO] - Re_Smush_It_Task with attachment ID : 4570, autocreated on : August 20, 2021 12:39:40 
+[2021-08-20 12:40:43 : INFO] - 100 
+[2021-08-20 12:40:45 : INFO] - Re_Smush_It_Task with attachment ID : 4570, autocreated on : August 20, 2021 12:39:40 
+[2021-08-20 12:40:45 : INFO] - 100 
+[2021-08-20 12:40:46 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/IMG-7278-scaled.jpg.El archivo ha sido comprimido de 161.47 KB a 158.59 KB ahorrando un 1.78 por ciento utilizando WP-Optimize 
+[2021-08-20 12:40:46 : INFO] - Completed processing task with ID : 400, and type 'smush' 
+[2021-08-20 12:40:46 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 12:40:46 
+[2021-08-20 12:40:46 : INFO] - Processing task with ID : 398, and type 'smush' 
+[2021-08-20 12:40:46 : INFO] - Re_Smush_It_Task with attachment ID : 4565, autocreated on : August 20, 2021 12:35:58 
+[2021-08-20 12:40:46 : INFO] - 100 
+[2021-08-20 12:40:50 : INFO] - Backing up the original image - 2021/08/IMG_5639-updraft-pre-smush-original.jpg 
+[2021-08-20 12:40:50 : INFO] - Re_Smush_It_Task with attachment ID : 4565, autocreated on : August 20, 2021 12:35:58 
+[2021-08-20 12:40:50 : INFO] - 100 
+[2021-08-20 12:40:51 : INFO] - Re_Smush_It_Task with attachment ID : 4565, autocreated on : August 20, 2021 12:35:58 
+[2021-08-20 12:40:51 : INFO] - 100 
+[2021-08-20 12:40:52 : INFO] - Re_Smush_It_Task with attachment ID : 4565, autocreated on : August 20, 2021 12:35:58 
+[2021-08-20 12:40:52 : INFO] - 100 
+[2021-08-20 12:40:54 : INFO] - Re_Smush_It_Task with attachment ID : 4565, autocreated on : August 20, 2021 12:35:58 
+[2021-08-20 12:40:54 : INFO] - 100 
+[2021-08-20 12:40:55 : INFO] - Re_Smush_It_Task with attachment ID : 4565, autocreated on : August 20, 2021 12:35:58 
+[2021-08-20 12:40:55 : INFO] - 100 
+[2021-08-20 12:40:56 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/IMG_5639.jpg.El archivo ha sido comprimido de 186.60 KB a 182.73 KB ahorrando un 2.07 por ciento utilizando WP-Optimize 
+[2021-08-20 12:40:56 : INFO] - Completed processing task with ID : 398, and type 'smush' 
+[2021-08-20 12:40:56 : INFO] - Processing task with ID : 396, and type 'smush' 
+[2021-08-20 12:40:56 : INFO] - Re_Smush_It_Task with attachment ID : 4563, autocreated on : August 20, 2021 12:35:48 
+[2021-08-20 12:40:56 : INFO] - 100 
+[2021-08-20 12:40:57 : INFO] - Backing up the original image - 2021/08/IMG_5628-updraft-pre-smush-original.jpg 
+[2021-08-20 12:40:57 : INFO] - Re_Smush_It_Task with attachment ID : 4563, autocreated on : August 20, 2021 12:35:48 
+[2021-08-20 12:40:57 : INFO] - 100 
+[2021-08-20 12:40:58 : INFO] - Re_Smush_It_Task with attachment ID : 4563, autocreated on : August 20, 2021 12:35:48 
+[2021-08-20 12:40:58 : INFO] - 100 
+[2021-08-20 12:40:59 : INFO] - Re_Smush_It_Task with attachment ID : 4563, autocreated on : August 20, 2021 12:35:48 
+[2021-08-20 12:40:59 : INFO] - 100 
+[2021-08-20 12:40:59 : INFO] - Re_Smush_It_Task with attachment ID : 4563, autocreated on : August 20, 2021 12:35:48 
+[2021-08-20 12:40:59 : INFO] - 100 
+[2021-08-20 12:41:02 : INFO] - Re_Smush_It_Task with attachment ID : 4563, autocreated on : August 20, 2021 12:35:48 
+[2021-08-20 12:41:02 : INFO] - 100 
+[2021-08-20 12:41:03 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/IMG_5628.jpg.El archivo ha sido comprimido de 132.13 KB a 130.71 KB ahorrando un 1.08 por ciento utilizando WP-Optimize 
+[2021-08-20 12:41:03 : INFO] - Completed processing task with ID : 396, and type 'smush' 
+[2021-08-20 12:41:03 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-08-20 12:41:03 : INFO] - Semaphore (smush) unlocked 
+[2021-08-20 12:41:03 : INFO] - Successfully processed the queue (smush). 6 tasks were processed out of 6. 
+[2021-08-20 12:41:03 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-08-20 12:50:04 : INFO] - 
+ 
+[2021-08-20 12:50:04 : INFO] - Header for logs at time:  Fri, 20 Aug 2021 12:50:04 +0000 on http://test.stpauls.edu.ar 
+[2021-08-20 12:50:04 : INFO] - WP: 5.8 
+[2021-08-20 12:50:04 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-08-20 12:50:04 : INFO] - MySQL: 5.7.35 
+[2021-08-20 12:50:04 : INFO] - WPLANG: es_ES 
+[2021-08-20 12:50:04 : INFO] - Server: Apache 
+[2021-08-20 12:50:04 : INFO] - Outbound connections: N 
+[2021-08-20 12:50:04 : INFO] - safe_mode: 0 
+[2021-08-20 12:50:04 : INFO] - max_execution_time: 30 
+[2021-08-20 12:50:04 : INFO] - memory_limit: 256M (used: 51.7M | 10.3M) 
+[2021-08-20 12:50:04 : INFO] - multisite: N 
+[2021-08-20 12:50:04 : INFO] - openssl: OpenSSL 1.1.1k  25 Mar 2021 
+[2021-08-20 12:50:04 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2021-08-20 12:50:04 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 12:50:04 
+[2021-08-20 12:50:04 : INFO] - Semaphore lock (smush) complete 
+[2021-08-20 12:50:04 : INFO] - Processing task with ID : 405, and type 'smush' 
+[2021-08-20 12:50:04 : INFO] - Re_Smush_It_Task with attachment ID : 4575, autocreated on : August 20, 2021 12:40:42 
+[2021-08-20 12:50:04 : INFO] - 100 
+[2021-08-20 12:50:08 : INFO] - Backing up the original image - 2021/08/IMG-7283-scaled-updraft-pre-smush-original.jpg 
+[2021-08-20 12:50:08 : INFO] - Re_Smush_It_Task with attachment ID : 4575, autocreated on : August 20, 2021 12:40:42 
+[2021-08-20 12:50:08 : INFO] - 100 
+[2021-08-20 12:50:11 : INFO] - Re_Smush_It_Task with attachment ID : 4575, autocreated on : August 20, 2021 12:40:42 
+[2021-08-20 12:50:11 : INFO] - 100 
+[2021-08-20 12:50:16 : INFO] - Re_Smush_It_Task with attachment ID : 4575, autocreated on : August 20, 2021 12:40:42 
+[2021-08-20 12:50:16 : INFO] - 100 
+[2021-08-20 12:50:19 : INFO] - Re_Smush_It_Task with attachment ID : 4575, autocreated on : August 20, 2021 12:40:42 
+[2021-08-20 12:50:19 : INFO] - 100 
+[2021-08-20 12:50:20 : INFO] - Re_Smush_It_Task with attachment ID : 4575, autocreated on : August 20, 2021 12:40:42 
+[2021-08-20 12:50:20 : INFO] - 100 
+[2021-08-20 12:50:24 : INFO] - Re_Smush_It_Task with attachment ID : 4575, autocreated on : August 20, 2021 12:40:42 
+[2021-08-20 12:50:24 : INFO] - 100 
+[2021-08-20 12:50:26 : INFO] - Re_Smush_It_Task with attachment ID : 4575, autocreated on : August 20, 2021 12:40:42 
+[2021-08-20 12:50:26 : INFO] - 100 
+[2021-08-20 12:50:27 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/IMG-7283-scaled.jpg.El archivo ha sido comprimido de 154.90 KB a 153.52 KB ahorrando un 0.89 por ciento utilizando WP-Optimize 
+[2021-08-20 12:50:27 : INFO] - Completed processing task with ID : 405, and type 'smush' 
+[2021-08-20 12:50:27 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 12:50:27 
+[2021-08-20 12:50:27 : INFO] - Processing task with ID : 404, and type 'smush' 
+[2021-08-20 12:50:27 : INFO] - Re_Smush_It_Task with attachment ID : 4574, autocreated on : August 20, 2021 12:40:30 
+[2021-08-20 12:50:27 : INFO] - 100 
+[2021-08-20 12:50:28 : INFO] - Backing up the original image - 2021/08/IMG-7282-scaled-updraft-pre-smush-original.jpg 
+[2021-08-20 12:50:28 : INFO] - Re_Smush_It_Task with attachment ID : 4574, autocreated on : August 20, 2021 12:40:30 
+[2021-08-20 12:50:28 : INFO] - 100 
+[2021-08-20 12:50:31 : INFO] - Re_Smush_It_Task with attachment ID : 4574, autocreated on : August 20, 2021 12:40:30 
+[2021-08-20 12:50:31 : INFO] - 100 
+[2021-08-20 12:50:35 : INFO] - Re_Smush_It_Task with attachment ID : 4574, autocreated on : August 20, 2021 12:40:30 
+[2021-08-20 12:50:35 : INFO] - 100 
+[2021-08-20 12:50:39 : INFO] - Re_Smush_It_Task with attachment ID : 4574, autocreated on : August 20, 2021 12:40:30 
+[2021-08-20 12:50:39 : INFO] - 100 
+[2021-08-20 12:50:44 : INFO] - Re_Smush_It_Task with attachment ID : 4574, autocreated on : August 20, 2021 12:40:30 
+[2021-08-20 12:50:44 : INFO] - 100 
+[2021-08-20 12:50:45 : INFO] - Re_Smush_It_Task with attachment ID : 4574, autocreated on : August 20, 2021 12:40:30 
+[2021-08-20 12:50:45 : INFO] - 100 
+[2021-08-20 12:50:46 : INFO] - Re_Smush_It_Task with attachment ID : 4574, autocreated on : August 20, 2021 12:40:30 
+[2021-08-20 12:50:46 : INFO] - 100 
+[2021-08-20 12:50:51 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/IMG-7282-scaled.jpg.El archivo ha sido comprimido de 123.88 KB a 121.77 KB ahorrando un 1.7 por ciento utilizando WP-Optimize 
+[2021-08-20 12:50:51 : INFO] - Completed processing task with ID : 404, and type 'smush' 
+[2021-08-20 12:50:51 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 12:50:51 
+[2021-08-20 12:50:51 : INFO] - Processing task with ID : 403, and type 'smush' 
+[2021-08-20 12:50:51 : INFO] - Re_Smush_It_Task with attachment ID : 4573, autocreated on : August 20, 2021 12:40:17 
+[2021-08-20 12:50:51 : INFO] - 100 
+[2021-08-20 12:50:55 : INFO] - Backing up the original image - 2021/08/IMG-7281-scaled-updraft-pre-smush-original.jpg 
+[2021-08-20 12:50:55 : INFO] - Re_Smush_It_Task with attachment ID : 4573, autocreated on : August 20, 2021 12:40:17 
+[2021-08-20 12:50:55 : INFO] - 100 
+[2021-08-20 12:50:58 : INFO] - Re_Smush_It_Task with attachment ID : 4573, autocreated on : August 20, 2021 12:40:17 
+[2021-08-20 12:50:58 : INFO] - 100 
+[2021-08-20 12:50:59 : INFO] - Re_Smush_It_Task with attachment ID : 4573, autocreated on : August 20, 2021 12:40:17 
+[2021-08-20 12:50:59 : INFO] - 100 
+[2021-08-20 12:51:02 : INFO] - Re_Smush_It_Task with attachment ID : 4573, autocreated on : August 20, 2021 12:40:17 
+[2021-08-20 12:51:02 : INFO] - 100 
+[2021-08-20 12:51:03 : INFO] - Re_Smush_It_Task with attachment ID : 4573, autocreated on : August 20, 2021 12:40:17 
+[2021-08-20 12:51:03 : INFO] - 100 
+[2021-08-20 12:51:05 : INFO] - Re_Smush_It_Task with attachment ID : 4573, autocreated on : August 20, 2021 12:40:17 
+[2021-08-20 12:51:05 : INFO] - 100 
+[2021-08-20 12:51:11 : INFO] - Re_Smush_It_Task with attachment ID : 4573, autocreated on : August 20, 2021 12:40:17 
+[2021-08-20 12:51:11 : INFO] - 100 
+[2021-08-20 12:51:12 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/IMG-7281-scaled.jpg.El archivo ha sido comprimido de 156.27 KB a 154.21 KB ahorrando un 1.32 por ciento utilizando WP-Optimize 
+[2021-08-20 12:51:12 : INFO] - Completed processing task with ID : 403, and type 'smush' 
+[2021-08-20 12:51:12 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 12:51:12 
+[2021-08-20 12:51:12 : INFO] - Processing task with ID : 402, and type 'smush' 
+[2021-08-20 12:51:12 : INFO] - Re_Smush_It_Task with attachment ID : 4572, autocreated on : August 20, 2021 12:40:04 
+[2021-08-20 12:51:12 : INFO] - 100 
+[2021-08-20 12:51:13 : INFO] - Backing up the original image - 2021/08/IMG-7280-scaled-updraft-pre-smush-original.jpg 
+[2021-08-20 12:51:13 : INFO] - Re_Smush_It_Task with attachment ID : 4572, autocreated on : August 20, 2021 12:40:04 
+[2021-08-20 12:51:13 : INFO] - 100 
+[2021-08-20 12:51:14 : INFO] - Re_Smush_It_Task with attachment ID : 4572, autocreated on : August 20, 2021 12:40:04 
+[2021-08-20 12:51:14 : INFO] - 100 
+[2021-08-20 12:51:15 : INFO] - Re_Smush_It_Task with attachment ID : 4572, autocreated on : August 20, 2021 12:40:04 
+[2021-08-20 12:51:15 : INFO] - 100 
+[2021-08-20 12:51:18 : INFO] - Re_Smush_It_Task with attachment ID : 4572, autocreated on : August 20, 2021 12:40:04 
+[2021-08-20 12:51:18 : INFO] - 100 
+[2021-08-20 12:51:19 : INFO] - Re_Smush_It_Task with attachment ID : 4572, autocreated on : August 20, 2021 12:40:04 
+[2021-08-20 12:51:19 : INFO] - 100 
+[2021-08-20 12:51:25 : INFO] - Re_Smush_It_Task with attachment ID : 4572, autocreated on : August 20, 2021 12:40:04 
+[2021-08-20 12:51:25 : INFO] - 100 
+[2021-08-20 12:51:30 : INFO] - Re_Smush_It_Task with attachment ID : 4572, autocreated on : August 20, 2021 12:40:04 
+[2021-08-20 12:51:30 : INFO] - 100 
+[2021-08-20 12:51:31 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/IMG-7280-scaled.jpg.El archivo ha sido comprimido de 119.73 KB a 117.51 KB ahorrando un 1.85 por ciento utilizando WP-Optimize 
+[2021-08-20 12:51:31 : INFO] - Completed processing task with ID : 402, and type 'smush' 
+[2021-08-20 12:51:31 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-08-20 12:51:31 : INFO] - Semaphore (smush) unlocked 
+[2021-08-20 12:51:31 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2021-08-20 12:51:31 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-08-20 12:51:31 : INFO] - Cleaning up tasks of type (smush). A total of 10 tasks will be deleted. 
+[2021-08-20 12:55:44 : INFO] - Re_Smush_It_Task with attachment ID : 4580, autocreated on : August 20, 2021 12:55:44 
+[2021-08-20 12:55:51 : INFO] - Re_Smush_It_Task with attachment ID : 4581, autocreated on : August 20, 2021 12:55:51 
+[2021-08-20 12:55:56 : INFO] - Re_Smush_It_Task with attachment ID : 4582, autocreated on : August 20, 2021 12:55:56 
+[2021-08-20 12:56:02 : INFO] - Re_Smush_It_Task with attachment ID : 4583, autocreated on : August 20, 2021 12:56:02 
+[2021-08-20 13:00:16 : INFO] - 
+ 
+[2021-08-20 13:00:16 : INFO] - Header for logs at time:  Fri, 20 Aug 2021 13:00:16 +0000 on http://test.stpauls.edu.ar 
+[2021-08-20 13:00:16 : INFO] - WP: 5.8 
+[2021-08-20 13:00:16 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-08-20 13:00:16 : INFO] - MySQL: 5.7.35 
+[2021-08-20 13:00:16 : INFO] - WPLANG: es_ES 
+[2021-08-20 13:00:16 : INFO] - Server: Apache 
+[2021-08-20 13:00:16 : INFO] - Outbound connections: N 
+[2021-08-20 13:00:16 : INFO] - safe_mode: 0 
+[2021-08-20 13:00:16 : INFO] - max_execution_time: 30 
+[2021-08-20 13:00:16 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-08-20 13:00:16 : INFO] - multisite: N 
+[2021-08-20 13:00:16 : INFO] - openssl: OpenSSL 1.1.1k  25 Mar 2021 
+[2021-08-20 13:00:16 : INFO] - A total of 4 tasks of type smush found and will be processed in this iteration 
+[2021-08-20 13:00:16 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 13:00:16 
+[2021-08-20 13:00:16 : INFO] - Semaphore lock (smush) complete 
+[2021-08-20 13:00:16 : INFO] - Processing task with ID : 407, and type 'smush' 
+[2021-08-20 13:00:16 : INFO] - Re_Smush_It_Task with attachment ID : 4581, autocreated on : August 20, 2021 12:55:51 
+[2021-08-20 13:00:16 : INFO] - 100 
+[2021-08-20 13:00:17 : INFO] - Backing up the original image - 2021/08/20210225_130401-scaled-updraft-pre-smush-original.jpg 
+[2021-08-20 13:00:17 : INFO] - Re_Smush_It_Task with attachment ID : 4581, autocreated on : August 20, 2021 12:55:51 
+[2021-08-20 13:00:17 : INFO] - 100 
+[2021-08-20 13:00:20 : INFO] - Re_Smush_It_Task with attachment ID : 4581, autocreated on : August 20, 2021 12:55:51 
+[2021-08-20 13:00:20 : INFO] - 100 
+[2021-08-20 13:00:24 : INFO] - Re_Smush_It_Task with attachment ID : 4581, autocreated on : August 20, 2021 12:55:51 
+[2021-08-20 13:00:24 : INFO] - 100 
+[2021-08-20 13:00:24 : INFO] - Re_Smush_It_Task with attachment ID : 4581, autocreated on : August 20, 2021 12:55:51 
+[2021-08-20 13:00:24 : INFO] - 100 
+[2021-08-20 13:00:28 : INFO] - Re_Smush_It_Task with attachment ID : 4581, autocreated on : August 20, 2021 12:55:51 
+[2021-08-20 13:00:28 : INFO] - 100 
+[2021-08-20 13:00:32 : INFO] - Re_Smush_It_Task with attachment ID : 4581, autocreated on : August 20, 2021 12:55:51 
+[2021-08-20 13:00:32 : INFO] - 100 
+[2021-08-20 13:00:34 : INFO] - Re_Smush_It_Task with attachment ID : 4581, autocreated on : August 20, 2021 12:55:51 
+[2021-08-20 13:00:34 : INFO] - 100 
+[2021-08-20 13:00:38 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/20210225_130401-scaled.jpg.El archivo ha sido comprimido de 150.89 KB a 147.53 KB ahorrando un 2.22 por ciento utilizando WP-Optimize 
+[2021-08-20 13:00:38 : INFO] - Completed processing task with ID : 407, and type 'smush' 
+[2021-08-20 13:00:38 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 13:00:38 
+[2021-08-20 13:00:38 : INFO] - Processing task with ID : 408, and type 'smush' 
+[2021-08-20 13:00:38 : INFO] - Re_Smush_It_Task with attachment ID : 4582, autocreated on : August 20, 2021 12:55:56 
+[2021-08-20 13:00:38 : INFO] - 100 
+[2021-08-20 13:00:39 : INFO] - Backing up the original image - 2021/08/20210304_154619-scaled-updraft-pre-smush-original.jpg 
+[2021-08-20 13:00:39 : INFO] - Re_Smush_It_Task with attachment ID : 4582, autocreated on : August 20, 2021 12:55:56 
+[2021-08-20 13:00:39 : INFO] - 100 
+[2021-08-20 13:00:40 : INFO] - Re_Smush_It_Task with attachment ID : 4582, autocreated on : August 20, 2021 12:55:56 
+[2021-08-20 13:00:40 : INFO] - 100 
+[2021-08-20 13:00:44 : INFO] - Re_Smush_It_Task with attachment ID : 4582, autocreated on : August 20, 2021 12:55:56 
+[2021-08-20 13:00:44 : INFO] - 100 
+[2021-08-20 13:00:44 : INFO] - Re_Smush_It_Task with attachment ID : 4582, autocreated on : August 20, 2021 12:55:56 
+[2021-08-20 13:00:44 : INFO] - 100 
+[2021-08-20 13:00:48 : INFO] - Re_Smush_It_Task with attachment ID : 4582, autocreated on : August 20, 2021 12:55:56 
+[2021-08-20 13:00:48 : INFO] - 100 
+[2021-08-20 13:00:53 : INFO] - Re_Smush_It_Task with attachment ID : 4582, autocreated on : August 20, 2021 12:55:56 
+[2021-08-20 13:00:53 : INFO] - 100 
+[2021-08-20 13:00:54 : INFO] - Re_Smush_It_Task with attachment ID : 4582, autocreated on : August 20, 2021 12:55:56 
+[2021-08-20 13:00:54 : INFO] - 100 
+[2021-08-20 13:00:58 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/20210304_154619-scaled.jpg.El archivo ha sido comprimido de 138.06 KB a 135.32 KB ahorrando un 1.98 por ciento utilizando WP-Optimize 
+[2021-08-20 13:00:59 : INFO] - Completed processing task with ID : 408, and type 'smush' 
+[2021-08-20 13:00:59 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 13:00:59 
+[2021-08-20 13:00:59 : INFO] - Processing task with ID : 409, and type 'smush' 
+[2021-08-20 13:00:59 : INFO] - Re_Smush_It_Task with attachment ID : 4583, autocreated on : August 20, 2021 12:56:02 
+[2021-08-20 13:00:59 : INFO] - 100 
+[2021-08-20 13:01:03 : INFO] - Backing up the original image - 2021/08/20210326_132809-scaled-updraft-pre-smush-original.jpg 
+[2021-08-20 13:01:03 : INFO] - Re_Smush_It_Task with attachment ID : 4583, autocreated on : August 20, 2021 12:56:02 
+[2021-08-20 13:01:03 : INFO] - 100 
+[2021-08-20 13:01:07 : INFO] - Re_Smush_It_Task with attachment ID : 4583, autocreated on : August 20, 2021 12:56:02 
+[2021-08-20 13:01:07 : INFO] - 100 
+[2021-08-20 13:01:11 : INFO] - Re_Smush_It_Task with attachment ID : 4583, autocreated on : August 20, 2021 12:56:02 
+[2021-08-20 13:01:11 : INFO] - 100 
+[2021-08-20 13:01:16 : INFO] - Re_Smush_It_Task with attachment ID : 4583, autocreated on : August 20, 2021 12:56:02 
+[2021-08-20 13:01:16 : INFO] - 100 
+[2021-08-20 13:01:20 : INFO] - Re_Smush_It_Task with attachment ID : 4583, autocreated on : August 20, 2021 12:56:02 
+[2021-08-20 13:01:20 : INFO] - 100 
+[2021-08-20 13:01:21 : INFO] - Re_Smush_It_Task with attachment ID : 4583, autocreated on : August 20, 2021 12:56:02 
+[2021-08-20 13:01:21 : INFO] - 100 
+[2021-08-20 13:01:22 : INFO] - Re_Smush_It_Task with attachment ID : 4583, autocreated on : August 20, 2021 12:56:02 
+[2021-08-20 13:01:22 : INFO] - 100 
+[2021-08-20 13:01:27 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/20210326_132809-scaled.jpg.El archivo ha sido comprimido de 132.00 KB a 129.21 KB ahorrando un 2.12 por ciento utilizando WP-Optimize 
+[2021-08-20 13:01:27 : INFO] - Completed processing task with ID : 409, and type 'smush' 
+[2021-08-20 13:01:27 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 13:01:27 
+[2021-08-20 13:01:27 : INFO] - Processing task with ID : 406, and type 'smush' 
+[2021-08-20 13:01:27 : INFO] - Re_Smush_It_Task with attachment ID : 4580, autocreated on : August 20, 2021 12:55:44 
+[2021-08-20 13:01:27 : INFO] - 100 
+[2021-08-20 13:01:32 : INFO] - Backing up the original image - 2021/08/20210223_131924-scaled-updraft-pre-smush-original.jpg 
+[2021-08-20 13:01:32 : INFO] - Re_Smush_It_Task with attachment ID : 4580, autocreated on : August 20, 2021 12:55:44 
+[2021-08-20 13:01:32 : INFO] - 100 
+[2021-08-20 13:01:33 : INFO] - Re_Smush_It_Task with attachment ID : 4580, autocreated on : August 20, 2021 12:55:44 
+[2021-08-20 13:01:33 : INFO] - 100 
+[2021-08-20 13:01:34 : INFO] - Re_Smush_It_Task with attachment ID : 4580, autocreated on : August 20, 2021 12:55:44 
+[2021-08-20 13:01:34 : INFO] - 100 
+[2021-08-20 13:01:34 : INFO] - Re_Smush_It_Task with attachment ID : 4580, autocreated on : August 20, 2021 12:55:44 
+[2021-08-20 13:01:34 : INFO] - 100 
+[2021-08-20 13:01:35 : INFO] - Re_Smush_It_Task with attachment ID : 4580, autocreated on : August 20, 2021 12:55:44 
+[2021-08-20 13:01:35 : INFO] - 100 
+[2021-08-20 13:01:40 : INFO] - Re_Smush_It_Task with attachment ID : 4580, autocreated on : August 20, 2021 12:55:44 
+[2021-08-20 13:01:40 : INFO] - 100 
+[2021-08-20 13:01:46 : INFO] - Re_Smush_It_Task with attachment ID : 4580, autocreated on : August 20, 2021 12:55:44 
+[2021-08-20 13:01:46 : INFO] - 100 
+[2021-08-20 13:01:47 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/20210223_131924-scaled.jpg.El archivo ha sido comprimido de 305.31 KB a 287.99 KB ahorrando un 5.67 por ciento utilizando WP-Optimize 
+[2021-08-20 13:01:47 : INFO] - Completed processing task with ID : 406, and type 'smush' 
+[2021-08-20 13:01:47 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 13:01:47 
+[2021-08-20 13:01:47 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-08-20 13:01:48 : INFO] - Semaphore (smush) unlocked 
+[2021-08-20 13:01:48 : INFO] - Successfully processed the queue (smush). 4 tasks were processed out of 4. 
+[2021-08-20 13:01:48 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-08-20 13:01:48 : INFO] - Cleaning up tasks of type (smush). A total of 4 tasks will be deleted. 
+[2021-08-20 13:08:36 : INFO] - Re_Smush_It_Task with attachment ID : 4586, autocreated on : August 20, 2021 01:08:36 
+[2021-08-20 13:10:47 : INFO] - 
+ 
+[2021-08-20 13:10:47 : INFO] - Header for logs at time:  Fri, 20 Aug 2021 13:10:47 +0000 on http://test.stpauls.edu.ar 
+[2021-08-20 13:10:47 : INFO] - WP: 5.8 
+[2021-08-20 13:10:47 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-08-20 13:10:47 : INFO] - MySQL: 5.7.35 
+[2021-08-20 13:10:47 : INFO] - WPLANG: es_ES 
+[2021-08-20 13:10:47 : INFO] - Server: Apache 
+[2021-08-20 13:10:47 : INFO] - Outbound connections: N 
+[2021-08-20 13:10:47 : INFO] - safe_mode: 0 
+[2021-08-20 13:10:47 : INFO] - max_execution_time: 30 
+[2021-08-20 13:10:47 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-08-20 13:10:47 : INFO] - multisite: N 
+[2021-08-20 13:10:47 : INFO] - openssl: OpenSSL 1.1.1k  25 Mar 2021 
+[2021-08-20 13:10:47 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-08-20 13:10:47 : INFO] - Set semaphore last lock (smush) time to 2021-08-20 13:10:47 
+[2021-08-20 13:10:47 : INFO] - Semaphore lock (smush) complete 
+[2021-08-20 13:10:47 : INFO] - Processing task with ID : 410, and type 'smush' 
+[2021-08-20 13:10:47 : INFO] - Re_Smush_It_Task with attachment ID : 4586, autocreated on : August 20, 2021 01:08:36 
+[2021-08-20 13:10:47 : INFO] - 100 
+[2021-08-20 13:10:52 : INFO] - Backing up the original image - 2021/08/download-updraft-pre-smush-original.jpg 
+[2021-08-20 13:10:52 : INFO] - Re_Smush_It_Task with attachment ID : 4586, autocreated on : August 20, 2021 01:08:36 
+[2021-08-20 13:10:52 : INFO] - 100 
+[2021-08-20 13:10:52 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/download.jpg.El archivo ha sido comprimido de 9.00 KB a 9.00 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-08-20 13:10:52 : INFO] - Completed processing task with ID : 410, and type 'smush' 
+[2021-08-20 13:10:52 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-08-20 13:10:53 : INFO] - Semaphore (smush) unlocked 
+[2021-08-20 13:10:53 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-08-20 13:10:53 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-08-20 13:10:53 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-08-20 13:22:39 : INFO] - 
+ 
+[2021-08-20 13:22:39 : INFO] - Header for logs at time:  Fri, 20 Aug 2021 13:22:39 +0000 on http://test.stpauls.edu.ar 
+[2021-08-20 13:22:39 : INFO] - WP: 5.8 
+[2021-08-20 13:22:39 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-08-20 13:22:39 : INFO] - MySQL: 5.7.35 
+[2021-08-20 13:22:39 : INFO] - WPLANG: es_ES 
+[2021-08-20 13:22:39 : INFO] - Server: Apache 
+[2021-08-20 13:22:39 : INFO] - Outbound connections: N 
+[2021-08-20 13:22:39 : INFO] - safe_mode: 0 
+[2021-08-20 13:22:39 : INFO] - max_execution_time: 30 
+[2021-08-20 13:22:39 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-08-20 13:22:39 : INFO] - multisite: N 
+[2021-08-20 13:22:39 : INFO] - openssl: OpenSSL 1.1.1k  25 Mar 2021 
+[2021-08-20 13:22:39 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-09-06 15:59:12 : INFO] - Re_Smush_It_Task with attachment ID : 4590, autocreated on : September 06, 2021 03:59:12 
+[2021-09-06 15:59:19 : INFO] - Re_Smush_It_Task with attachment ID : 4591, autocreated on : September 06, 2021 03:59:19 
+[2021-09-06 15:59:25 : INFO] - Re_Smush_It_Task with attachment ID : 4592, autocreated on : September 06, 2021 03:59:25 
+[2021-09-06 15:59:31 : INFO] - Re_Smush_It_Task with attachment ID : 4593, autocreated on : September 06, 2021 03:59:31 
+[2021-09-06 15:59:36 : INFO] - Re_Smush_It_Task with attachment ID : 4594, autocreated on : September 06, 2021 03:59:36 
+[2021-09-06 16:06:00 : INFO] - 
+ 
+[2021-09-06 16:06:00 : INFO] - Header for logs at time:  Mon, 06 Sep 2021 16:06:00 +0000 on http://test.stpauls.edu.ar 
+[2021-09-06 16:06:00 : INFO] - WP: 5.8 
+[2021-09-06 16:06:00 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-06 16:06:00 : INFO] - MySQL: 5.7.35 
+[2021-09-06 16:06:00 : INFO] - WPLANG: es_ES 
+[2021-09-06 16:06:00 : INFO] - Server: Apache 
+[2021-09-06 16:06:00 : INFO] - Outbound connections: N 
+[2021-09-06 16:06:00 : INFO] - safe_mode: 0 
+[2021-09-06 16:06:00 : INFO] - max_execution_time: 30 
+[2021-09-06 16:06:00 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-06 16:06:00 : INFO] - multisite: N 
+[2021-09-06 16:06:00 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-06 16:06:00 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2021-09-06 16:06:00 : INFO] - Set semaphore last lock (smush) time to 2021-09-06 16:06:00 
+[2021-09-06 16:06:00 : INFO] - Semaphore lock (smush) complete 
+[2021-09-06 16:06:00 : INFO] - Processing task with ID : 412, and type 'smush' 
+[2021-09-06 16:06:00 : INFO] - Re_Smush_It_Task with attachment ID : 4591, autocreated on : September 06, 2021 03:59:19 
+[2021-09-06 16:06:00 : INFO] - 100 
+[2021-09-06 16:06:01 : INFO] - Backing up the original image - 2021/09/WhatsApp-Image-2021-09-06-at-12.57.57-1-scaled-updraft-pre-smush-original.jpeg 
+[2021-09-06 16:06:02 : INFO] - Re_Smush_It_Task with attachment ID : 4591, autocreated on : September 06, 2021 03:59:19 
+[2021-09-06 16:06:02 : INFO] - 100 
+[2021-09-06 16:06:02 : INFO] - Re_Smush_It_Task with attachment ID : 4591, autocreated on : September 06, 2021 03:59:19 
+[2021-09-06 16:06:02 : INFO] - 100 
+[2021-09-06 16:06:06 : INFO] - Re_Smush_It_Task with attachment ID : 4591, autocreated on : September 06, 2021 03:59:19 
+[2021-09-06 16:06:06 : INFO] - 100 
+[2021-09-06 16:06:07 : INFO] - Re_Smush_It_Task with attachment ID : 4591, autocreated on : September 06, 2021 03:59:19 
+[2021-09-06 16:06:07 : INFO] - 100 
+[2021-09-06 16:06:12 : INFO] - Re_Smush_It_Task with attachment ID : 4591, autocreated on : September 06, 2021 03:59:19 
+[2021-09-06 16:06:12 : INFO] - 100 
+[2021-09-06 16:06:13 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-06-at-12.57.57-1-scaled.jpeg.El archivo ha sido comprimido de 217.18 KB a 205.47 KB ahorrando un 5.39 por ciento utilizando WP-Optimize 
+[2021-09-06 16:06:13 : INFO] - Completed processing task with ID : 412, and type 'smush' 
+[2021-09-06 16:06:13 : INFO] - Processing task with ID : 413, and type 'smush' 
+[2021-09-06 16:06:13 : INFO] - Re_Smush_It_Task with attachment ID : 4592, autocreated on : September 06, 2021 03:59:25 
+[2021-09-06 16:06:13 : INFO] - 100 
+[2021-09-06 16:06:19 : INFO] - Task with ID 413 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-09-06 16:06:19 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/2c9e3cf8738625c4730802161b1c612b\/_src_WhatsApp-Image-2021-09-06-at-12.57.57-scaled.jpeg","dest":"http:\/\/par3.static.resmush.it\/2c9e3cf8738625c4730802161b1c612b\/WhatsApp-Image-2021-09-06-at-12.57.57-scaled.jpeg","src_size":287439,"dest_size":276577,"percent":4,"output":"json","expires":"Mon, 06 Sep 2021 18:11:13 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-09-06 16:06:19 : INFO] - Re_Smush_It_Task with attachment ID : 4592, autocreated on : September 06, 2021 03:59:25 
+[2021-09-06 16:06:19 : INFO] - 100 
+[2021-09-06 16:06:20 : INFO] - Re_Smush_It_Task with attachment ID : 4592, autocreated on : September 06, 2021 03:59:25 
+[2021-09-06 16:06:20 : INFO] - 100 
+[2021-09-06 16:06:22 : INFO] - Re_Smush_It_Task with attachment ID : 4592, autocreated on : September 06, 2021 03:59:25 
+[2021-09-06 16:06:22 : INFO] - 100 
+[2021-09-06 16:06:22 : INFO] - Re_Smush_It_Task with attachment ID : 4592, autocreated on : September 06, 2021 03:59:25 
+[2021-09-06 16:06:22 : INFO] - 100 
+[2021-09-06 16:06:23 : INFO] - Re_Smush_It_Task with attachment ID : 4592, autocreated on : September 06, 2021 03:59:25 
+[2021-09-06 16:06:23 : INFO] - 100 
+[2021-09-06 16:06:24 : INFO] - Re_Smush_It_Task with attachment ID : 4592, autocreated on : September 06, 2021 03:59:25 
+[2021-09-06 16:06:24 : INFO] - 100 
+[2021-09-06 16:06:25 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-06-at-12.57.57-scaled.jpeg.El archivo ha sido comprimido de 280.70 KB a 280.70 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-09-06 16:06:26 : INFO] - Completed processing task with ID : 413, and type 'smush' 
+[2021-09-06 16:06:26 : INFO] - Set semaphore last lock (smush) time to 2021-09-06 16:06:26 
+[2021-09-06 16:06:26 : INFO] - Processing task with ID : 414, and type 'smush' 
+[2021-09-06 16:06:26 : INFO] - Re_Smush_It_Task with attachment ID : 4593, autocreated on : September 06, 2021 03:59:31 
+[2021-09-06 16:06:26 : INFO] - 100 
+[2021-09-06 16:06:27 : INFO] - Backing up the original image - 2021/09/WhatsApp-Image-2021-09-06-at-12.57.56-scaled-updraft-pre-smush-original.jpeg 
+[2021-09-06 16:06:27 : INFO] - Re_Smush_It_Task with attachment ID : 4593, autocreated on : September 06, 2021 03:59:31 
+[2021-09-06 16:06:27 : INFO] - 100 
+[2021-09-06 16:06:27 : INFO] - Re_Smush_It_Task with attachment ID : 4593, autocreated on : September 06, 2021 03:59:31 
+[2021-09-06 16:06:27 : INFO] - 100 
+[2021-09-06 16:06:29 : INFO] - Re_Smush_It_Task with attachment ID : 4593, autocreated on : September 06, 2021 03:59:31 
+[2021-09-06 16:06:29 : INFO] - 100 
+[2021-09-06 16:06:29 : INFO] - Re_Smush_It_Task with attachment ID : 4593, autocreated on : September 06, 2021 03:59:31 
+[2021-09-06 16:06:29 : INFO] - 100 
+[2021-09-06 16:06:30 : INFO] - Re_Smush_It_Task with attachment ID : 4593, autocreated on : September 06, 2021 03:59:31 
+[2021-09-06 16:06:30 : INFO] - 100 
+[2021-09-06 16:06:31 : INFO] - Re_Smush_It_Task with attachment ID : 4593, autocreated on : September 06, 2021 03:59:31 
+[2021-09-06 16:06:31 : INFO] - 100 
+[2021-09-06 16:06:33 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-06-at-12.57.56-scaled.jpeg.El archivo ha sido comprimido de 279.87 KB a 269.70 KB ahorrando un 3.63 por ciento utilizando WP-Optimize 
+[2021-09-06 16:06:33 : INFO] - Completed processing task with ID : 414, and type 'smush' 
+[2021-09-06 16:06:33 : INFO] - Processing task with ID : 415, and type 'smush' 
+[2021-09-06 16:06:33 : INFO] - Re_Smush_It_Task with attachment ID : 4594, autocreated on : September 06, 2021 03:59:36 
+[2021-09-06 16:06:33 : INFO] - 100 
+[2021-09-06 16:06:35 : INFO] - Backing up the original image - 2021/09/WhatsApp-Image-2021-09-06-at-12.57.55-scaled-updraft-pre-smush-original.jpeg 
+[2021-09-06 16:06:35 : INFO] - Re_Smush_It_Task with attachment ID : 4594, autocreated on : September 06, 2021 03:59:36 
+[2021-09-06 16:06:35 : INFO] - 100 
+[2021-09-06 16:06:36 : INFO] - Re_Smush_It_Task with attachment ID : 4594, autocreated on : September 06, 2021 03:59:36 
+[2021-09-06 16:06:36 : INFO] - 100 
+[2021-09-06 16:06:37 : INFO] - Re_Smush_It_Task with attachment ID : 4594, autocreated on : September 06, 2021 03:59:36 
+[2021-09-06 16:06:37 : INFO] - 100 
+[2021-09-06 16:06:38 : INFO] - Re_Smush_It_Task with attachment ID : 4594, autocreated on : September 06, 2021 03:59:36 
+[2021-09-06 16:06:38 : INFO] - 100 
+[2021-09-06 16:06:39 : INFO] - Re_Smush_It_Task with attachment ID : 4594, autocreated on : September 06, 2021 03:59:36 
+[2021-09-06 16:06:39 : INFO] - 100 
+[2021-09-06 16:06:41 : INFO] - Re_Smush_It_Task with attachment ID : 4594, autocreated on : September 06, 2021 03:59:36 
+[2021-09-06 16:06:41 : INFO] - 100 
+[2021-09-06 16:06:43 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-06-at-12.57.55-scaled.jpeg.El archivo ha sido comprimido de 342.56 KB a 327.04 KB ahorrando un 4.53 por ciento utilizando WP-Optimize 
+[2021-09-06 16:06:43 : INFO] - Completed processing task with ID : 415, and type 'smush' 
+[2021-09-06 16:06:43 : INFO] - Processing task with ID : 411, and type 'smush' 
+[2021-09-06 16:06:43 : INFO] - Re_Smush_It_Task with attachment ID : 4590, autocreated on : September 06, 2021 03:59:12 
+[2021-09-06 16:06:43 : INFO] - 100 
+[2021-09-06 16:06:45 : INFO] - Backing up the original image - 2021/09/WhatsApp-Image-2021-09-06-at-12.57.58-scaled-updraft-pre-smush-original.jpeg 
+[2021-09-06 16:06:45 : INFO] - Re_Smush_It_Task with attachment ID : 4590, autocreated on : September 06, 2021 03:59:12 
+[2021-09-06 16:06:45 : INFO] - 100 
+[2021-09-06 16:06:45 : INFO] - Re_Smush_It_Task with attachment ID : 4590, autocreated on : September 06, 2021 03:59:12 
+[2021-09-06 16:06:45 : INFO] - 100 
+[2021-09-06 16:06:46 : INFO] - Re_Smush_It_Task with attachment ID : 4590, autocreated on : September 06, 2021 03:59:12 
+[2021-09-06 16:06:46 : INFO] - 100 
+[2021-09-06 16:06:47 : INFO] - Re_Smush_It_Task with attachment ID : 4590, autocreated on : September 06, 2021 03:59:12 
+[2021-09-06 16:06:47 : INFO] - 100 
+[2021-09-06 16:06:48 : INFO] - Re_Smush_It_Task with attachment ID : 4590, autocreated on : September 06, 2021 03:59:12 
+[2021-09-06 16:06:48 : INFO] - 100 
+[2021-09-06 16:06:50 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-06-at-12.57.58-scaled.jpeg.El archivo ha sido comprimido de 191.58 KB a 182.13 KB ahorrando un 4.93 por ciento utilizando WP-Optimize 
+[2021-09-06 16:06:50 : INFO] - Completed processing task with ID : 411, and type 'smush' 
+[2021-09-06 16:06:50 : INFO] - Set semaphore last lock (smush) time to 2021-09-06 16:06:50 
+[2021-09-06 16:06:50 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-06 16:06:51 : INFO] - Semaphore (smush) unlocked 
+[2021-09-06 16:06:51 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2021-09-06 16:06:51 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-09-06 16:06:51 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2021-09-06 17:50:08 : INFO] - 
+ 
+[2021-09-06 17:50:08 : INFO] - Header for logs at time:  Mon, 06 Sep 2021 17:50:08 +0000 on http://test.stpauls.edu.ar 
+[2021-09-06 17:50:08 : INFO] - WP: 5.8 
+[2021-09-06 17:50:08 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-06 17:50:08 : INFO] - MySQL: 5.7.35 
+[2021-09-06 17:50:08 : INFO] - WPLANG: es_ES 
+[2021-09-06 17:50:08 : INFO] - Server: Apache 
+[2021-09-06 17:50:08 : INFO] - Outbound connections: N 
+[2021-09-06 17:50:08 : INFO] - safe_mode: 0 
+[2021-09-06 17:50:08 : INFO] - max_execution_time: 30 
+[2021-09-06 17:50:08 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-06 17:50:08 : INFO] - multisite: N 
+[2021-09-06 17:50:08 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-06 17:50:08 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-09-07 14:12:08 : INFO] - Re_Smush_It_Task with attachment ID : 4603, autocreated on : September 07, 2021 02:12:08 
+[2021-09-07 14:18:44 : INFO] - 
+ 
+[2021-09-07 14:18:44 : INFO] - Header for logs at time:  Tue, 07 Sep 2021 14:18:44 +0000 on http://test.stpauls.edu.ar 
+[2021-09-07 14:18:44 : INFO] - WP: 5.8 
+[2021-09-07 14:18:44 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-07 14:18:44 : INFO] - MySQL: 5.7.35 
+[2021-09-07 14:18:44 : INFO] - WPLANG: es_ES 
+[2021-09-07 14:18:44 : INFO] - Server: Apache 
+[2021-09-07 14:18:44 : INFO] - Outbound connections: N 
+[2021-09-07 14:18:44 : INFO] - safe_mode: 0 
+[2021-09-07 14:18:44 : INFO] - max_execution_time: 30 
+[2021-09-07 14:18:44 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-07 14:18:44 : INFO] - multisite: N 
+[2021-09-07 14:18:44 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-07 14:18:44 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-09-07 14:18:44 : INFO] - Set semaphore last lock (smush) time to 2021-09-07 14:18:44 
+[2021-09-07 14:18:44 : INFO] - Semaphore lock (smush) complete 
+[2021-09-07 14:18:44 : INFO] - Processing task with ID : 416, and type 'smush' 
+[2021-09-07 14:18:44 : INFO] - Re_Smush_It_Task with attachment ID : 4603, autocreated on : September 07, 2021 02:12:08 
+[2021-09-07 14:18:44 : INFO] - 100 
+[2021-09-07 14:18:47 : INFO] - Backing up the original image - 2021/09/IMG_4682-scaled-updraft-pre-smush-original.jpg 
+[2021-09-07 14:18:47 : INFO] - Re_Smush_It_Task with attachment ID : 4603, autocreated on : September 07, 2021 02:12:08 
+[2021-09-07 14:18:47 : INFO] - 100 
+[2021-09-07 14:18:48 : INFO] - Re_Smush_It_Task with attachment ID : 4603, autocreated on : September 07, 2021 02:12:08 
+[2021-09-07 14:18:48 : INFO] - 100 
+[2021-09-07 14:18:49 : INFO] - Re_Smush_It_Task with attachment ID : 4603, autocreated on : September 07, 2021 02:12:08 
+[2021-09-07 14:18:49 : INFO] - 100 
+[2021-09-07 14:18:49 : INFO] - Re_Smush_It_Task with attachment ID : 4603, autocreated on : September 07, 2021 02:12:08 
+[2021-09-07 14:18:49 : INFO] - 100 
+[2021-09-07 14:18:51 : INFO] - Re_Smush_It_Task with attachment ID : 4603, autocreated on : September 07, 2021 02:12:08 
+[2021-09-07 14:18:51 : INFO] - 100 
+[2021-09-07 14:18:52 : INFO] - Re_Smush_It_Task with attachment ID : 4603, autocreated on : September 07, 2021 02:12:08 
+[2021-09-07 14:18:52 : INFO] - 100 
+[2021-09-07 14:18:55 : INFO] - Re_Smush_It_Task with attachment ID : 4603, autocreated on : September 07, 2021 02:12:08 
+[2021-09-07 14:18:55 : INFO] - 100 
+[2021-09-07 14:18:56 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/IMG_4682-scaled.jpg.El archivo ha sido comprimido de 295.09 KB a 284.16 KB ahorrando un 3.7 por ciento utilizando WP-Optimize 
+[2021-09-07 14:18:57 : INFO] - Completed processing task with ID : 416, and type 'smush' 
+[2021-09-07 14:18:57 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-07 14:18:57 : INFO] - Semaphore (smush) unlocked 
+[2021-09-07 14:18:57 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-09-07 14:18:57 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-09-07 14:18:57 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-09-07 14:28:49 : INFO] - 
+ 
+[2021-09-07 14:28:49 : INFO] - Header for logs at time:  Tue, 07 Sep 2021 14:28:49 +0000 on http://test.stpauls.edu.ar 
+[2021-09-07 14:28:49 : INFO] - WP: 5.8 
+[2021-09-07 14:28:49 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-07 14:28:49 : INFO] - MySQL: 5.7.35 
+[2021-09-07 14:28:49 : INFO] - WPLANG: es_ES 
+[2021-09-07 14:28:49 : INFO] - Server: Apache 
+[2021-09-07 14:28:49 : INFO] - Outbound connections: N 
+[2021-09-07 14:28:49 : INFO] - safe_mode: 0 
+[2021-09-07 14:28:49 : INFO] - max_execution_time: 30 
+[2021-09-07 14:28:49 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-07 14:28:49 : INFO] - multisite: N 
+[2021-09-07 14:28:49 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-07 14:28:49 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-09-07 18:47:28 : INFO] - Re_Smush_It_Task with attachment ID : 4609, autocreated on : September 07, 2021 06:47:28 
+[2021-09-07 18:47:31 : INFO] - Re_Smush_It_Task with attachment ID : 4610, autocreated on : September 07, 2021 06:47:31 
+[2021-09-07 18:47:35 : INFO] - Re_Smush_It_Task with attachment ID : 4611, autocreated on : September 07, 2021 06:47:35 
+[2021-09-07 18:52:29 : INFO] - 
+ 
+[2021-09-07 18:52:29 : INFO] - Header for logs at time:  Tue, 07 Sep 2021 18:52:29 +0000 on https://test.stpauls.edu.ar 
+[2021-09-07 18:52:29 : INFO] - WP: 5.8 
+[2021-09-07 18:52:29 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-07 18:52:29 : INFO] - MySQL: 5.7.35 
+[2021-09-07 18:52:29 : INFO] - WPLANG: es_ES 
+[2021-09-07 18:52:29 : INFO] - Server: Apache 
+[2021-09-07 18:52:29 : INFO] - Outbound connections: N 
+[2021-09-07 18:52:29 : INFO] - safe_mode: 0 
+[2021-09-07 18:52:29 : INFO] - max_execution_time: 30 
+[2021-09-07 18:52:29 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-07 18:52:29 : INFO] - multisite: N 
+[2021-09-07 18:52:29 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-07 18:52:29 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2021-09-07 18:52:29 : INFO] - Set semaphore last lock (smush) time to 2021-09-07 18:52:29 
+[2021-09-07 18:52:29 : INFO] - Semaphore lock (smush) complete 
+[2021-09-07 18:52:29 : INFO] - Processing task with ID : 418, and type 'smush' 
+[2021-09-07 18:52:29 : INFO] - Task with ID 418 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2021/09/Handbook-PRI-2021.pdf - cannot be optimized, it has an invalid file type 
+[2021-09-07 18:52:29 : INFO] - Processing task with ID : 419, and type 'smush' 
+[2021-09-07 18:52:29 : INFO] - Task with ID 419 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2021/09/Handbook-SEC-2021.pdf - cannot be optimized, it has an invalid file type 
+[2021-09-07 18:52:29 : INFO] - Processing task with ID : 417, and type 'smush' 
+[2021-09-07 18:52:29 : INFO] - Task with ID 417 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2021/09/Handbook-KIN-2021.pdf - cannot be optimized, it has an invalid file type 
+[2021-09-07 18:52:29 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-07 18:52:29 : INFO] - Semaphore (smush) unlocked 
+[2021-09-07 18:52:29 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2021-09-07 18:52:30 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-09-07 18:52:30 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2021-09-07 19:02:35 : INFO] - 
+ 
+[2021-09-07 19:02:35 : INFO] - Header for logs at time:  Tue, 07 Sep 2021 19:02:35 +0000 on https://test.stpauls.edu.ar 
+[2021-09-07 19:02:35 : INFO] - WP: 5.8 
+[2021-09-07 19:02:35 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-07 19:02:35 : INFO] - MySQL: 5.7.35 
+[2021-09-07 19:02:35 : INFO] - WPLANG: es_ES 
+[2021-09-07 19:02:35 : INFO] - Server: Apache 
+[2021-09-07 19:02:35 : INFO] - Outbound connections: N 
+[2021-09-07 19:02:35 : INFO] - safe_mode: 0 
+[2021-09-07 19:02:35 : INFO] - max_execution_time: 30 
+[2021-09-07 19:02:35 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-07 19:02:35 : INFO] - multisite: N 
+[2021-09-07 19:02:35 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-07 19:02:35 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-09-10 12:41:58 : INFO] - Re_Smush_It_Task with attachment ID : 4614, autocreated on : September 10, 2021 12:41:58 
+[2021-09-10 12:47:12 : INFO] - 
+ 
+[2021-09-10 12:47:12 : INFO] - Header for logs at time:  Fri, 10 Sep 2021 12:47:12 +0000 on http://test.stpauls.edu.ar 
+[2021-09-10 12:47:12 : INFO] - WP: 5.8.1 
+[2021-09-10 12:47:12 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-10 12:47:12 : INFO] - MySQL: 5.7.35 
+[2021-09-10 12:47:12 : INFO] - WPLANG: es_ES 
+[2021-09-10 12:47:12 : INFO] - Server: Apache 
+[2021-09-10 12:47:12 : INFO] - Outbound connections: N 
+[2021-09-10 12:47:12 : INFO] - safe_mode: 0 
+[2021-09-10 12:47:12 : INFO] - max_execution_time: 30 
+[2021-09-10 12:47:12 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-10 12:47:12 : INFO] - multisite: N 
+[2021-09-10 12:47:12 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-10 12:47:12 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-09-10 12:47:12 : INFO] - Set semaphore last lock (smush) time to 2021-09-10 12:47:12 
+[2021-09-10 12:47:12 : INFO] - Semaphore lock (smush) complete 
+[2021-09-10 12:47:12 : INFO] - Processing task with ID : 420, and type 'smush' 
+[2021-09-10 12:47:12 : INFO] - Re_Smush_It_Task with attachment ID : 4614, autocreated on : September 10, 2021 12:41:58 
+[2021-09-10 12:47:12 : INFO] - 100 
+[2021-09-10 12:47:13 : INFO] - Backing up the original image - 2021/09/WhatsApp-Image-2021-09-09-at-18.29.29-updraft-pre-smush-original.jpeg 
+[2021-09-10 12:47:13 : INFO] - Re_Smush_It_Task with attachment ID : 4614, autocreated on : September 10, 2021 12:41:58 
+[2021-09-10 12:47:13 : INFO] - 100 
+[2021-09-10 12:47:14 : INFO] - Re_Smush_It_Task with attachment ID : 4614, autocreated on : September 10, 2021 12:41:58 
+[2021-09-10 12:47:14 : INFO] - 100 
+[2021-09-10 12:47:14 : INFO] - Re_Smush_It_Task with attachment ID : 4614, autocreated on : September 10, 2021 12:41:58 
+[2021-09-10 12:47:14 : INFO] - 100 
+[2021-09-10 12:47:15 : INFO] - Re_Smush_It_Task with attachment ID : 4614, autocreated on : September 10, 2021 12:41:58 
+[2021-09-10 12:47:15 : INFO] - 100 
+[2021-09-10 12:47:16 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-09-at-18.29.29.jpeg.El archivo ha sido comprimido de 134.77 KB a 125.61 KB ahorrando un 6.8 por ciento utilizando WP-Optimize 
+[2021-09-10 12:47:16 : INFO] - Completed processing task with ID : 420, and type 'smush' 
+[2021-09-10 12:47:16 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-10 12:47:16 : INFO] - Semaphore (smush) unlocked 
+[2021-09-10 12:47:16 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-09-10 12:47:16 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-09-10 12:47:16 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-09-10 12:57:21 : INFO] - 
+ 
+[2021-09-10 12:57:21 : INFO] - Header for logs at time:  Fri, 10 Sep 2021 12:57:21 +0000 on http://test.stpauls.edu.ar 
+[2021-09-10 12:57:21 : INFO] - WP: 5.8.1 
+[2021-09-10 12:57:21 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-10 12:57:21 : INFO] - MySQL: 5.7.35 
+[2021-09-10 12:57:21 : INFO] - WPLANG: es_ES 
+[2021-09-10 12:57:21 : INFO] - Server: Apache 
+[2021-09-10 12:57:21 : INFO] - Outbound connections: N 
+[2021-09-10 12:57:21 : INFO] - safe_mode: 0 
+[2021-09-10 12:57:21 : INFO] - max_execution_time: 30 
+[2021-09-10 12:57:21 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-10 12:57:21 : INFO] - multisite: N 
+[2021-09-10 12:57:21 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-10 12:57:21 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-09-10 13:15:59 : INFO] - Re_Smush_It_Task with attachment ID : 4617, autocreated on : September 10, 2021 01:15:59 
+[2021-09-10 13:17:32 : INFO] - Re_Smush_It_Task with attachment ID : 4619, autocreated on : September 10, 2021 01:17:32 
+[2021-09-10 13:18:11 : INFO] - Re_Smush_It_Task with attachment ID : 4620, autocreated on : September 10, 2021 01:18:11 
+[2021-09-10 13:25:20 : INFO] - 
+ 
+[2021-09-10 13:25:20 : INFO] - Header for logs at time:  Fri, 10 Sep 2021 13:25:20 +0000 on http://test.stpauls.edu.ar 
+[2021-09-10 13:25:20 : INFO] - WP: 5.8.1 
+[2021-09-10 13:25:20 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-10 13:25:20 : INFO] - MySQL: 5.7.35 
+[2021-09-10 13:25:20 : INFO] - WPLANG: es_ES 
+[2021-09-10 13:25:20 : INFO] - Server: Apache 
+[2021-09-10 13:25:20 : INFO] - Outbound connections: N 
+[2021-09-10 13:25:20 : INFO] - safe_mode: 0 
+[2021-09-10 13:25:20 : INFO] - max_execution_time: 30 
+[2021-09-10 13:25:20 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-10 13:25:20 : INFO] - multisite: N 
+[2021-09-10 13:25:20 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-10 13:25:20 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2021-09-10 13:25:20 : INFO] - Set semaphore last lock (smush) time to 2021-09-10 13:25:20 
+[2021-09-10 13:25:20 : INFO] - Semaphore lock (smush) complete 
+[2021-09-10 13:25:20 : INFO] - Processing task with ID : 422, and type 'smush' 
+[2021-09-10 13:25:20 : INFO] - Re_Smush_It_Task with attachment ID : 4619, autocreated on : September 10, 2021 01:17:32 
+[2021-09-10 13:25:20 : INFO] - 100 
+[2021-09-10 13:25:21 : INFO] - Backing up the original image - 2021/09/handbook-P_Mesa-de-trabajo-1-updraft-pre-smush-original.png 
+[2021-09-10 13:25:21 : INFO] - Re_Smush_It_Task with attachment ID : 4619, autocreated on : September 10, 2021 01:17:32 
+[2021-09-10 13:25:21 : INFO] - 100 
+[2021-09-10 13:25:23 : INFO] - Re_Smush_It_Task with attachment ID : 4619, autocreated on : September 10, 2021 01:17:32 
+[2021-09-10 13:25:23 : INFO] - 100 
+[2021-09-10 13:25:25 : INFO] - Re_Smush_It_Task with attachment ID : 4619, autocreated on : September 10, 2021 01:17:32 
+[2021-09-10 13:25:25 : INFO] - 100 
+[2021-09-10 13:25:25 : INFO] - Re_Smush_It_Task with attachment ID : 4619, autocreated on : September 10, 2021 01:17:32 
+[2021-09-10 13:25:25 : INFO] - 100 
+[2021-09-10 13:25:27 : INFO] - Re_Smush_It_Task with attachment ID : 4619, autocreated on : September 10, 2021 01:17:32 
+[2021-09-10 13:25:27 : INFO] - 100 
+[2021-09-10 13:25:29 : INFO] - Re_Smush_It_Task with attachment ID : 4619, autocreated on : September 10, 2021 01:17:32 
+[2021-09-10 13:25:29 : INFO] - 100 
+[2021-09-10 13:25:31 : INFO] - Re_Smush_It_Task with attachment ID : 4619, autocreated on : September 10, 2021 01:17:32 
+[2021-09-10 13:25:31 : INFO] - 100 
+[2021-09-10 13:25:33 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/handbook-P_Mesa-de-trabajo-1.png.El archivo ha sido comprimido de 180.31 KB a 63.35 KB ahorrando un 64.87 por ciento utilizando WP-Optimize 
+[2021-09-10 13:25:33 : INFO] - Completed processing task with ID : 422, and type 'smush' 
+[2021-09-10 13:25:33 : INFO] - Processing task with ID : 423, and type 'smush' 
+[2021-09-10 13:25:33 : INFO] - Re_Smush_It_Task with attachment ID : 4620, autocreated on : September 10, 2021 01:18:11 
+[2021-09-10 13:25:33 : INFO] - 100 
+[2021-09-10 13:25:34 : INFO] - Backing up the original image - 2021/09/handbook-S_Mesa-de-trabajo-1-updraft-pre-smush-original.png 
+[2021-09-10 13:25:35 : INFO] - Re_Smush_It_Task with attachment ID : 4620, autocreated on : September 10, 2021 01:18:11 
+[2021-09-10 13:25:35 : INFO] - 100 
+[2021-09-10 13:25:35 : INFO] - Re_Smush_It_Task with attachment ID : 4620, autocreated on : September 10, 2021 01:18:11 
+[2021-09-10 13:25:35 : INFO] - 100 
+[2021-09-10 13:25:36 : INFO] - Re_Smush_It_Task with attachment ID : 4620, autocreated on : September 10, 2021 01:18:11 
+[2021-09-10 13:25:36 : INFO] - 100 
+[2021-09-10 13:25:37 : INFO] - Re_Smush_It_Task with attachment ID : 4620, autocreated on : September 10, 2021 01:18:11 
+[2021-09-10 13:25:37 : INFO] - 100 
+[2021-09-10 13:25:40 : INFO] - Re_Smush_It_Task with attachment ID : 4620, autocreated on : September 10, 2021 01:18:11 
+[2021-09-10 13:25:40 : INFO] - 100 
+[2021-09-10 13:25:42 : INFO] - Re_Smush_It_Task with attachment ID : 4620, autocreated on : September 10, 2021 01:18:11 
+[2021-09-10 13:25:42 : INFO] - 100 
+[2021-09-10 13:25:44 : INFO] - Re_Smush_It_Task with attachment ID : 4620, autocreated on : September 10, 2021 01:18:11 
+[2021-09-10 13:25:44 : INFO] - 100 
+[2021-09-10 13:25:45 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/handbook-S_Mesa-de-trabajo-1.png.El archivo ha sido comprimido de 184.03 KB a 64.46 KB ahorrando un 64.97 por ciento utilizando WP-Optimize 
+[2021-09-10 13:25:45 : INFO] - Completed processing task with ID : 423, and type 'smush' 
+[2021-09-10 13:25:45 : INFO] - Set semaphore last lock (smush) time to 2021-09-10 13:25:45 
+[2021-09-10 13:25:45 : INFO] - Processing task with ID : 421, and type 'smush' 
+[2021-09-10 13:25:45 : INFO] - Re_Smush_It_Task with attachment ID : 4617, autocreated on : September 10, 2021 01:15:59 
+[2021-09-10 13:25:45 : INFO] - 100 
+[2021-09-10 13:25:47 : INFO] - Backing up the original image - 2021/09/handbook-K_Mesa-de-trabajo-1-updraft-pre-smush-original.png 
+[2021-09-10 13:25:47 : INFO] - Re_Smush_It_Task with attachment ID : 4617, autocreated on : September 10, 2021 01:15:59 
+[2021-09-10 13:25:47 : INFO] - 100 
+[2021-09-10 13:25:49 : INFO] - Re_Smush_It_Task with attachment ID : 4617, autocreated on : September 10, 2021 01:15:59 
+[2021-09-10 13:25:49 : INFO] - 100 
+[2021-09-10 13:25:50 : INFO] - Re_Smush_It_Task with attachment ID : 4617, autocreated on : September 10, 2021 01:15:59 
+[2021-09-10 13:25:50 : INFO] - 100 
+[2021-09-10 13:25:51 : INFO] - Re_Smush_It_Task with attachment ID : 4617, autocreated on : September 10, 2021 01:15:59 
+[2021-09-10 13:25:51 : INFO] - 100 
+[2021-09-10 13:25:53 : INFO] - Re_Smush_It_Task with attachment ID : 4617, autocreated on : September 10, 2021 01:15:59 
+[2021-09-10 13:25:53 : INFO] - 100 
+[2021-09-10 13:25:56 : INFO] - Re_Smush_It_Task with attachment ID : 4617, autocreated on : September 10, 2021 01:15:59 
+[2021-09-10 13:25:56 : INFO] - 100 
+[2021-09-10 13:25:58 : INFO] - Re_Smush_It_Task with attachment ID : 4617, autocreated on : September 10, 2021 01:15:59 
+[2021-09-10 13:25:58 : INFO] - 100 
+[2021-09-10 13:25:59 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/handbook-K_Mesa-de-trabajo-1.png.El archivo ha sido comprimido de 183.12 KB a 60.92 KB ahorrando un 66.73 por ciento utilizando WP-Optimize 
+[2021-09-10 13:25:59 : INFO] - Completed processing task with ID : 421, and type 'smush' 
+[2021-09-10 13:25:59 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-10 13:25:59 : INFO] - Semaphore (smush) unlocked 
+[2021-09-10 13:25:59 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2021-09-10 13:25:59 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-09-10 13:25:59 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2021-09-10 13:41:08 : INFO] - 
+ 
+[2021-09-10 13:41:08 : INFO] - Header for logs at time:  Fri, 10 Sep 2021 13:41:08 +0000 on http://test.stpauls.edu.ar 
+[2021-09-10 13:41:08 : INFO] - WP: 5.8.1 
+[2021-09-10 13:41:08 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-10 13:41:08 : INFO] - MySQL: 5.7.35 
+[2021-09-10 13:41:08 : INFO] - WPLANG: es_ES 
+[2021-09-10 13:41:08 : INFO] - Server: Apache 
+[2021-09-10 13:41:08 : INFO] - Outbound connections: N 
+[2021-09-10 13:41:08 : INFO] - safe_mode: 0 
+[2021-09-10 13:41:08 : INFO] - max_execution_time: 30 
+[2021-09-10 13:41:08 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-10 13:41:08 : INFO] - multisite: N 
+[2021-09-10 13:41:08 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-10 13:41:08 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-09-11 00:32:09 : INFO] - Re_Smush_It_Task with attachment ID : 4622, autocreated on : September 11, 2021 12:32:09 
+[2021-09-11 00:38:26 : INFO] - 
+ 
+[2021-09-11 00:38:26 : INFO] - Header for logs at time:  Sat, 11 Sep 2021 00:38:26 +0000 on http://test.stpauls.edu.ar 
+[2021-09-11 00:38:26 : INFO] - WP: 5.8.1 
+[2021-09-11 00:38:26 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-11 00:38:26 : INFO] - MySQL: 5.7.35 
+[2021-09-11 00:38:26 : INFO] - WPLANG: es_ES 
+[2021-09-11 00:38:26 : INFO] - Server: Apache 
+[2021-09-11 00:38:26 : INFO] - Outbound connections: N 
+[2021-09-11 00:38:26 : INFO] - safe_mode: 0 
+[2021-09-11 00:38:26 : INFO] - max_execution_time: 30 
+[2021-09-11 00:38:26 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-11 00:38:26 : INFO] - multisite: N 
+[2021-09-11 00:38:26 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-11 00:38:26 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-09-11 00:38:26 : INFO] - Set semaphore last lock (smush) time to 2021-09-11 00:38:26 
+[2021-09-11 00:38:26 : INFO] - Semaphore lock (smush) complete 
+[2021-09-11 00:38:26 : INFO] - Processing task with ID : 424, and type 'smush' 
+[2021-09-11 00:38:26 : INFO] - Task with ID 424 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2021/09/SEPTIEMBRE-MENU.pdf - cannot be optimized, it has an invalid file type 
+[2021-09-11 00:38:26 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-11 00:38:26 : INFO] - Semaphore (smush) unlocked 
+[2021-09-11 00:38:26 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-09-11 00:38:26 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-09-11 00:38:26 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-09-11 00:48:31 : INFO] - 
+ 
+[2021-09-11 00:48:31 : INFO] - Header for logs at time:  Sat, 11 Sep 2021 00:48:31 +0000 on http://test.stpauls.edu.ar 
+[2021-09-11 00:48:31 : INFO] - WP: 5.8.1 
+[2021-09-11 00:48:31 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-11 00:48:31 : INFO] - MySQL: 5.7.35 
+[2021-09-11 00:48:31 : INFO] - WPLANG: es_ES 
+[2021-09-11 00:48:31 : INFO] - Server: Apache 
+[2021-09-11 00:48:31 : INFO] - Outbound connections: N 
+[2021-09-11 00:48:31 : INFO] - safe_mode: 0 
+[2021-09-11 00:48:31 : INFO] - max_execution_time: 30 
+[2021-09-11 00:48:31 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-11 00:48:31 : INFO] - multisite: N 
+[2021-09-11 00:48:31 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-11 00:48:31 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-09-15 11:38:00 : INFO] - Re_Smush_It_Task with attachment ID : 4627, autocreated on : September 15, 2021 11:38:00 
+[2021-09-15 11:43:55 : INFO] - 
+ 
+[2021-09-15 11:43:55 : INFO] - Header for logs at time:  Wed, 15 Sep 2021 11:43:55 +0000 on http://test.stpauls.edu.ar 
+[2021-09-15 11:43:55 : INFO] - WP: 5.8.1 
+[2021-09-15 11:43:55 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-15 11:43:55 : INFO] - MySQL: 5.7.35 
+[2021-09-15 11:43:55 : INFO] - WPLANG: es_ES 
+[2021-09-15 11:43:55 : INFO] - Server: Apache 
+[2021-09-15 11:43:55 : INFO] - Outbound connections: N 
+[2021-09-15 11:43:55 : INFO] - safe_mode: 0 
+[2021-09-15 11:43:55 : INFO] - max_execution_time: 30 
+[2021-09-15 11:43:55 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-15 11:43:55 : INFO] - multisite: N 
+[2021-09-15 11:43:55 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-15 11:43:55 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-09-15 11:43:56 : INFO] - Set semaphore last lock (smush) time to 2021-09-15 11:43:56 
+[2021-09-15 11:43:56 : INFO] - Semaphore lock (smush) complete 
+[2021-09-15 11:43:56 : INFO] - Processing task with ID : 425, and type 'smush' 
+[2021-09-15 11:43:56 : INFO] - Re_Smush_It_Task with attachment ID : 4627, autocreated on : September 15, 2021 11:38:00 
+[2021-09-15 11:43:56 : INFO] - 100 
+[2021-09-15 11:43:57 : INFO] - Backing up the original image - 2021/09/WhatsApp-Image-2021-09-09-at-18.29.27-updraft-pre-smush-original.jpeg 
+[2021-09-15 11:43:57 : INFO] - Re_Smush_It_Task with attachment ID : 4627, autocreated on : September 15, 2021 11:38:00 
+[2021-09-15 11:43:57 : INFO] - 100 
+[2021-09-15 11:43:58 : INFO] - Re_Smush_It_Task with attachment ID : 4627, autocreated on : September 15, 2021 11:38:00 
+[2021-09-15 11:43:58 : INFO] - 100 
+[2021-09-15 11:44:00 : INFO] - Re_Smush_It_Task with attachment ID : 4627, autocreated on : September 15, 2021 11:38:00 
+[2021-09-15 11:44:00 : INFO] - 100 
+[2021-09-15 11:44:01 : INFO] - Re_Smush_It_Task with attachment ID : 4627, autocreated on : September 15, 2021 11:38:00 
+[2021-09-15 11:44:01 : INFO] - 100 
+[2021-09-15 11:44:02 : INFO] - Re_Smush_It_Task with attachment ID : 4627, autocreated on : September 15, 2021 11:38:00 
+[2021-09-15 11:44:02 : INFO] - 100 
+[2021-09-15 11:44:03 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-09-at-18.29.27.jpeg.El archivo ha sido comprimido de 98.96 KB a 93.58 KB ahorrando un 5.44 por ciento utilizando WP-Optimize 
+[2021-09-15 11:44:03 : INFO] - Completed processing task with ID : 425, and type 'smush' 
+[2021-09-15 11:44:03 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-15 11:44:03 : INFO] - Semaphore (smush) unlocked 
+[2021-09-15 11:44:03 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-09-15 11:44:03 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-09-15 11:44:03 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-09-15 11:54:23 : INFO] - 
+ 
+[2021-09-15 11:54:23 : INFO] - Header for logs at time:  Wed, 15 Sep 2021 11:54:23 +0000 on http://test.stpauls.edu.ar 
+[2021-09-15 11:54:23 : INFO] - WP: 5.8.1 
+[2021-09-15 11:54:23 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-15 11:54:23 : INFO] - MySQL: 5.7.35 
+[2021-09-15 11:54:23 : INFO] - WPLANG: es_ES 
+[2021-09-15 11:54:23 : INFO] - Server: Apache 
+[2021-09-15 11:54:23 : INFO] - Outbound connections: N 
+[2021-09-15 11:54:23 : INFO] - safe_mode: 0 
+[2021-09-15 11:54:23 : INFO] - max_execution_time: 30 
+[2021-09-15 11:54:23 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-15 11:54:23 : INFO] - multisite: N 
+[2021-09-15 11:54:23 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-15 11:54:23 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-09-15 11:54:56 : INFO] - Re_Smush_It_Task with attachment ID : 4630, autocreated on : September 15, 2021 11:54:56 
+[2021-09-15 12:00:05 : INFO] - 
+ 
+[2021-09-15 12:00:05 : INFO] - Header for logs at time:  Wed, 15 Sep 2021 12:00:05 +0000 on http://test.stpauls.edu.ar 
+[2021-09-15 12:00:05 : INFO] - WP: 5.8.1 
+[2021-09-15 12:00:05 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-15 12:00:05 : INFO] - MySQL: 5.7.35 
+[2021-09-15 12:00:05 : INFO] - WPLANG: es_ES 
+[2021-09-15 12:00:05 : INFO] - Server: Apache 
+[2021-09-15 12:00:05 : INFO] - Outbound connections: N 
+[2021-09-15 12:00:05 : INFO] - safe_mode: 0 
+[2021-09-15 12:00:05 : INFO] - max_execution_time: 30 
+[2021-09-15 12:00:05 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-15 12:00:05 : INFO] - multisite: N 
+[2021-09-15 12:00:05 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-15 12:00:05 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-09-15 12:00:05 : INFO] - Set semaphore last lock (smush) time to 2021-09-15 12:00:05 
+[2021-09-15 12:00:05 : INFO] - Semaphore lock (smush) complete 
+[2021-09-15 12:00:05 : INFO] - Processing task with ID : 426, and type 'smush' 
+[2021-09-15 12:00:05 : INFO] - Task with ID 426 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2021/09/WhatsApp-Video-2021-09-09-at-18.29.28.mp4 - cannot be optimized, it has an invalid file type 
+[2021-09-15 12:00:05 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-15 12:00:05 : INFO] - Semaphore (smush) unlocked 
+[2021-09-15 12:00:05 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-09-15 12:00:05 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-09-15 12:00:05 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-09-15 12:10:54 : INFO] - 
+ 
+[2021-09-15 12:10:54 : INFO] - Header for logs at time:  Wed, 15 Sep 2021 12:10:54 +0000 on http://test.stpauls.edu.ar 
+[2021-09-15 12:10:54 : INFO] - WP: 5.8.1 
+[2021-09-15 12:10:54 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-15 12:10:54 : INFO] - MySQL: 5.7.35 
+[2021-09-15 12:10:54 : INFO] - WPLANG: es_ES 
+[2021-09-15 12:10:54 : INFO] - Server: Apache 
+[2021-09-15 12:10:54 : INFO] - Outbound connections: N 
+[2021-09-15 12:10:54 : INFO] - safe_mode: 0 
+[2021-09-15 12:10:54 : INFO] - max_execution_time: 30 
+[2021-09-15 12:10:54 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-15 12:10:54 : INFO] - multisite: N 
+[2021-09-15 12:10:54 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-15 12:10:54 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-09-16 17:40:43 : INFO] - Re_Smush_It_Task with attachment ID : 4632, autocreated on : September 16, 2021 05:40:43 
+[2021-09-16 17:52:57 : INFO] - 
+ 
+[2021-09-16 17:52:57 : INFO] - Header for logs at time:  Thu, 16 Sep 2021 17:52:57 +0000 on http://test.stpauls.edu.ar 
+[2021-09-16 17:52:57 : INFO] - WP: 5.8.1 
+[2021-09-16 17:52:57 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-16 17:52:57 : INFO] - MySQL: 5.7.35 
+[2021-09-16 17:52:57 : INFO] - WPLANG: es_ES 
+[2021-09-16 17:52:57 : INFO] - Server: Apache 
+[2021-09-16 17:52:57 : INFO] - Outbound connections: N 
+[2021-09-16 17:52:57 : INFO] - safe_mode: 0 
+[2021-09-16 17:52:57 : INFO] - max_execution_time: 30 
+[2021-09-16 17:52:57 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-16 17:52:57 : INFO] - multisite: N 
+[2021-09-16 17:52:57 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-16 17:52:57 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-09-16 17:52:57 : INFO] - Set semaphore last lock (smush) time to 2021-09-16 17:52:57 
+[2021-09-16 17:52:57 : INFO] - Semaphore lock (smush) complete 
+[2021-09-16 17:52:57 : INFO] - Processing task with ID : 427, and type 'smush' 
+[2021-09-16 17:52:57 : INFO] - Re_Smush_It_Task with attachment ID : 4632, autocreated on : September 16, 2021 05:40:43 
+[2021-09-16 17:52:57 : INFO] - 100 
+[2021-09-16 17:52:59 : INFO] - Backing up the original image - 2021/09/logostpauls-updraft-pre-smush-original.jpg 
+[2021-09-16 17:52:59 : INFO] - Re_Smush_It_Task with attachment ID : 4632, autocreated on : September 16, 2021 05:40:43 
+[2021-09-16 17:52:59 : INFO] - 100 
+[2021-09-16 17:53:00 : INFO] - Re_Smush_It_Task with attachment ID : 4632, autocreated on : September 16, 2021 05:40:43 
+[2021-09-16 17:53:00 : INFO] - 100 
+[2021-09-16 17:53:02 : INFO] - Re_Smush_It_Task with attachment ID : 4632, autocreated on : September 16, 2021 05:40:43 
+[2021-09-16 17:53:02 : INFO] - 100 
+[2021-09-16 17:53:02 : INFO] - Re_Smush_It_Task with attachment ID : 4632, autocreated on : September 16, 2021 05:40:43 
+[2021-09-16 17:53:02 : INFO] - 100 
+[2021-09-16 17:53:07 : INFO] - Re_Smush_It_Task with attachment ID : 4632, autocreated on : September 16, 2021 05:40:43 
+[2021-09-16 17:53:07 : INFO] - 100 
+[2021-09-16 17:53:08 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/logostpauls.jpg.El archivo ha sido comprimido de 330.01 KB a 233.44 KB ahorrando un 29.26 por ciento utilizando WP-Optimize 
+[2021-09-16 17:53:08 : INFO] - Completed processing task with ID : 427, and type 'smush' 
+[2021-09-16 17:53:08 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-16 17:53:08 : INFO] - Semaphore (smush) unlocked 
+[2021-09-16 17:53:08 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-09-16 17:53:08 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-09-16 17:53:08 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-09-16 17:55:24 : INFO] - Re_Smush_It_Task with attachment ID : 4633, autocreated on : September 16, 2021 05:55:24 
+[2021-09-16 17:56:26 : INFO] - Re_Smush_It_Task with attachment ID : 4634, autocreated on : September 16, 2021 05:56:26 
+[2021-09-16 20:05:11 : INFO] - 
+ 
+[2021-09-16 20:05:11 : INFO] - Header for logs at time:  Thu, 16 Sep 2021 20:05:11 +0000 on http://test.stpauls.edu.ar 
+[2021-09-16 20:05:11 : INFO] - WP: 5.8.1 
+[2021-09-16 20:05:11 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-16 20:05:11 : INFO] - MySQL: 5.7.35 
+[2021-09-16 20:05:11 : INFO] - WPLANG: es_ES 
+[2021-09-16 20:05:11 : INFO] - Server: Apache 
+[2021-09-16 20:05:11 : INFO] - Outbound connections: N 
+[2021-09-16 20:05:11 : INFO] - safe_mode: 0 
+[2021-09-16 20:05:11 : INFO] - max_execution_time: 30 
+[2021-09-16 20:05:11 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-16 20:05:11 : INFO] - multisite: N 
+[2021-09-16 20:05:11 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-16 20:05:11 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-09-16 20:05:11 : INFO] - Set semaphore last lock (smush) time to 2021-09-16 20:05:11 
+[2021-09-16 20:05:11 : INFO] - Semaphore lock (smush) complete 
+[2021-09-16 20:05:11 : INFO] - Processing task with ID : 429, and type 'smush' 
+[2021-09-16 20:05:11 : INFO] - Re_Smush_It_Task with attachment ID : 4634, autocreated on : September 16, 2021 05:56:26 
+[2021-09-16 20:05:11 : INFO] - 100 
+[2021-09-16 20:05:12 : INFO] - Backing up the original image - 2021/09/WhatsApp-Image-2021-09-16-at-08.18.42-updraft-pre-smush-original.jpeg 
+[2021-09-16 20:05:12 : INFO] - Re_Smush_It_Task with attachment ID : 4634, autocreated on : September 16, 2021 05:56:26 
+[2021-09-16 20:05:12 : INFO] - 100 
+[2021-09-16 20:05:13 : INFO] - Re_Smush_It_Task with attachment ID : 4634, autocreated on : September 16, 2021 05:56:26 
+[2021-09-16 20:05:13 : INFO] - 100 
+[2021-09-16 20:05:14 : INFO] - Re_Smush_It_Task with attachment ID : 4634, autocreated on : September 16, 2021 05:56:26 
+[2021-09-16 20:05:14 : INFO] - 100 
+[2021-09-16 20:05:14 : INFO] - Re_Smush_It_Task with attachment ID : 4634, autocreated on : September 16, 2021 05:56:26 
+[2021-09-16 20:05:14 : INFO] - 100 
+[2021-09-16 20:05:15 : INFO] - Re_Smush_It_Task with attachment ID : 4634, autocreated on : September 16, 2021 05:56:26 
+[2021-09-16 20:05:15 : INFO] - 100 
+[2021-09-16 20:05:16 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/WhatsApp-Image-2021-09-16-at-08.18.42.jpeg.El archivo ha sido comprimido de 94.27 KB a 92.45 KB ahorrando un 1.93 por ciento utilizando WP-Optimize 
+[2021-09-16 20:05:16 : INFO] - Completed processing task with ID : 429, and type 'smush' 
+[2021-09-16 20:05:16 : INFO] - Processing task with ID : 428, and type 'smush' 
+[2021-09-16 20:05:16 : INFO] - Re_Smush_It_Task with attachment ID : 4633, autocreated on : September 16, 2021 05:55:24 
+[2021-09-16 20:05:16 : INFO] - 100 
+[2021-09-16 20:05:16 : INFO] - Backing up the original image - 2021/09/e6b37bde891bd166f19377353f74fe71-updraft-pre-smush-original.jpg 
+[2021-09-16 20:05:16 : INFO] - Re_Smush_It_Task with attachment ID : 4633, autocreated on : September 16, 2021 05:55:24 
+[2021-09-16 20:05:16 : INFO] - 100 
+[2021-09-16 20:05:17 : INFO] - Re_Smush_It_Task with attachment ID : 4633, autocreated on : September 16, 2021 05:55:24 
+[2021-09-16 20:05:17 : INFO] - 100 
+[2021-09-16 20:05:18 : INFO] - Re_Smush_It_Task with attachment ID : 4633, autocreated on : September 16, 2021 05:55:24 
+[2021-09-16 20:05:18 : INFO] - 100 
+[2021-09-16 20:05:19 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/e6b37bde891bd166f19377353f74fe71.jpg.El archivo ha sido comprimido de 23.32 KB a 23.32 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-09-16 20:05:19 : INFO] - Completed processing task with ID : 428, and type 'smush' 
+[2021-09-16 20:05:19 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-16 20:05:19 : INFO] - Semaphore (smush) unlocked 
+[2021-09-16 20:05:19 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-09-16 20:05:19 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-09-16 20:05:19 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-09-16 20:15:23 : INFO] - 
+ 
+[2021-09-16 20:15:23 : INFO] - Header for logs at time:  Thu, 16 Sep 2021 20:15:23 +0000 on http://test.stpauls.edu.ar 
+[2021-09-16 20:15:23 : INFO] - WP: 5.8.1 
+[2021-09-16 20:15:23 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-16 20:15:23 : INFO] - MySQL: 5.7.35 
+[2021-09-16 20:15:23 : INFO] - WPLANG: es_ES 
+[2021-09-16 20:15:23 : INFO] - Server: Apache 
+[2021-09-16 20:15:23 : INFO] - Outbound connections: N 
+[2021-09-16 20:15:23 : INFO] - safe_mode: 0 
+[2021-09-16 20:15:23 : INFO] - max_execution_time: 30 
+[2021-09-16 20:15:23 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-16 20:15:23 : INFO] - multisite: N 
+[2021-09-16 20:15:23 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-16 20:15:23 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-09-17 14:42:00 : INFO] - Re_Smush_It_Task with attachment ID : 4636, autocreated on : September 17, 2021 02:42:00 
+[2021-09-17 14:44:18 : INFO] - Re_Smush_It_Task with attachment ID : 4637, autocreated on : September 17, 2021 02:44:18 
+[2021-09-17 14:47:11 : INFO] - 
+ 
+[2021-09-17 14:47:11 : INFO] - Header for logs at time:  Fri, 17 Sep 2021 14:47:11 +0000 on http://test.stpauls.edu.ar 
+[2021-09-17 14:47:11 : INFO] - WP: 5.8.1 
+[2021-09-17 14:47:11 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-17 14:47:11 : INFO] - MySQL: 5.7.35 
+[2021-09-17 14:47:11 : INFO] - WPLANG: es_ES 
+[2021-09-17 14:47:11 : INFO] - Server: Apache 
+[2021-09-17 14:47:11 : INFO] - Outbound connections: N 
+[2021-09-17 14:47:11 : INFO] - safe_mode: 0 
+[2021-09-17 14:47:11 : INFO] - max_execution_time: 30 
+[2021-09-17 14:47:11 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-17 14:47:11 : INFO] - multisite: N 
+[2021-09-17 14:47:11 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-17 14:47:11 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2021-09-17 14:47:11 : INFO] - Set semaphore last lock (smush) time to 2021-09-17 14:47:11 
+[2021-09-17 14:47:11 : INFO] - Semaphore lock (smush) complete 
+[2021-09-17 14:47:11 : INFO] - Processing task with ID : 431, and type 'smush' 
+[2021-09-17 14:47:11 : INFO] - Task with ID 431 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2021/09/Libros-y-materiales-E.S-2021.pdf - cannot be optimized, it has an invalid file type 
+[2021-09-17 14:47:11 : INFO] - Processing task with ID : 430, and type 'smush' 
+[2021-09-17 14:47:11 : INFO] - Task with ID 430 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2021/09/LIBROS-EGB1-Y-EGB2-2021.pdf - cannot be optimized, it has an invalid file type 
+[2021-09-17 14:47:11 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-17 14:47:11 : INFO] - Semaphore (smush) unlocked 
+[2021-09-17 14:47:11 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2021-09-17 14:47:11 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-09-17 14:47:11 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2021-09-17 14:58:14 : INFO] - 
+ 
+[2021-09-17 14:58:14 : INFO] - Header for logs at time:  Fri, 17 Sep 2021 14:58:14 +0000 on http://test.stpauls.edu.ar 
+[2021-09-17 14:58:14 : INFO] - WP: 5.8.1 
+[2021-09-17 14:58:14 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-17 14:58:14 : INFO] - MySQL: 5.7.35 
+[2021-09-17 14:58:14 : INFO] - WPLANG: es_ES 
+[2021-09-17 14:58:14 : INFO] - Server: Apache 
+[2021-09-17 14:58:14 : INFO] - Outbound connections: N 
+[2021-09-17 14:58:14 : INFO] - safe_mode: 0 
+[2021-09-17 14:58:14 : INFO] - max_execution_time: 30 
+[2021-09-17 14:58:14 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-17 14:58:14 : INFO] - multisite: N 
+[2021-09-17 14:58:14 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-17 14:58:14 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-09-28 14:11:57 : INFO] - Re_Smush_It_Task with attachment ID : 4641, autocreated on : September 28, 2021 02:11:57 
+[2021-09-28 14:17:01 : INFO] - 
+ 
+[2021-09-28 14:17:01 : INFO] - Header for logs at time:  Tue, 28 Sep 2021 14:17:01 +0000 on http://test.stpauls.edu.ar 
+[2021-09-28 14:17:01 : INFO] - WP: 5.8.1 
+[2021-09-28 14:17:01 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-28 14:17:01 : INFO] - MySQL: 5.7.35 
+[2021-09-28 14:17:01 : INFO] - WPLANG: es_ES 
+[2021-09-28 14:17:01 : INFO] - Server: Apache 
+[2021-09-28 14:17:01 : INFO] - Outbound connections: N 
+[2021-09-28 14:17:01 : INFO] - safe_mode: 0 
+[2021-09-28 14:17:01 : INFO] - max_execution_time: 30 
+[2021-09-28 14:17:01 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-28 14:17:01 : INFO] - multisite: N 
+[2021-09-28 14:17:01 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-28 14:17:01 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-09-28 14:17:01 : INFO] - Set semaphore last lock (smush) time to 2021-09-28 14:17:01 
+[2021-09-28 14:17:01 : INFO] - Semaphore lock (smush) complete 
+[2021-09-28 14:17:01 : INFO] - Processing task with ID : 432, and type 'smush' 
+[2021-09-28 14:17:01 : INFO] - Task with ID 432 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2021/09/menu-octubre.pdf - cannot be optimized, it has an invalid file type 
+[2021-09-28 14:17:01 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-28 14:17:01 : INFO] - Semaphore (smush) unlocked 
+[2021-09-28 14:17:01 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-09-28 14:17:01 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-09-28 14:17:01 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-09-28 14:26:14 : INFO] - Re_Smush_It_Task with attachment ID : 4643, autocreated on : September 28, 2021 02:26:14 
+[2021-09-28 14:27:01 : INFO] - 
+ 
+[2021-09-28 14:27:01 : INFO] - Header for logs at time:  Tue, 28 Sep 2021 14:27:01 +0000 on http://test.stpauls.edu.ar 
+[2021-09-28 14:27:01 : INFO] - WP: 5.8.1 
+[2021-09-28 14:27:01 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-28 14:27:01 : INFO] - MySQL: 5.7.35 
+[2021-09-28 14:27:01 : INFO] - WPLANG: es_ES 
+[2021-09-28 14:27:01 : INFO] - Server: Apache 
+[2021-09-28 14:27:01 : INFO] - Outbound connections: N 
+[2021-09-28 14:27:01 : INFO] - safe_mode: 0 
+[2021-09-28 14:27:01 : INFO] - max_execution_time: 30 
+[2021-09-28 14:27:01 : INFO] - memory_limit: 256M (used: 51.7M | 12.3M) 
+[2021-09-28 14:27:01 : INFO] - multisite: N 
+[2021-09-28 14:27:01 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-28 14:27:01 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-09-28 14:27:02 : INFO] - Set semaphore last lock (smush) time to 2021-09-28 14:27:02 
+[2021-09-28 14:27:02 : INFO] - Semaphore lock (smush) complete 
+[2021-09-28 14:27:02 : INFO] - Processing task with ID : 433, and type 'smush' 
+[2021-09-28 14:27:02 : INFO] - Task with ID 433 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2021/09/Menu-mes-de-agosto.pdf - cannot be optimized, it has an invalid file type 
+[2021-09-28 14:27:02 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-28 14:27:02 : INFO] - Semaphore (smush) unlocked 
+[2021-09-28 14:27:02 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-09-28 14:27:02 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-09-28 14:27:02 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-09-28 14:33:53 : INFO] - Re_Smush_It_Task with attachment ID : 4644, autocreated on : September 28, 2021 02:33:53 
+[2021-09-28 14:34:04 : INFO] - Re_Smush_It_Task with attachment ID : 4645, autocreated on : September 28, 2021 02:34:04 
+[2021-09-28 14:35:18 : INFO] - Re_Smush_It_Task with attachment ID : 4646, autocreated on : September 28, 2021 02:35:18 
+[2021-09-28 14:37:20 : INFO] - 
+ 
+[2021-09-28 14:37:20 : INFO] - Header for logs at time:  Tue, 28 Sep 2021 14:37:20 +0000 on http://test.stpauls.edu.ar 
+[2021-09-28 14:37:20 : INFO] - WP: 5.8.1 
+[2021-09-28 14:37:20 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-28 14:37:20 : INFO] - MySQL: 5.7.35 
+[2021-09-28 14:37:20 : INFO] - WPLANG: es_ES 
+[2021-09-28 14:37:20 : INFO] - Server: Apache 
+[2021-09-28 14:37:20 : INFO] - Outbound connections: N 
+[2021-09-28 14:37:20 : INFO] - safe_mode: 0 
+[2021-09-28 14:37:20 : INFO] - max_execution_time: 30 
+[2021-09-28 14:37:20 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-28 14:37:20 : INFO] - multisite: N 
+[2021-09-28 14:37:20 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-28 14:37:20 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2021-09-28 14:37:20 : INFO] - Set semaphore last lock (smush) time to 2021-09-28 14:37:20 
+[2021-09-28 14:37:20 : INFO] - Semaphore lock (smush) complete 
+[2021-09-28 14:37:20 : INFO] - Processing task with ID : 435, and type 'smush' 
+[2021-09-28 14:37:20 : INFO] - Re_Smush_It_Task with attachment ID : 4645, autocreated on : September 28, 2021 02:34:04 
+[2021-09-28 14:37:20 : INFO] - 100 
+[2021-09-28 14:37:21 : INFO] - Backing up the original image - 2021/09/ventajas-del-deporte-updraft-pre-smush-original.jpg 
+[2021-09-28 14:37:21 : INFO] - Re_Smush_It_Task with attachment ID : 4645, autocreated on : September 28, 2021 02:34:04 
+[2021-09-28 14:37:21 : INFO] - 100 
+[2021-09-28 14:37:31 : INFO] - Re_Smush_It_Task with attachment ID : 4645, autocreated on : September 28, 2021 02:34:04 
+[2021-09-28 14:37:31 : INFO] - 100 
+[2021-09-28 14:37:37 : INFO] - Task with ID 435 and type (smush) failed with error code invalid_response - The compression apparently succeeded, but WP-Optimize could not retrieve the compressed image from the remote server. 
+[2021-09-28 14:37:37 : INFO] - data: {"src":"http:\/\/par3.static.resmush.it\/f9521d4bcf1358931123a093495eb7e5\/_src_ventajas-del-deporte-150x150.jpg","dest":"http:\/\/par3.static.resmush.it\/f9521d4bcf1358931123a093495eb7e5\/ventajas-del-deporte-150x150.jpg","src_size":6325,"dest_size":6325,"percent":0,"output":"json","expires":"Tue, 28 Sep 2021 16:42:31 +0200","generator":"reSmush.it rev.3.0.4.20210124"} 
+[2021-09-28 14:37:37 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/ventajas-del-deporte.jpg.El archivo ha sido comprimido de 21.06 KB a 21.06 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-09-28 14:37:37 : INFO] - Completed processing task with ID : 435, and type 'smush' 
+[2021-09-28 14:37:37 : INFO] - Processing task with ID : 436, and type 'smush' 
+[2021-09-28 14:37:37 : INFO] - Re_Smush_It_Task with attachment ID : 4646, autocreated on : September 28, 2021 02:35:18 
+[2021-09-28 14:37:37 : INFO] - 100 
+[2021-09-28 14:37:44 : INFO] - Backing up the original image - 2021/08/ventajas-del-deporte-updraft-pre-smush-original.jpg 
+[2021-09-28 14:37:44 : INFO] - Re_Smush_It_Task with attachment ID : 4646, autocreated on : September 28, 2021 02:35:18 
+[2021-09-28 14:37:44 : INFO] - 100 
+[2021-09-28 14:37:46 : INFO] - Re_Smush_It_Task with attachment ID : 4646, autocreated on : September 28, 2021 02:35:18 
+[2021-09-28 14:37:46 : INFO] - 100 
+[2021-09-28 14:37:48 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/08/ventajas-del-deporte.jpg.El archivo ha sido comprimido de 21.06 KB a 21.06 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-09-28 14:37:48 : INFO] - Completed processing task with ID : 436, and type 'smush' 
+[2021-09-28 14:37:48 : INFO] - Set semaphore last lock (smush) time to 2021-09-28 14:37:48 
+[2021-09-28 14:37:48 : INFO] - Processing task with ID : 434, and type 'smush' 
+[2021-09-28 14:37:48 : INFO] - Re_Smush_It_Task with attachment ID : 4644, autocreated on : September 28, 2021 02:33:53 
+[2021-09-28 14:37:48 : INFO] - 100 
+[2021-09-28 14:37:52 : INFO] - Backing up the original image - 2021/09/download-updraft-pre-smush-original.jpg 
+[2021-09-28 14:37:52 : INFO] - Re_Smush_It_Task with attachment ID : 4644, autocreated on : September 28, 2021 02:33:53 
+[2021-09-28 14:37:52 : INFO] - 100 
+[2021-09-28 14:37:55 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2021/09/download.jpg.El archivo ha sido comprimido de 9.00 KB a 9.00 KB ahorrando un 0 por ciento utilizando WP-Optimize 
+[2021-09-28 14:37:55 : INFO] - Completed processing task with ID : 434, and type 'smush' 
+[2021-09-28 14:37:55 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-28 14:37:55 : INFO] - Semaphore (smush) unlocked 
+[2021-09-28 14:37:55 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2021-09-28 14:37:56 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-09-28 14:37:56 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2021-09-28 14:47:42 : INFO] - 
+ 
+[2021-09-28 14:47:42 : INFO] - Header for logs at time:  Tue, 28 Sep 2021 14:47:42 +0000 on http://test.stpauls.edu.ar 
+[2021-09-28 14:47:42 : INFO] - WP: 5.8.1 
+[2021-09-28 14:47:42 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-28 14:47:42 : INFO] - MySQL: 5.7.35 
+[2021-09-28 14:47:42 : INFO] - WPLANG: es_ES 
+[2021-09-28 14:47:42 : INFO] - Server: Apache 
+[2021-09-28 14:47:42 : INFO] - Outbound connections: N 
+[2021-09-28 14:47:42 : INFO] - safe_mode: 0 
+[2021-09-28 14:47:42 : INFO] - max_execution_time: 30 
+[2021-09-28 14:47:42 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-28 14:47:42 : INFO] - multisite: N 
+[2021-09-28 14:47:42 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-28 14:47:42 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-09-28 18:39:04 : INFO] - Re_Smush_It_Task with attachment ID : 4647, autocreated on : September 28, 2021 06:39:04 
+[2021-09-28 18:44:21 : INFO] - 
+ 
+[2021-09-28 18:44:21 : INFO] - Header for logs at time:  Tue, 28 Sep 2021 18:44:21 +0000 on http://test.stpauls.edu.ar 
+[2021-09-28 18:44:21 : INFO] - WP: 5.8.1 
+[2021-09-28 18:44:21 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-28 18:44:21 : INFO] - MySQL: 5.7.35 
+[2021-09-28 18:44:21 : INFO] - WPLANG: es_ES 
+[2021-09-28 18:44:21 : INFO] - Server: Apache 
+[2021-09-28 18:44:21 : INFO] - Outbound connections: N 
+[2021-09-28 18:44:21 : INFO] - safe_mode: 0 
+[2021-09-28 18:44:21 : INFO] - max_execution_time: 30 
+[2021-09-28 18:44:21 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-28 18:44:21 : INFO] - multisite: N 
+[2021-09-28 18:44:21 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-28 18:44:21 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-09-28 18:44:21 : INFO] - Set semaphore last lock (smush) time to 2021-09-28 18:44:21 
+[2021-09-28 18:44:21 : INFO] - Semaphore lock (smush) complete 
+[2021-09-28 18:44:21 : INFO] - Processing task with ID : 437, and type 'smush' 
+[2021-09-28 18:44:21 : INFO] - Task with ID 437 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2021/09/Requisitos-preliminares-para-la-inscripcion-administrativa-de-los-alumnos.pdf - cannot be optimized, it has an invalid file type 
+[2021-09-28 18:44:21 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-09-28 18:44:21 : INFO] - Semaphore (smush) unlocked 
+[2021-09-28 18:44:21 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-09-28 18:44:21 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-09-28 18:44:21 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-09-28 18:56:02 : INFO] - 
+ 
+[2021-09-28 18:56:02 : INFO] - Header for logs at time:  Tue, 28 Sep 2021 18:56:02 +0000 on http://test.stpauls.edu.ar 
+[2021-09-28 18:56:02 : INFO] - WP: 5.8.1 
+[2021-09-28 18:56:02 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-09-28 18:56:02 : INFO] - MySQL: 5.7.35 
+[2021-09-28 18:56:02 : INFO] - WPLANG: es_ES 
+[2021-09-28 18:56:02 : INFO] - Server: Apache 
+[2021-09-28 18:56:02 : INFO] - Outbound connections: N 
+[2021-09-28 18:56:02 : INFO] - safe_mode: 0 
+[2021-09-28 18:56:02 : INFO] - max_execution_time: 30 
+[2021-09-28 18:56:02 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-09-28 18:56:02 : INFO] - multisite: N 
+[2021-09-28 18:56:02 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-09-28 18:56:02 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2021-10-06 16:09:27 : INFO] - Re_Smush_It_Task with attachment ID : 4652, autocreated on : October 06, 2021 04:09:27 
+[2021-10-06 16:11:22 : INFO] - Re_Smush_It_Task with attachment ID : 4653, autocreated on : October 06, 2021 04:11:22 
+[2021-10-06 16:12:06 : INFO] - Re_Smush_It_Task with attachment ID : 4654, autocreated on : October 06, 2021 04:12:06 
+[2021-10-06 16:12:21 : INFO] - Re_Smush_It_Task with attachment ID : 4655, autocreated on : October 06, 2021 04:12:21 
+[2021-10-06 16:12:34 : INFO] - Re_Smush_It_Task with attachment ID : 4656, autocreated on : October 06, 2021 04:12:34 
+[2021-10-06 16:16:17 : INFO] - 
+ 
+[2021-10-06 16:16:17 : INFO] - Header for logs at time:  Wed, 06 Oct 2021 16:16:17 +0000 on http://test.stpauls.edu.ar 
+[2021-10-06 16:16:17 : INFO] - WP: 5.8.1 
+[2021-10-06 16:16:17 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-10-06 16:16:17 : INFO] - MySQL: 5.7.35 
+[2021-10-06 16:16:17 : INFO] - WPLANG: es_ES 
+[2021-10-06 16:16:17 : INFO] - Server: Apache 
+[2021-10-06 16:16:17 : INFO] - Outbound connections: N 
+[2021-10-06 16:16:17 : INFO] - safe_mode: 0 
+[2021-10-06 16:16:17 : INFO] - max_execution_time: 30 
+[2021-10-06 16:16:17 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-10-06 16:16:17 : INFO] - multisite: N 
+[2021-10-06 16:16:17 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-10-06 16:16:17 : INFO] - A total of 5 tasks of type smush found and will be processed in this iteration 
+[2021-10-06 16:16:17 : INFO] - Set semaphore last lock (smush) time to 2021-10-06 16:16:17 
+[2021-10-06 16:16:17 : INFO] - Semaphore lock (smush) complete 
+[2021-10-06 16:16:17 : INFO] - Processing task with ID : 442, and type 'smush' 
+[2021-10-06 16:16:17 : INFO] - Task with ID 442 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2021/10/Handbook-SEC-2022.pdf - cannot be optimized, it has an invalid file type 
+[2021-10-06 16:16:17 : INFO] - Processing task with ID : 441, and type 'smush' 
+[2021-10-06 16:16:17 : INFO] - Task with ID 441 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2021/10/Handbook-PRI-2022-OK.pdf - cannot be optimized, it has an invalid file type 
+[2021-10-06 16:16:17 : INFO] - Processing task with ID : 439, and type 'smush' 
+[2021-10-06 16:16:17 : INFO] - Task with ID 439 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2021/10/Anexos-PRI-2022.pdf - cannot be optimized, it has an invalid file type 
+[2021-10-06 16:16:17 : INFO] - Processing task with ID : 440, and type 'smush' 
+[2021-10-06 16:16:18 : INFO] - Task with ID 440 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2021/10/Handbook-KIN-2022.pdf - cannot be optimized, it has an invalid file type 
+[2021-10-06 16:16:18 : INFO] - Processing task with ID : 438, and type 'smush' 
+[2021-10-06 16:16:18 : INFO] - Task with ID 438 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2021/10/Anexos-KIN-2022.pdf - cannot be optimized, it has an invalid file type 
+[2021-10-06 16:16:18 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-10-06 16:16:18 : INFO] - Semaphore (smush) unlocked 
+[2021-10-06 16:16:18 : INFO] - Successfully processed the queue (smush). 5 tasks were processed out of 5. 
+[2021-10-06 16:16:19 : INFO] - Semaphore (smush, wp_options) was successfully cleaned up 
+[2021-10-06 16:16:19 : INFO] - Cleaning up tasks of type (smush). A total of 5 tasks will be deleted. 
+[2021-10-06 16:26:22 : INFO] - 
+ 
+[2021-10-06 16:26:22 : INFO] - Header for logs at time:  Wed, 06 Oct 2021 16:26:22 +0000 on http://test.stpauls.edu.ar 
+[2021-10-06 16:26:22 : INFO] - WP: 5.8.1 
+[2021-10-06 16:26:22 : INFO] - PHP: 7.2.34 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2021-10-06 16:26:22 : INFO] - MySQL: 5.7.35 
+[2021-10-06 16:26:22 : INFO] - WPLANG: es_ES 
+[2021-10-06 16:26:22 : INFO] - Server: Apache 
+[2021-10-06 16:26:22 : INFO] - Outbound connections: N 
+[2021-10-06 16:26:22 : INFO] - safe_mode: 0 
+[2021-10-06 16:26:22 : INFO] - max_execution_time: 30 
+[2021-10-06 16:26:22 : INFO] - memory_limit: 256M (used: 51.7M | 54.3M) 
+[2021-10-06 16:26:22 : INFO] - multisite: N 
+[2021-10-06 16:26:22 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2021-10-06 16:26:22 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-03-08 18:07:36 : INFO] - Re_Smush_It_Task with attachment ID : 4662, autocreated on : March 08, 2022 06:07:36 
+[2022-03-08 18:33:45 : INFO] - 
+ 
+[2022-03-08 18:33:45 : INFO] - Header for logs at time:  Tue, 08 Mar 2022 18:33:45 +0000 on https://test.stpauls.edu.ar 
+[2022-03-08 18:33:45 : INFO] - WP: 5.8.3 
+[2022-03-08 18:33:45 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2022-03-08 18:33:45 : INFO] - MySQL: 5.7.37 
+[2022-03-08 18:33:45 : INFO] - WPLANG: es_ES 
+[2022-03-08 18:33:45 : INFO] - Server: Apache 
+[2022-03-08 18:33:45 : INFO] - Outbound connections: N 
+[2022-03-08 18:33:45 : INFO] - safe_mode: 0 
+[2022-03-08 18:33:45 : INFO] - max_execution_time: 30 
+[2022-03-08 18:33:45 : INFO] - memory_limit: 256M (used: 54.4M | 56.5M) 
+[2022-03-08 18:33:45 : INFO] - multisite: N 
+[2022-03-08 18:33:45 : INFO] - openssl: OpenSSL 1.1.1m  14 Dec 2021 
+[2022-03-08 18:33:45 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-03-08 18:33:45 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-03-08 18:33:45 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-03-08 18:33:45 : INFO] - Processing task with ID : 443, and type 'smush' 
+[2022-03-08 18:33:45 : INFO] - Re_Smush_It_Task with attachment ID : 4662, autocreated on : March 08, 2022 06:07:36 
+[2022-03-08 18:33:45 : INFO] - 100 
+[2022-03-08 18:33:47 : INFO] - Backing up the original image - 2022/03/MENU-MARZO-2022-updraft-pre-smush-original.png 
+[2022-03-08 18:33:47 : INFO] - Re_Smush_It_Task with attachment ID : 4662, autocreated on : March 08, 2022 06:07:36 
+[2022-03-08 18:33:47 : INFO] - 100 
+[2022-03-08 18:33:48 : INFO] - Re_Smush_It_Task with attachment ID : 4662, autocreated on : March 08, 2022 06:07:36 
+[2022-03-08 18:33:48 : INFO] - 100 
+[2022-03-08 18:33:49 : INFO] - Re_Smush_It_Task with attachment ID : 4662, autocreated on : March 08, 2022 06:07:36 
+[2022-03-08 18:33:49 : INFO] - 100 
+[2022-03-08 18:33:50 : INFO] - Re_Smush_It_Task with attachment ID : 4662, autocreated on : March 08, 2022 06:07:36 
+[2022-03-08 18:33:50 : INFO] - 100 
+[2022-03-08 18:33:51 : INFO] - Re_Smush_It_Task with attachment ID : 4662, autocreated on : March 08, 2022 06:07:36 
+[2022-03-08 18:33:51 : INFO] - 100 
+[2022-03-08 18:33:53 : INFO] - Re_Smush_It_Task with attachment ID : 4662, autocreated on : March 08, 2022 06:07:36 
+[2022-03-08 18:33:53 : INFO] - 100 
+[2022-03-08 18:33:55 : INFO] - Successfully optimized the image - /home/paulscon/test/wp-content/uploads/2022/03/MENU-MARZO-2022.png.El archivo ha sido comprimido de 556.12 KB a 172.95 KB ahorrando un 68.9 por ciento utilizando WP-Optimize 
+[2022-03-08 18:33:55 : INFO] - Completed processing task with ID : 443, and type 'smush' 
+[2022-03-08 18:33:55 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-03-08 18:33:55 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-03-08 18:33:55 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-03-08 18:33:55 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-03-08 18:43:48 : INFO] - 
+ 
+[2022-03-08 18:43:48 : INFO] - Header for logs at time:  Tue, 08 Mar 2022 18:43:48 +0000 on https://test.stpauls.edu.ar 
+[2022-03-08 18:43:48 : INFO] - WP: 5.8.3 
+[2022-03-08 18:43:48 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2022-03-08 18:43:48 : INFO] - MySQL: 5.7.37 
+[2022-03-08 18:43:48 : INFO] - WPLANG: es_ES 
+[2022-03-08 18:43:48 : INFO] - Server: Apache 
+[2022-03-08 18:43:48 : INFO] - Outbound connections: N 
+[2022-03-08 18:43:48 : INFO] - safe_mode: 0 
+[2022-03-08 18:43:48 : INFO] - max_execution_time: 30 
+[2022-03-08 18:43:48 : INFO] - memory_limit: 256M (used: 54.4M | 26.5M) 
+[2022-03-08 18:43:48 : INFO] - multisite: N 
+[2022-03-08 18:43:48 : INFO] - openssl: OpenSSL 1.1.1m  14 Dec 2021 
+[2022-03-08 18:43:48 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
+[2022-03-11 19:52:12 : INFO] - Re_Smush_It_Task with attachment ID : 4668, autocreated on : March 11, 2022 07:52:12 
+[2022-03-11 19:57:20 : INFO] - 
+ 
+[2022-03-11 19:57:20 : INFO] - Header for logs at time:  Fri, 11 Mar 2022 19:57:20 +0000 on https://test.stpauls.edu.ar 
+[2022-03-11 19:57:20 : INFO] - WP: 5.8.3 
+[2022-03-11 19:57:20 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2022-03-11 19:57:20 : INFO] - MySQL: 5.7.37 
+[2022-03-11 19:57:20 : INFO] - WPLANG: es_ES 
+[2022-03-11 19:57:20 : INFO] - Server: Apache 
+[2022-03-11 19:57:20 : INFO] - Outbound connections: N 
+[2022-03-11 19:57:20 : INFO] - safe_mode: 0 
+[2022-03-11 19:57:20 : INFO] - max_execution_time: 30 
+[2022-03-11 19:57:20 : INFO] - memory_limit: 256M (used: 54.4M | 56.5M) 
+[2022-03-11 19:57:20 : INFO] - multisite: N 
+[2022-03-11 19:57:20 : INFO] - openssl: OpenSSL 1.1.1m  14 Dec 2021 
+[2022-03-11 19:57:20 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-03-11 19:57:20 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-03-11 19:57:20 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-03-11 19:57:20 : INFO] - Processing task with ID : 444, and type 'smush' 
+[2022-03-11 19:57:21 : INFO] - Task with ID 444 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2022/03/Handbook-SEC-2022-2.pdf - cannot be optimized, it has an invalid file type 
+[2022-03-11 19:57:21 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-03-11 19:57:21 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-03-11 19:57:21 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-03-11 19:57:21 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-03-11 19:59:27 : INFO] - Re_Smush_It_Task with attachment ID : 4671, autocreated on : March 11, 2022 07:59:27 
+[2022-03-11 19:59:32 : INFO] - Re_Smush_It_Task with attachment ID : 4672, autocreated on : March 11, 2022 07:59:32 
+[2022-03-11 20:07:21 : INFO] - 
+ 
+[2022-03-11 20:07:21 : INFO] - Header for logs at time:  Fri, 11 Mar 2022 20:07:21 +0000 on https://test.stpauls.edu.ar 
+[2022-03-11 20:07:21 : INFO] - WP: 5.8.3 
+[2022-03-11 20:07:21 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2022-03-11 20:07:21 : INFO] - MySQL: 5.7.37 
+[2022-03-11 20:07:21 : INFO] - WPLANG: es_ES 
+[2022-03-11 20:07:21 : INFO] - Server: Apache 
+[2022-03-11 20:07:21 : INFO] - Outbound connections: N 
+[2022-03-11 20:07:21 : INFO] - safe_mode: 0 
+[2022-03-11 20:07:21 : INFO] - max_execution_time: 30 
+[2022-03-11 20:07:21 : INFO] - memory_limit: 256M (used: 54.4M | 10.5M) 
+[2022-03-11 20:07:21 : INFO] - multisite: N 
+[2022-03-11 20:07:21 : INFO] - openssl: OpenSSL 1.1.1m  14 Dec 2021 
+[2022-03-11 20:07:21 : INFO] - A total of 2 tasks of type smush found and will be processed in this iteration 
+[2022-03-11 20:07:21 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-03-11 20:07:21 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-03-11 20:07:21 : INFO] - Processing task with ID : 446, and type 'smush' 
+[2022-03-11 20:07:21 : INFO] - Task with ID 446 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2022/03/Handbook-KIN-2022-2.pdf - cannot be optimized, it has an invalid file type 
+[2022-03-11 20:07:21 : INFO] - Processing task with ID : 445, and type 'smush' 
+[2022-03-11 20:07:21 : INFO] - Task with ID 445 and type (smush) failed with error code invalid_file_type - /home/paulscon/test/wp-content/uploads/2022/03/Handbook-PRI-2022-2.pdf - cannot be optimized, it has an invalid file type 
+[2022-03-11 20:07:22 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-03-11 20:07:22 : INFO] - Successfully processed the queue (smush). 2 tasks were processed out of 2. 
+[2022-03-11 20:07:22 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-03-11 20:07:22 : INFO] - Cleaning up tasks of type (smush). A total of 2 tasks will be deleted. 
+[2022-03-11 20:42:32 : INFO] - 
+ 
+[2022-03-11 20:42:32 : INFO] - Header for logs at time:  Fri, 11 Mar 2022 20:42:32 +0000 on https://test.stpauls.edu.ar 
+[2022-03-11 20:42:32 : INFO] - WP: 5.8.3 
+[2022-03-11 20:42:32 : INFO] - PHP: 7.4.28 (fpm-fcgi, Linux iweb.ezsolutions.com.ar 3.10.0-957.12.2.el7.x86_64 #1 SMP Tue May 14 21:24:32 UTC 2019 x86_64) 
+[2022-03-11 20:42:32 : INFO] - MySQL: 5.7.37 
+[2022-03-11 20:42:32 : INFO] - WPLANG: es_ES 
+[2022-03-11 20:42:32 : INFO] - Server: Apache 
+[2022-03-11 20:42:32 : INFO] - Outbound connections: N 
+[2022-03-11 20:42:32 : INFO] - safe_mode: 0 
+[2022-03-11 20:42:32 : INFO] - max_execution_time: 30 
+[2022-03-11 20:42:32 : INFO] - memory_limit: 256M (used: 54.4M | 56.5M) 
+[2022-03-11 20:42:32 : INFO] - multisite: N 
+[2022-03-11 20:42:32 : INFO] - openssl: OpenSSL 1.1.1m  14 Dec 2021 
+[2022-03-11 20:42:32 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
