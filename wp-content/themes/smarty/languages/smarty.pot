@@ -1,0 +1,4413 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Smarty\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-04 04:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: vc_templates/kindergarten/stm_event_header.php:29
+#: vc_templates/university/stm_event_header.php:29
+#: vc_templates/school/stm_event_header.php:29
+msgid " attended"
+msgstr ""
+
+#: inc/custom.php:285
+msgid " joined the event: "
+msgstr ""
+
+#: inc/custom-post-types/university/custom-post-types.php:900
+msgid "\"Administrator\" plural title"
+msgstr ""
+
+#: inc/custom-post-types/university/custom-post-types.php:908
+msgid "\"Administrator\" rewrite (URL text)"
+msgstr ""
+
+#: inc/custom-post-types/university/custom-post-types.php:892
+msgid "\"Administrator\" title (admin panel tab name)"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:732
+#: inc/custom-post-types/university/custom-post-types.php:790
+#: inc/custom-post-types/school/custom-post-types.php:719
+msgid "\"Courses Page\""
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:716
+#: inc/custom-post-types/university/custom-post-types.php:774
+#: inc/custom-post-types/school/custom-post-types.php:703
+msgid "\"Courses\" plural title"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:724
+#: inc/custom-post-types/university/custom-post-types.php:782
+#: inc/custom-post-types/school/custom-post-types.php:711
+msgid "\"Courses\" rewrite (URL text)"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:708
+#: inc/custom-post-types/university/custom-post-types.php:766
+#: inc/custom-post-types/school/custom-post-types.php:695
+msgid "\"Courses\" title (admin panel tab name)"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:771
+#: inc/custom-post-types/university/custom-post-types.php:829
+#: inc/custom-post-types/school/custom-post-types.php:758
+msgid "\"Donations Page\""
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:754
+#: inc/custom-post-types/university/custom-post-types.php:812
+#: inc/custom-post-types/school/custom-post-types.php:741
+msgid "\"Donations\" plural title"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:762
+#: inc/custom-post-types/university/custom-post-types.php:820
+#: inc/custom-post-types/school/custom-post-types.php:749
+msgid "\"Donations\" rewrite (URL text)"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:746
+#: inc/custom-post-types/university/custom-post-types.php:804
+#: inc/custom-post-types/school/custom-post-types.php:733
+msgid "\"Donations\" title (admin panel tab name)"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:794
+#: inc/custom-post-types/university/custom-post-types.php:852
+#: inc/custom-post-types/school/custom-post-types.php:781
+msgid "\"Meeting\" plural title"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:802
+#: inc/custom-post-types/university/custom-post-types.php:860
+#: inc/custom-post-types/school/custom-post-types.php:789
+msgid "\"Meeting\" rewrite (URL text)"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:786
+#: inc/custom-post-types/university/custom-post-types.php:844
+#: inc/custom-post-types/school/custom-post-types.php:773
+msgid "\"Meeting\" title (admin panel tab name)"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:818
+#: inc/custom-post-types/university/custom-post-types.php:876
+#: inc/custom-post-types/school/custom-post-types.php:805
+msgid "\"Teacher\" plural title"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:826
+#: inc/custom-post-types/university/custom-post-types.php:884
+#: inc/custom-post-types/school/custom-post-types.php:813
+msgid "\"Teacher\" rewrite (URL text)"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:810
+#: inc/custom-post-types/university/custom-post-types.php:868
+#: inc/custom-post-types/school/custom-post-types.php:797
+msgid "\"Teacher\" title (admin panel tab name)"
+msgstr ""
+
+#: parts/kindergarten/archive-stm_donation.php:58
+#: parts/university/archive-stm_donation.php:45
+#: parts/school/archive-stm_donation.php:45
+#: vc_templates/kindergarten/stm_donation_info.php:28
+#: vc_templates/kindergarten/stm_donations.php:77
+#: vc_templates/university/stm_donation_info.php:28
+#: vc_templates/university/stm_donations.php:70
+#: vc_templates/school/stm_donation_info.php:28
+#: vc_templates/school/stm_donations.php:70
+msgid "%"
+msgstr ""
+
+#: parts/kindergarten/page-title.php:131 parts/kindergarten/content.php:36
+#: parts/university/content.php:34 parts/university/search.php:80
+#: parts/school/content.php:30 parts/school/content.php:100
+#: parts/school/search.php:79 vc_templates/kindergarten/stm_post_header.php:25
+#: vc_templates/university/stm_post_header.php:25
+#: vc_templates/school/stm_post_header.php:25
+#: vc_templates/school/stm_posts.php:110
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:43
+#, php-format
+msgctxt "%1$d = first, %2$d = last, %3$d = total"
+msgid ""
+"Showing <strong>%1$d&ndash;%2$d</strong> of <strong>%3$d</strong> results"
+msgstr ""
+
+#: admin/screens/system_status.php:139 admin/screens/system_status.php:175
+#: admin/screens/system_status.php:204
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Max input vars limitation will truncate "
+"POST data such as menus. See: <a href=\"%3$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max input vars limit.</a>"
+msgstr ""
+
+#: admin/screens/system_status.php:219
+#, php-format
+msgid ""
+"%1$s - Recommended Value: %2$s.<br />Post Max Value Length limitation may "
+"prohibit the Theme Options data from being saved to your database. See: <a "
+"href=\"%3$s\" target=\"_blank\" rel=\"noopener noreferrer\">Suhosin "
+"Configuration Info</a>."
+msgstr ""
+
+#: admin/screens/system_status.php:107
+#, php-format
+msgid ""
+"%1$s - We recommend setting max execution time to at least 180. <br /> To "
+"import classic demo content, <strong>300</strong> seconds of max execution "
+"time is required.<br />See: <a href=\"%2$s\" target=\"_blank\" "
+"rel=\"noopener noreferrer\">Increasing max execution to PHP</a>"
+msgstr ""
+
+#: admin/screens/system_status.php:46
+#, php-format
+msgid ""
+"%1$s - We recommend setting memory to at least <strong>128MB</strong>. <br />"
+" To import classic demo data, <strong>256MB</strong> of memory limit is "
+"required. <br /> Please define memory limit in <strong>wp-config.php</strong>"
+" file. To learn how, see: <a href=\"%2$s\" target=\"_blank\" rel=\"noopener "
+"noreferrer\">Increasing memory allocated to PHP.</a>"
+msgstr ""
+
+#: parts/kindergarten/comments.php:12 parts/university/comments.php:12
+#: parts/school/comments.php:12
+#, php-format
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/custom.php:776 parts/mini-cart.php:17
+#, php-format
+msgid "%d"
+msgid_plural "%d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/custom.php:769 parts/mini-cart.php:10
+#, php-format
+msgid "%d product for"
+msgid_plural "%d products for"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/screens/support.php:15
+#, php-format
+msgid ""
+"%s comes with 6 months of free support for every license you purchase. "
+"Support can be extended through subscriptions via ThemeForest."
+msgstr ""
+
+#: woocommerce/cart/cart.php:100
+#, php-format
+msgid "%s customer review"
+msgid_plural "%s customer reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/myaccount/my-orders.php:65
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: admin/includes/admin_screens.php:152
+#, php-format
+msgid ""
+"%s is now installed and ready to use! Get ready to build something beautiful."
+" Please register your purchase to get automatic theme updates, import %1$s "
+"demos and install premium plugins. Read below for additional information. We "
+"hope you enjoy it! %s"
+msgstr ""
+
+#: admin/includes/envato-market/inc/github.php:294
+#, php-format
+msgid ""
+"%sActivate the Envato Market plugin%s to get updates for your ThemeForest "
+"and CodeCanyon items."
+msgstr ""
+
+#: admin/includes/envato-market/inc/github.php:305
+#, php-format
+msgid ""
+"%sInstall the Envato Market plugin%s to get updates for your ThemeForest and "
+"CodeCanyon items."
+msgstr ""
+
+#: parts/kindergarten/comments.php:18 parts/kindergarten/comments.php:36
+#: parts/university/comments.php:18 parts/university/comments.php:36
+#: parts/school/comments.php:18 parts/school/comments.php:36
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: inc/custom.php:628
+msgid "(Edit)"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:204
+#: inc/custom-post-types/university/custom-post-types.php:240
+#: inc/custom-post-types/school/custom-post-types.php:204
+msgid "(UTC+0100) Europe/Amsterdam"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:205
+#: inc/custom-post-types/university/custom-post-types.php:241
+#: inc/custom-post-types/school/custom-post-types.php:205
+msgid "(UTC+0100) Europe/Madrid"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:206
+#: inc/custom-post-types/university/custom-post-types.php:242
+#: inc/custom-post-types/school/custom-post-types.php:206
+msgid "(UTC+0100) Europe/Monaco"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:207
+#: inc/custom-post-types/university/custom-post-types.php:243
+#: inc/custom-post-types/school/custom-post-types.php:207
+msgid "(UTC+0100) Europe/Paris"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:208
+#: inc/custom-post-types/university/custom-post-types.php:244
+#: inc/custom-post-types/school/custom-post-types.php:208
+msgid "(UTC+0100) Europe/Podgorica"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:209
+#: inc/custom-post-types/university/custom-post-types.php:245
+#: inc/custom-post-types/school/custom-post-types.php:209
+msgid "(UTC+0100) Europe/Prague"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:210
+#: inc/custom-post-types/university/custom-post-types.php:246
+#: inc/custom-post-types/school/custom-post-types.php:210
+msgid "(UTC+0100) Europe/Rome"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:211
+#: inc/custom-post-types/university/custom-post-types.php:247
+#: inc/custom-post-types/school/custom-post-types.php:211
+msgid "(UTC+0200) Europe/Athens"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:212
+#: inc/custom-post-types/university/custom-post-types.php:248
+#: inc/custom-post-types/school/custom-post-types.php:212
+msgid "(UTC+0200) Europe/Bucharest"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:213
+#: inc/custom-post-types/university/custom-post-types.php:249
+#: inc/custom-post-types/school/custom-post-types.php:213
+msgid "(UTC+0200) Europe/Chisinau"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:214
+#: inc/custom-post-types/university/custom-post-types.php:250
+#: inc/custom-post-types/school/custom-post-types.php:214
+msgid "(UTC+0200) Europe/Helsinki"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:215
+#: inc/custom-post-types/university/custom-post-types.php:251
+#: inc/custom-post-types/school/custom-post-types.php:215
+msgid "(UTC+0200) Europe/Istanbul"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:216
+#: inc/custom-post-types/university/custom-post-types.php:252
+#: inc/custom-post-types/school/custom-post-types.php:216
+msgid "(UTC+0200) Europe/Kiev"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:217
+#: inc/custom-post-types/university/custom-post-types.php:253
+#: inc/custom-post-types/school/custom-post-types.php:217
+msgid "(UTC+0330) Asia/Tehran"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:218
+#: inc/custom-post-types/university/custom-post-types.php:254
+#: inc/custom-post-types/school/custom-post-types.php:218
+msgid "(UTC+0500) Asia/Samarkand"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:219
+#: inc/custom-post-types/university/custom-post-types.php:255
+#: inc/custom-post-types/school/custom-post-types.php:219
+msgid "(UTC+0500) Asia/Tashkent"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:220
+#: inc/custom-post-types/university/custom-post-types.php:256
+#: inc/custom-post-types/school/custom-post-types.php:220
+msgid "(UTC+0600) Asia/Almaty"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:221
+#: inc/custom-post-types/university/custom-post-types.php:257
+#: inc/custom-post-types/school/custom-post-types.php:221
+msgid "(UTC+0600) Asia/Bishkek"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:222
+#: inc/custom-post-types/university/custom-post-types.php:258
+#: inc/custom-post-types/school/custom-post-types.php:222
+msgid "(UTC+0700) Asia/Bangkok"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:223
+#: inc/custom-post-types/university/custom-post-types.php:259
+#: inc/custom-post-types/school/custom-post-types.php:223
+msgid "(UTC+0700) Asia/Barnaul"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:224
+#: inc/custom-post-types/university/custom-post-types.php:260
+#: inc/custom-post-types/school/custom-post-types.php:224
+msgid "(UTC+0800) Asia/Hong_Kong"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:225
+#: inc/custom-post-types/university/custom-post-types.php:261
+#: inc/custom-post-types/school/custom-post-types.php:225
+msgid "(UTC+0800) Australia/Perth"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:226
+#: inc/custom-post-types/university/custom-post-types.php:262
+#: inc/custom-post-types/school/custom-post-types.php:226
+msgid "(UTC+0845) Australia/Eucla"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:227
+#: inc/custom-post-types/university/custom-post-types.php:263
+#: inc/custom-post-types/school/custom-post-types.php:227
+msgid "(UTC+0900) Asia/Seoul"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:228
+#: inc/custom-post-types/university/custom-post-types.php:264
+#: inc/custom-post-types/school/custom-post-types.php:228
+msgid "(UTC+0900) Asia/Tokyo"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:229
+#: inc/custom-post-types/university/custom-post-types.php:265
+#: inc/custom-post-types/school/custom-post-types.php:229
+msgid "(UTC+1000) Asia/Chita"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:230
+#: inc/custom-post-types/university/custom-post-types.php:266
+#: inc/custom-post-types/school/custom-post-types.php:230
+msgid "(UTC+1000) Australia/Brisbane"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:231
+#: inc/custom-post-types/university/custom-post-types.php:267
+#: inc/custom-post-types/school/custom-post-types.php:231
+msgid "(UTC+1000) Australia/Lindeman"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:232
+#: inc/custom-post-types/university/custom-post-types.php:268
+#: inc/custom-post-types/school/custom-post-types.php:232
+msgid "(UTC+1030) Australia/Adelaide"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:233
+#: inc/custom-post-types/university/custom-post-types.php:269
+#: inc/custom-post-types/school/custom-post-types.php:233
+msgid "(UTC+1030) Australia/Broken_Hill"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:234
+#: inc/custom-post-types/university/custom-post-types.php:270
+#: inc/custom-post-types/school/custom-post-types.php:234
+msgid "(UTC+1100) Antarctica/Macquarie"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:235
+#: inc/custom-post-types/university/custom-post-types.php:271
+#: inc/custom-post-types/school/custom-post-types.php:235
+msgid "(UTC+1100) Australia/Currie"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:202
+#: inc/custom-post-types/university/custom-post-types.php:238
+#: inc/custom-post-types/school/custom-post-types.php:202
+msgid "(UTC-0500) America/New_York"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:201
+#: inc/custom-post-types/university/custom-post-types.php:237
+#: inc/custom-post-types/school/custom-post-types.php:201
+msgid "(UTC-1100) Pacific/Midway"
+msgstr ""
+
+#: parts/kindergarten/archive-stm_donation.php:62
+#: parts/kindergarten/archive-stm_donation.php:80
+#: parts/kindergarten/archive-stm_donation.php:110
+#: vc_templates/kindergarten/stm_donations.php:81
+#: vc_templates/kindergarten/stm_donations.php:99
+#: vc_templates/kindergarten/stm_donations.php:129
+msgid "0"
+msgstr ""
+
+#: parts/kindergarten/page-title.php:131 parts/kindergarten/content.php:36
+#: parts/university/content.php:34 parts/university/search.php:80
+#: parts/school/content.php:30 parts/school/content.php:100
+#: parts/school/search.php:79 vc_templates/kindergarten/stm_post_header.php:25
+#: vc_templates/university/stm_post_header.php:25
+#: vc_templates/school/stm_post_header.php:25
+#: vc_templates/school/stm_posts.php:110
+msgid "1 comment"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:464
+#: inc/customizer/university/registration.php:463
+#: inc/customizer/school/registration.php:453
+msgid "16-2, Best Avenue Street, CA 23653, USA"
+msgstr ""
+
+#: inc/custom.php:621
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: parts/school/search.php:40
+#, php-format
+msgid "<strong>%d results</strong> founded"
+msgstr ""
+
+#: parts/kindergarten/search.php:40 parts/university/search.php:41
+#, php-format
+msgid "<strong>%d</strong> results founded"
+msgstr ""
+
+#: admin/screens/startup.php:70
+msgid ""
+"A new page will load with a token number in a box. Copy the token number "
+"then come back to this registration page and paste it into the field below "
+"and click the <strong>Submit</strong> button."
+msgstr ""
+
+#: inc/setup.php:42
+msgid "About"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:485
+#: inc/customizer/university/registration.php:478
+#: inc/customizer/school/registration.php:468
+msgid "Account menu"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:461
+#: inc/custom-post-types/university/custom-post-types.php:495
+#: inc/custom-post-types/school/custom-post-types.php:448
+#: inc/visual-composer/kindergarten/vc-map/stm_achievement.php:41
+#: inc/visual-composer/university/vc-map/stm_achievement.php:46
+#: inc/visual-composer/school/vc-map/stm_achievement.php:41
+msgid "Achievement"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:462
+#: inc/custom-post-types/university/custom-post-types.php:496
+#: inc/custom-post-types/school/custom-post-types.php:449
+msgid "Achievements"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:130
+#: admin/includes/envato-market/inc/admin/functions.php:320
+#: admin/includes/envato-market/inc/admin/upgrader-skins.php:66
+msgid "Activate"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:321
+#, php-format
+msgid "Activate %s"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:130
+#: admin/includes/envato-market/inc/admin/upgrader-skins.php:66
+#, php-format
+msgid "Activate &#8220;%s&#8221;"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/upgrader-skins.php:103
+msgid "Activate Plugin"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:381
+#: inc/custom-post-types/university/custom-post-types.php:415
+#: inc/custom-post-types/school/custom-post-types.php:368
+msgid "Active"
+msgstr ""
+
+#: admin/screens/system_status.php:251 admin/screens/system_status.php:255
+msgid "Active Plugins"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/partials/intro.php:19
+msgid "Active Theme"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:62
+msgid "Add a review"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/callback/section/items.php:10
+msgid ""
+"Add Envato Market themes & plugins using multiple OAuth tokens. This is "
+"especially useful when an item has been purchased on behalf of a third-party."
+" This works similarly to the global OAuth Personal Token, but for individual "
+"items and additionally requires the Envato Market item ID."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:402
+#: admin/includes/envato-market/inc/admin/view/callback/setting/items.php:37
+msgid "Add Item"
+msgstr ""
+
+#: parts/kindergarten/event-join-form.php:107
+#: parts/university/event-join-form.php:98 parts/school/event-join-form.php:99
+msgid "Add to Calendar"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:67
+msgid "Additional Information"
+msgstr ""
+
+#: parts/donation-form.php:65
+#: inc/custom-post-types/kindergarten/custom-post-types.php:319
+#: inc/custom-post-types/university/custom-post-types.php:353
+#: inc/custom-post-types/school/custom-post-types.php:306
+msgid "Additional Note"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:537
+#: inc/customizer/university/registration.php:530
+#: inc/customizer/school/registration.php:520
+msgid "Additional Scripts"
+msgstr ""
+
+#: parts/donation-form.php:60
+#: inc/custom-post-types/kindergarten/custom-post-types.php:315
+#: inc/custom-post-types/university/custom-post-types.php:349
+#: inc/custom-post-types/school/custom-post-types.php:302
+#: inc/customizer/kindergarten/registration.php:461
+#: inc/customizer/kindergarten/registration.php:462
+#: inc/customizer/university/registration.php:460
+#: inc/customizer/university/registration.php:461
+#: inc/customizer/school/registration.php:450
+#: inc/customizer/school/registration.php:451
+msgid "Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:68
+msgid "Address 1"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:72
+msgid "Address 2"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:972
+#: inc/custom-post-types/university/custom-post-types.php:1054
+#: inc/custom-post-types/school/custom-post-types.php:959
+msgid "Admin email body:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:964
+#: inc/custom-post-types/university/custom-post-types.php:1046
+#: inc/custom-post-types/school/custom-post-types.php:951
+msgid "Admin email subject:"
+msgstr ""
+
+#: inc/custom-post-types/university/custom-post-types.php:505
+#: inc/custom-post-types/university/custom-post-types.php:730
+msgid "Administrator"
+msgstr ""
+
+#: inc/custom-post-types/university/custom-post-types.php:506
+#: inc/custom-post-types/university/custom-post-types.php:731
+msgid "Administrators"
+msgstr ""
+
+#: vc_templates/kindergarten/stm_course_info.php:33
+#: vc_templates/kindergarten/stm_courses.php:64
+#: vc_templates/kindergarten/stm_courses.php:114
+#: inc/custom-post-types/kindergarten/custom-post-types.php:286
+msgid "Age"
+msgstr ""
+
+#: vc_templates/kindergarten/stm_media_gallery.php:53
+#: vc_templates/kindergarten/stm_gallery.php:55
+#: vc_templates/university/stm_media_gallery.php:54
+#: vc_templates/university/stm_gallery.php:232
+#: vc_templates/school/stm_media_gallery.php:52
+#: vc_templates/school/stm_gallery.php:55
+msgid "All"
+msgstr ""
+
+#: parts/page-title.php:116
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/notice/success-single-use.php:11
+msgid "All Single Use OAuth Personal Tokens have been verified."
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:323
+#: inc/custom-post-types/university/custom-post-types.php:357
+#: inc/custom-post-types/school/custom-post-types.php:310
+msgid "Amount"
+msgstr ""
+
+#: admin/includes/envato-market/inc/api.php:128
+msgid "An API token is required."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:788
+#: admin/includes/envato-market/inc/admin/admin.php:846
+msgid "An error occurred, please check that the item ID is correct."
+msgstr ""
+
+#: admin/includes/envato-market/inc/api.php:141
+#: admin/includes/envato-market/inc/api.php:145
+msgid "An unknown API error occurred."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:1040
+msgid "An unknown error occurred."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:358
+msgid "An unknown error occurred. Try again."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:95
+msgid "Anti-spam"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:33 woocommerce/cart/cart.php:161
+msgid "Apply Coupon"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:613
+#: inc/customizer/university/registration.php:606
+#: inc/customizer/school/registration.php:596
+msgid "Archive - Sidebar"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:603
+#: inc/customizer/kindergarten/registration.php:700
+#: inc/customizer/university/registration.php:596
+#: inc/customizer/university/registration.php:693
+#: inc/customizer/school/registration.php:586
+#: inc/customizer/school/registration.php:683
+msgid "Archive - Sidebar Position"
+msgstr ""
+
+#: archive-stm_course.php:14 vc_templates/school/stm_course_topics.php:13
+#: vc_templates/school/stm_courses.php:27
+#: inc/custom-post-types/school/custom-post-types.php:280
+msgid "Assignments"
+msgstr ""
+
+#: parts/kindergarten/content-event.php:32
+#: parts/kindergarten/event-page-title.php:135
+msgid "attended"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:395
+#: inc/custom-post-types/university/custom-post-types.php:429
+#: inc/custom-post-types/school/custom-post-types.php:382
+msgid "Audio"
+msgstr ""
+
+#: parts/author-bio.php:11
+msgid "Author"
+msgstr ""
+
+#: woocommerce/cart/cart.php:81
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Average"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:307
+#: inc/customizer/university/registration.php:312
+#: inc/customizer/school/registration.php:302
+msgid "Background"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:68
+#: inc/custom-post-types/university/custom-post-types.php:68
+#: inc/custom-post-types/school/custom-post-types.php:68
+msgid "Background Color"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:136
+#: inc/custom-post-types/university/custom-post-types.php:135
+#: inc/custom-post-types/school/custom-post-types.php:136
+msgid "Background color"
+msgstr ""
+
+#: parts/frontend-customizer.php:42
+#: inc/custom-post-types/kindergarten/custom-post-types.php:38
+#: inc/custom-post-types/university/custom-post-types.php:38
+#: inc/custom-post-types/school/custom-post-types.php:38
+#: inc/customizer/kindergarten/registration.php:729
+#: inc/customizer/university/registration.php:722
+#: inc/customizer/school/registration.php:712
+msgid "Background Image"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:42
+#: inc/custom-post-types/university/custom-post-types.php:42
+#: inc/custom-post-types/school/custom-post-types.php:42
+msgid "Background Position"
+msgstr ""
+
+#: woocommerce/cart/cart.php:97
+#, php-format
+msgid "based on %s customer rating"
+msgid_plural "based on %s customer ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:59
+#: woocommerce/myaccount/form-edit-address.php:20
+#: woocommerce/myaccount/my-address.php:27
+#: woocommerce/myaccount/my-address.php:32
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:33
+msgid "Billing Details"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:594
+#: inc/customizer/university/registration.php:587
+#: inc/customizer/school/registration.php:577
+msgid "Blog"
+msgstr ""
+
+#: inc/setup.php:62
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:65
+#: inc/customizer/university/registration.php:70
+#: inc/customizer/school/registration.php:65
+msgid "Body"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:24
+#: inc/customizer/university/controls/font-weight.php:24
+#: inc/customizer/school/controls/font-weight.php:24
+msgid "Bold"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:25
+#: inc/customizer/university/controls/font-weight.php:25
+#: inc/customizer/school/controls/font-weight.php:25
+msgid "Bold Italic"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:16
+#: inc/customizer/university/controls/font-weight.php:16
+#: inc/customizer/school/controls/font-weight.php:16
+msgid "Book"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:17
+#: inc/customizer/university/controls/font-weight.php:17
+#: inc/customizer/school/controls/font-weight.php:17
+msgid "Book Italic"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:64
+#: inc/custom-post-types/university/custom-post-types.php:64
+#: inc/custom-post-types/school/custom-post-types.php:64
+msgid "Bottom"
+msgstr ""
+
+#: parts/frontend-customizer.php:37
+#: inc/customizer/kindergarten/registration.php:301
+#: inc/customizer/university/registration.php:306
+#: inc/customizer/school/registration.php:296
+msgid "Boxed"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:104
+#: inc/custom-post-types/university/custom-post-types.php:103
+#: inc/custom-post-types/school/custom-post-types.php:103
+msgid "Breadcrumbs"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:177
+#: admin/includes/envato-market/inc/admin/functions.php:382
+#: admin/includes/envato-market/inc/admin/admin.php:441
+msgid "By"
+msgstr ""
+
+#: admin/screens/other_themes.php:27
+msgid "by"
+msgstr ""
+
+#: admin/screens/system_status.php:285
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr ""
+
+#: inc/visual-composer/kindergarten/vc-map/stm_achievement.php:20
+#: inc/visual-composer/university/vc-map/stm_achievement.php:25
+#: inc/visual-composer/school/vc-map/stm_achievement.php:20
+msgid "By default unlimited posts"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:30
+msgid "Calculate Shipping"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:80
+#: admin/includes/envato-market/inc/admin/admin.php:357
+msgid "Cancel"
+msgstr ""
+
+#: parts/university/comments.php:84 parts/school/comments.php:84
+msgid "Cancel Reply"
+msgstr ""
+
+#: parts/kindergarten/comments.php:84
+msgid "Cancel Reply to Brandon"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart Totals"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:500
+#: inc/custom-post-types/kindergarten/custom-post-types.php:575
+#: inc/custom-post-types/kindergarten/custom-post-types.php:590
+#: inc/custom-post-types/kindergarten/custom-post-types.php:633
+#: inc/custom-post-types/kindergarten/custom-post-types.php:646
+#: inc/custom-post-types/university/custom-post-types.php:539
+#: inc/custom-post-types/university/custom-post-types.php:631
+#: inc/custom-post-types/university/custom-post-types.php:674
+#: inc/custom-post-types/university/custom-post-types.php:687
+#: inc/custom-post-types/school/custom-post-types.php:487
+#: inc/custom-post-types/school/custom-post-types.php:562
+#: inc/custom-post-types/school/custom-post-types.php:577
+#: inc/custom-post-types/school/custom-post-types.php:620
+#: inc/custom-post-types/school/custom-post-types.php:633
+msgid "Categories"
+msgstr ""
+
+#: parts/page-title.php:121 parts/page-title.php:123
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35 parts/university/content.php:33
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:979
+#: inc/custom-post-types/kindergarten/custom-post-types.php:1000
+#: inc/custom-post-types/university/custom-post-types.php:1061
+#: inc/custom-post-types/university/custom-post-types.php:1082
+#: inc/custom-post-types/school/custom-post-types.php:966
+#: inc/custom-post-types/school/custom-post-types.php:987
+msgid "Cause name"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:85
+msgid "Center"
+msgstr ""
+
+#: admin/includes/envato-market/envato-market.php:157
+#: admin/includes/envato-market/envato-market.php:167
+#: admin/includes/envato-market/inc/items.php:100
+#: admin/includes/envato-market/inc/items.php:110
+#: admin/includes/envato-market/inc/github.php:87
+#: admin/includes/envato-market/inc/github.php:97
+#: admin/includes/envato-market/inc/api.php:80
+#: admin/includes/envato-market/inc/api.php:90
+#: admin/includes/envato-market/inc/admin/admin.php:77
+#: admin/includes/envato-market/inc/admin/admin.php:87
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:268
+#: inc/custom-post-types/university/custom-post-types.php:304
+#: inc/custom-post-types/university/custom-post-types.php:319
+#: inc/custom-post-types/school/custom-post-types.php:268
+msgid "Choose"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:402
+#: inc/customizer/kindergarten/registration.php:497
+#: inc/customizer/kindergarten/registration.php:523
+#: inc/customizer/university/registration.php:407
+#: inc/customizer/university/registration.php:490
+#: inc/customizer/university/registration.php:516
+#: inc/customizer/school/registration.php:397
+#: inc/customizer/school/registration.php:480
+#: inc/customizer/school/registration.php:506
+msgid "Choose:"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:76
+#: woocommerce/cart/shipping-calculator.php:83
+msgid "City"
+msgstr ""
+
+#: archive-stm_course.php:12 vc_templates/school/stm_courses.php:25
+msgid "Class name"
+msgstr ""
+
+#: admin/screens/startup.php:68
+#, php-format
+msgid ""
+"Click on this <a href=\"%s\" target=\"_blank\">Generate A Personal Token</a> "
+"link. <strong>IMPORTANT:</strong> You must be logged into the same "
+"Themeforest account that purchased %s. If you are logged in already, look in "
+"the top menu bar to ensure it is the right account. If you are not logged in,"
+" you will be directed to login then directed back to the Create A Token Page."
+msgstr ""
+
+#: parts/frontend-customizer.php:12
+msgid "Color Skin"
+msgstr ""
+
+#: parts/kindergarten/comments.php:17 parts/kindergarten/comments.php:35
+#: parts/university/comments.php:17 parts/university/comments.php:35
+#: parts/school/comments.php:17 parts/school/comments.php:35
+msgid "Comment navigation"
+msgstr ""
+
+#: parts/kindergarten/comments.php:42 parts/university/comments.php:42
+#: parts/school/comments.php:42
+msgid "Comments are closed."
+msgstr ""
+
+#: admin/screens/support.php:84
+msgid "Community Forum"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:64
+msgid "Company"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:382
+#: inc/custom-post-types/university/custom-post-types.php:416
+#: inc/custom-post-types/school/custom-post-types.php:369
+msgid "Completed"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:49
+msgid "Confirm New Password"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:437
+#: inc/customizer/university/registration.php:442
+#: inc/customizer/school/registration.php:432
+msgid "Contact Details"
+msgstr ""
+
+#: parts/kindergarten/content-event.php:110
+msgid "Contact details"
+msgstr ""
+
+#: parts/university/content-event.php:98 parts/school/content-event.php:98
+#: vc_templates/kindergarten/stm_event_header.php:110
+#: vc_templates/university/stm_event_header.php:110
+#: vc_templates/school/stm_event_header.php:110
+msgid "Contact details:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:333
+#: inc/custom-post-types/university/custom-post-types.php:367
+#: inc/custom-post-types/school/custom-post-types.php:320
+msgid "Contact Info"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:528
+#: inc/customizer/university/registration.php:521
+#: inc/customizer/school/registration.php:511
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:529
+#: inc/customizer/university/registration.php:522
+#: inc/customizer/school/registration.php:512
+msgid "Copyright &copy; 2016 Stylemix Themes"
+msgstr ""
+
+#: footer.php:84 vc_templates/kindergarten/stm_footer.php:22
+#: vc_templates/university/stm_footer.php:22
+#: vc_templates/school/stm_footer.php:22
+#: inc/customizer/kindergarten/registration.php:531
+#: inc/customizer/university/registration.php:524
+#: inc/customizer/school/registration.php:514
+#, php-format
+msgid ""
+"Copyright &copy; Secondary School Theme by <a href=\"%s\" target=\"_blank\">"
+"Stylemix Themes</a>"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:274
+msgid "Coral"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:88
+msgid "Country"
+msgstr ""
+
+#: woocommerce/cart/cart.php:161
+msgid "Coupon"
+msgstr ""
+
+#: woocommerce/checkout/form-coupon.php:30 woocommerce/cart/cart.php:161
+msgid "Coupon code"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:477
+#: inc/custom-post-types/kindergarten/custom-post-types.php:683
+#: inc/custom-post-types/university/custom-post-types.php:516
+#: inc/custom-post-types/university/custom-post-types.php:741
+#: inc/custom-post-types/school/custom-post-types.php:464
+#: inc/custom-post-types/school/custom-post-types.php:670
+msgid "Course"
+msgstr ""
+
+#: vc_templates/university/stm_courses.php:33
+msgid "Course name"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:478
+#: inc/custom-post-types/kindergarten/custom-post-types.php:684
+#: inc/custom-post-types/university/custom-post-types.php:517
+#: inc/custom-post-types/university/custom-post-types.php:742
+#: inc/custom-post-types/school/custom-post-types.php:465
+#: inc/custom-post-types/school/custom-post-types.php:671
+msgid "Courses"
+msgstr ""
+
+#: admin/screens/support.php:16
+msgid "Create A Support Account"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:50
+msgid "Create an account?"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:737
+#: inc/customizer/university/registration.php:730
+#: inc/customizer/school/registration.php:720
+msgid "CSS"
+msgstr ""
+
+#: inc/visual-composer/kindergarten/vc-map/stm_achievement.php:30
+#: inc/visual-composer/university/vc-map/stm_achievement.php:35
+#: inc/visual-composer/school/vc-map/stm_achievement.php:30
+msgid "Css"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:358
+#: inc/custom-post-types/university/custom-post-types.php:392
+#: inc/custom-post-types/school/custom-post-types.php:345
+msgid "Currency - Position:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:913
+#: inc/custom-post-types/university/custom-post-types.php:995
+#: inc/custom-post-types/school/custom-post-types.php:900
+msgid "Currency code:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:929
+#: inc/custom-post-types/university/custom-post-types.php:1011
+#: inc/custom-post-types/school/custom-post-types.php:916
+msgid "Currency position:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:921
+#: inc/custom-post-types/university/custom-post-types.php:1003
+#: inc/custom-post-types/school/custom-post-types.php:908
+msgid "Currency symbol:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:353
+#: inc/custom-post-types/university/custom-post-types.php:387
+#: inc/custom-post-types/school/custom-post-types.php:340
+msgid "Currency:"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:43
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: admin/screens/system_status.php:111
+msgid ""
+"Current time limit is sufficient, but if you need import demo content, the "
+"required time is <strong>300</strong>."
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:324
+#: inc/customizer/kindergarten/registration.php:338
+#: inc/customizer/university/registration.php:329
+#: inc/customizer/university/registration.php:343
+#: inc/customizer/school/registration.php:319
+#: inc/customizer/school/registration.php:333
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:281
+#: inc/customizer/university/registration.php:286
+#: inc/customizer/school/registration.php:276
+msgid "Custom Base Color"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:276
+#: inc/customizer/university/registration.php:281
+#: inc/customizer/school/registration.php:271
+msgid "Custom Colors"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:702
+#: inc/custom-post-types/university/custom-post-types.php:760
+#: inc/custom-post-types/school/custom-post-types.php:689
+msgid "Custom Post Type Renaming Settings"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:286
+#: inc/customizer/university/registration.php:291
+#: inc/customizer/school/registration.php:281
+msgid "Custom Secondary Color"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:52
+#: inc/custom-post-types/university/custom-post-types.php:52
+#: inc/custom-post-types/school/custom-post-types.php:52
+msgid "Custom Styles"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:291
+#: inc/customizer/university/registration.php:296
+#: inc/customizer/school/registration.php:286
+msgid "Custom Third Color"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:24
+msgid "Customer Details"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:103
+msgid "Customize"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:103
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/customizer/university/registration.php:58
+msgid "Dark Logo"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:14
+#: vc_templates/kindergarten/stm_course_topics.php:12
+#: vc_templates/school/stm_course_topics.php:12
+msgid "Date"
+msgstr ""
+
+#: parts/kindergarten/content-event.php:59
+msgid "Date & Time"
+msgstr ""
+
+#: parts/university/content-event.php:47 parts/school/content-event.php:47
+#: vc_templates/kindergarten/stm_event_header.php:49
+#: vc_templates/university/stm_event_header.php:49
+#: vc_templates/school/stm_event_header.php:49
+msgid "Date & Time:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:182
+#: inc/custom-post-types/university/custom-post-types.php:218
+#: inc/custom-post-types/school/custom-post-types.php:182
+msgid "Date - End:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:178
+#: inc/custom-post-types/university/custom-post-types.php:214
+#: inc/custom-post-types/school/custom-post-types.php:178
+msgid "Date - Start:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:49
+msgid "Date:"
+msgstr ""
+
+#: parts/kindergarten/content-donation.php:73
+#: parts/kindergarten/archive-stm_donation.php:84
+#: vc_templates/kindergarten/stm_donations.php:103
+#: vc_templates/university/stm_donations.php:107
+msgid "Days left"
+msgstr ""
+
+#: parts/content-donation.php:63 parts/university/content-donation.php:63
+#: parts/university/archive-stm_donation.php:86
+#: parts/school/content-donation.php:63
+#: parts/school/archive-stm_donation.php:86
+#: vc_templates/kindergarten/stm_donation_info.php:65
+#: vc_templates/university/stm_donation_info.php:65
+#: vc_templates/school/stm_donation_info.php:65
+#: vc_templates/school/stm_donations.php:111
+msgid "Days left to achieve target"
+msgstr ""
+
+#: parts/content-donation.php:95 parts/university/content-donation.php:95
+#: parts/school/content-donation.php:95
+#: vc_templates/kindergarten/stm_donation_info.php:97
+#: vc_templates/university/stm_donation_info.php:97
+#: vc_templates/school/stm_donation_info.php:97
+msgid "days to go"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:293
+msgid "Deactivate"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:294
+#, php-format
+msgid "Deactivate %s"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:119
+#: inc/custom-post-types/university/custom-post-types.php:118
+#: inc/custom-post-types/school/custom-post-types.php:119
+#: inc/customizer/kindergarten/registration.php:272
+#: inc/customizer/university/registration.php:277
+#: inc/customizer/school/registration.php:267
+#: inc/customizer/kindergarten/controls/post-type.php:15
+#: inc/customizer/university/controls/post-type.php:15
+#: inc/customizer/school/controls/post-type.php:15
+msgid "Default"
+msgstr ""
+
+#: inc/visual-composer/kindergarten/vc-map/stm_achievement.php:26
+#: inc/visual-composer/university/vc-map/stm_achievement.php:31
+#: inc/visual-composer/school/vc-map/stm_achievement.php:26
+msgid "Default size: 548x342, Example: 300x300"
+msgstr ""
+
+#: admin/screens/system_status.php:213
+msgid ""
+"Defines the maximum length of a variable that is registered through a POST "
+"request."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:306
+#: admin/includes/envato-market/inc/admin/admin.php:385
+#: admin/includes/envato-market/inc/admin/view/callback/setting/items.php:24
+msgid "Delete"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:307
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: admin/includes/admin_screens.php:33 admin/includes/admin_screens.php:34
+msgid "Demo import"
+msgstr ""
+
+#: parts/frontend-customizer.php:3
+msgid "Demos"
+msgstr ""
+
+#: vc_templates/university/stm_courses.php:34
+#: inc/custom-post-types/university/custom-post-types.php:613
+msgid "Department"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:401
+#: inc/custom-post-types/university/custom-post-types.php:181
+#: inc/custom-post-types/university/custom-post-types.php:435
+#: inc/custom-post-types/school/custom-post-types.php:388
+msgid "Description"
+msgstr ""
+
+#: inc/visual-composer/kindergarten/vc-map/stm_achievement.php:32
+#: inc/visual-composer/university/vc-map/stm_achievement.php:37
+#: inc/visual-composer/school/vc-map/stm_achievement.php:32
+msgid "Design options"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:142
+#: inc/custom-post-types/kindergarten/custom-post-types.php:278
+#: inc/custom-post-types/kindergarten/custom-post-types.php:388
+#: inc/custom-post-types/university/custom-post-types.php:141
+#: inc/custom-post-types/university/custom-post-types.php:174
+#: inc/custom-post-types/university/custom-post-types.php:328
+#: inc/custom-post-types/university/custom-post-types.php:422
+#: inc/custom-post-types/school/custom-post-types.php:142
+#: inc/custom-post-types/school/custom-post-types.php:277
+#: inc/custom-post-types/school/custom-post-types.php:375
+msgid "Details"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/partials/intro.php:16
+#, php-format
+msgid ""
+"Development of this plugin is done on %sGitHub%s. Pull requests welcome."
+msgstr ""
+
+#: admin/screens/system_status.php:58
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: admin/screens/support.php:47
+msgid "Documentation"
+msgstr ""
+
+#: parts/donation-form.php:71
+msgid "Donate"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:978
+#: inc/custom-post-types/kindergarten/custom-post-types.php:999
+#: inc/custom-post-types/university/custom-post-types.php:1060
+#: inc/custom-post-types/university/custom-post-types.php:1081
+#: inc/custom-post-types/school/custom-post-types.php:965
+#: inc/custom-post-types/school/custom-post-types.php:986
+msgid "Donate amount"
+msgstr ""
+
+#: parts/content-donation.php:115 parts/kindergarten/content-donation.php:93
+#: parts/university/content-donation.php:115
+#: parts/university/archive-stm_donation.php:94
+#: parts/school/content-donation.php:115
+#: parts/school/archive-stm_donation.php:94
+#: vc_templates/kindergarten/stm_donation_info.php:117
+#: vc_templates/university/stm_donation_info.php:117
+#: vc_templates/university/stm_donations.php:121
+#: vc_templates/school/stm_donation_info.php:117
+#: vc_templates/school/stm_donations.php:119
+msgid "Donate Now"
+msgstr ""
+
+#: parts/kindergarten/content-donation.php:57
+#: parts/kindergarten/archive-stm_donation.php:54
+#: vc_templates/kindergarten/stm_donations.php:73
+msgid "Donated"
+msgstr ""
+
+#: parts/content-donation.php:83 parts/university/content-donation.php:83
+#: parts/school/content-donation.php:83
+#: vc_templates/kindergarten/stm_donation_info.php:85
+#: vc_templates/university/stm_donation_info.php:85
+#: vc_templates/school/stm_donation_info.php:85
+msgid "donated"
+msgstr ""
+
+#: parts/content-donation.php:28 parts/university/content-donation.php:28
+#: parts/university/archive-stm_donation.php:46
+#: parts/school/content-donation.php:28
+#: parts/school/archive-stm_donation.php:46
+#: vc_templates/kindergarten/stm_donation_info.php:29
+#: vc_templates/university/stm_donation_info.php:29
+#: vc_templates/university/stm_donations.php:71
+#: vc_templates/school/stm_donation_info.php:29
+#: vc_templates/school/stm_donations.php:71
+msgid "Donated of"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:327
+#: inc/custom-post-types/kindergarten/custom-post-types.php:471
+#: inc/custom-post-types/kindergarten/custom-post-types.php:677
+#: inc/custom-post-types/university/custom-post-types.php:361
+#: inc/custom-post-types/university/custom-post-types.php:510
+#: inc/custom-post-types/university/custom-post-types.php:735
+#: inc/custom-post-types/school/custom-post-types.php:314
+#: inc/custom-post-types/school/custom-post-types.php:458
+#: inc/custom-post-types/school/custom-post-types.php:664
+#: inc/customizer/kindergarten/registration.php:644
+#: inc/customizer/university/registration.php:637
+#: inc/customizer/school/registration.php:627
+msgid "Donation"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:658
+#: inc/customizer/university/registration.php:651
+#: inc/customizer/school/registration.php:641
+msgid "Donation - Sidebar"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:648
+#: inc/customizer/university/registration.php:641
+#: inc/customizer/school/registration.php:631
+msgid "Donation - Sidebar Position"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:940
+#: inc/custom-post-types/university/custom-post-types.php:1022
+#: inc/custom-post-types/school/custom-post-types.php:927
+msgid "Donation amount 1:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:948
+#: inc/custom-post-types/university/custom-post-types.php:1030
+#: inc/custom-post-types/school/custom-post-types.php:935
+msgid "Donation amount 2:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:956
+#: inc/custom-post-types/university/custom-post-types.php:1038
+#: inc/custom-post-types/school/custom-post-types.php:943
+msgid "Donation amount 3:"
+msgstr ""
+
+#: inc/setup.php:80
+msgid "Donation Sidebar"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:472
+#: inc/custom-post-types/kindergarten/custom-post-types.php:678
+#: inc/custom-post-types/university/custom-post-types.php:511
+#: inc/custom-post-types/university/custom-post-types.php:736
+#: inc/custom-post-types/school/custom-post-types.php:459
+#: inc/custom-post-types/school/custom-post-types.php:665
+msgid "Donations"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:554
+#: inc/custom-post-types/university/custom-post-types.php:593
+#: inc/custom-post-types/school/custom-post-types.php:541
+msgid "Donor"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:993
+#: inc/custom-post-types/university/custom-post-types.php:1075
+#: inc/custom-post-types/school/custom-post-types.php:980
+msgid "Donor email body:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:985
+#: inc/custom-post-types/university/custom-post-types.php:1067
+#: inc/custom-post-types/school/custom-post-types.php:972
+msgid "Donor email subject:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:304
+#: inc/custom-post-types/university/custom-post-types.php:338
+#: inc/custom-post-types/school/custom-post-types.php:291
+msgid "Donor Info"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:977
+#: inc/custom-post-types/kindergarten/custom-post-types.php:998
+#: inc/custom-post-types/university/custom-post-types.php:1059
+#: inc/custom-post-types/university/custom-post-types.php:1080
+#: inc/custom-post-types/school/custom-post-types.php:964
+#: inc/custom-post-types/school/custom-post-types.php:985
+msgid "Donor name"
+msgstr ""
+
+#: parts/kindergarten/content-donation.php:69
+msgid "Donors"
+msgstr ""
+
+#: parts/content-donation.php:91 parts/university/content-donation.php:91
+#: parts/school/content-donation.php:91
+#: vc_templates/kindergarten/stm_donation_info.php:93
+#: vc_templates/university/stm_donation_info.php:93
+#: vc_templates/school/stm_donation_info.php:93
+msgid "donors"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:366
+#: inc/custom-post-types/university/custom-post-types.php:400
+#: inc/custom-post-types/school/custom-post-types.php:353
+msgid "Donors:"
+msgstr ""
+
+#: inc/scripts_styles.php:20
+msgctxt "Dosis font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/visual-composer/university/vc-map/stm_achievement.php:18
+msgid "Dots"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/upgrader.php:45
+#: admin/includes/envato-market/inc/admin/upgrader.php:83
+msgid "Downloading the Envato Market install package&#8230;"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/upgrader.php:34
+#: admin/includes/envato-market/inc/admin/upgrader.php:72
+msgid "Downloading the Envato Market upgrade package&#8230;"
+msgstr ""
+
+#: vc_templates/kindergarten/stm_course_info.php:37
+#: inc/custom-post-types/kindergarten/custom-post-types.php:294
+msgid "Duration"
+msgstr ""
+
+#: parts/kindergarten/event-join-form.php:22
+#: parts/university/event-join-form.php:15 parts/school/event-join-form.php:13
+#: vc_templates/kindergarten/stm_post_comments.php:17
+#: vc_templates/university/stm_post_comments.php:17
+#: vc_templates/school/stm_post_comments.php:17
+#: inc/custom-post-types/kindergarten/custom-post-types.php:169
+#: inc/custom-post-types/university/custom-post-types.php:168
+#: inc/custom-post-types/university/custom-post-types.php:205
+#: inc/custom-post-types/school/custom-post-types.php:169
+#: inc/customizer/kindergarten/registration.php:449
+#: inc/customizer/kindergarten/registration.php:450
+#: inc/customizer/university/registration.php:454
+#: inc/customizer/university/registration.php:455
+#: inc/customizer/school/registration.php:444
+#: inc/customizer/school/registration.php:445
+msgid "E-Mail"
+msgstr ""
+
+#: parts/donation-form.php:56
+msgid "E-mail"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:256
+#: inc/custom-post-types/university/custom-post-types.php:292
+#: inc/custom-post-types/school/custom-post-types.php:256
+msgid "E-Mail:"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:51
+msgid "Edit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74 parts/kindergarten/comments.php:64
+#: parts/university/comments.php:64 parts/school/comments.php:64
+#: inc/custom-post-types/kindergarten/custom-post-types.php:307
+#: inc/custom-post-types/kindergarten/custom-post-types.php:336
+#: inc/custom-post-types/university/custom-post-types.php:341
+#: inc/custom-post-types/university/custom-post-types.php:370
+#: inc/custom-post-types/school/custom-post-types.php:294
+#: inc/custom-post-types/school/custom-post-types.php:323
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:35
+#: woocommerce/myaccount/form-login.php:83
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:37
+msgid "Email:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:413
+#: inc/custom-post-types/university/custom-post-types.php:447
+#: inc/custom-post-types/school/custom-post-types.php:400
+msgid "Embed code"
+msgstr ""
+
+#: vc_templates/kindergarten/stm_course_info.php:45
+msgid "Enroll Your Child"
+msgstr ""
+
+#: admin/screens/startup.php:69
+msgid ""
+"Enter a name for your token, then check the boxes for <strong>View Your "
+"Envato Account Username, Download Your Purchased Items, Verify Purchases "
+"You've Made</strong> and <strong>List Purchases You've Made</strong> from "
+"the permissions needed section. Check the box to agree to the terms and "
+"conditions, then click the <strong>Create Token button</strong>"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:374
+#: inc/customizer/university/registration.php:379
+#: inc/customizer/school/registration.php:369
+msgid ""
+"Enter here the secret api key you have created on Google APIs. You can "
+"enable MAP API in Google APIs > Google Maps APIs > Google Maps JavaScript "
+"API."
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:544
+#: inc/customizer/university/registration.php:537
+#: inc/customizer/school/registration.php:527
+msgid ""
+"Enter in any custom script to include in your site's footer. Be sure to use "
+"double quotes for strings."
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:599
+#: inc/customizer/university/registration.php:592
+#: inc/customizer/school/registration.php:582
+msgid "Enter posts title"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:407
+msgid "Enter the Envato API Personal Token."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:410
+msgid "Enter the Envato Item ID."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/callback/setting/token.php:12
+msgid "Enter your Envato API Personal Token."
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:356
+#: inc/customizer/university/registration.php:361
+#: inc/customizer/school/registration.php:351
+msgid "Envato API Key"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:359
+#: inc/customizer/university/registration.php:364
+#: inc/customizer/school/registration.php:354
+msgid ""
+"Envato API Key - secret API key you have on ThemeForest. You can create a "
+"new one under the Settings > API Keys section of your profile."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/partials/intro.php:12
+msgid "Envato Market"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:496
+msgid "Envato Market Items"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:350
+#: inc/customizer/university/registration.php:355
+#: inc/customizer/school/registration.php:345
+msgid "Envato Username"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:353
+#: inc/customizer/university/registration.php:358
+#: inc/customizer/school/registration.php:348
+msgid ""
+"Envato Username - your ThemeForest (or Envato) username (i.e. Stylemixthemes)"
+"."
+msgstr ""
+
+#: parts/kindergarten/page-error.php:32 parts/university/page-error.php:38
+msgid "Error 404: Page not found"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:71
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: parts/kindergarten/event-join-form.php:101
+#: parts/university/event-join-form.php:92 parts/school/event-join-form.php:93
+#: inc/custom-post-types/kindergarten/custom-post-types.php:203
+#: inc/custom-post-types/university/custom-post-types.php:239
+#: inc/custom-post-types/school/custom-post-types.php:203
+msgid "Europe/London"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:670
+#: inc/customizer/university/registration.php:663
+#: inc/customizer/school/registration.php:653
+msgid "Event"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:684
+#: inc/customizer/university/registration.php:677
+#: inc/customizer/school/registration.php:667
+msgid "Event - Sidebar"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:674
+#: inc/customizer/university/registration.php:667
+#: inc/customizer/school/registration.php:657
+msgid "Event - Sidebar Position"
+msgstr ""
+
+#: inc/setup.php:71
+msgid "Event Sidebar"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:78
+#: inc/custom-post-types/university/custom-post-types.php:78
+#: inc/custom-post-types/school/custom-post-types.php:78
+msgid "Example: 0.5"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:44
+#: inc/custom-post-types/university/custom-post-types.php:44
+#: inc/custom-post-types/school/custom-post-types.php:44
+msgid "Example: center top or 0 50px"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:26
+#: inc/customizer/university/controls/font-weight.php:26
+#: inc/customizer/school/controls/font-weight.php:26
+msgid "Extra Bold"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:27
+#: inc/customizer/university/controls/font-weight.php:27
+#: inc/customizer/school/controls/font-weight.php:27
+msgid "Extra Bold Italic"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:153
+#: inc/custom-post-types/university/custom-post-types.php:152
+#: inc/custom-post-types/university/custom-post-types.php:189
+#: inc/custom-post-types/school/custom-post-types.php:153
+#: inc/customizer/kindergarten/registration.php:3
+#: inc/customizer/university/registration.php:3
+#: inc/customizer/school/registration.php:3
+msgid "Facebook"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:417
+#: inc/custom-post-types/university/custom-post-types.php:451
+#: inc/custom-post-types/school/custom-post-types.php:404
+msgid "Featured"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:56
+msgid "First Name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:29
+msgid "First name"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:69
+#: inc/customizer/kindergarten/registration.php:97
+#: inc/customizer/kindergarten/registration.php:125
+#: inc/customizer/kindergarten/registration.php:153
+#: inc/customizer/kindergarten/registration.php:181
+#: inc/customizer/kindergarten/registration.php:209
+#: inc/customizer/kindergarten/registration.php:237
+#: inc/customizer/university/registration.php:74
+#: inc/customizer/university/registration.php:102
+#: inc/customizer/university/registration.php:130
+#: inc/customizer/university/registration.php:158
+#: inc/customizer/university/registration.php:186
+#: inc/customizer/university/registration.php:214
+#: inc/customizer/university/registration.php:242
+#: inc/customizer/school/registration.php:69
+#: inc/customizer/school/registration.php:92
+#: inc/customizer/school/registration.php:120
+#: inc/customizer/school/registration.php:148
+#: inc/customizer/school/registration.php:176
+#: inc/customizer/school/registration.php:204
+#: inc/customizer/school/registration.php:232
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/university/registration.php:93
+msgid "Font Family for headers"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:74
+msgid "Font Family secondary"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:79
+#: inc/customizer/kindergarten/registration.php:107
+#: inc/customizer/kindergarten/registration.php:135
+#: inc/customizer/kindergarten/registration.php:163
+#: inc/customizer/kindergarten/registration.php:191
+#: inc/customizer/kindergarten/registration.php:219
+#: inc/customizer/kindergarten/registration.php:247
+#: inc/customizer/university/registration.php:79
+#: inc/customizer/university/registration.php:112
+#: inc/customizer/university/registration.php:140
+#: inc/customizer/university/registration.php:168
+#: inc/customizer/university/registration.php:196
+#: inc/customizer/university/registration.php:224
+#: inc/customizer/university/registration.php:252
+#: inc/customizer/school/registration.php:74
+#: inc/customizer/school/registration.php:102
+#: inc/customizer/school/registration.php:130
+#: inc/customizer/school/registration.php:158
+#: inc/customizer/school/registration.php:186
+#: inc/customizer/school/registration.php:214
+#: inc/customizer/school/registration.php:242
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:102
+#: inc/customizer/kindergarten/registration.php:130
+#: inc/customizer/kindergarten/registration.php:158
+#: inc/customizer/kindergarten/registration.php:186
+#: inc/customizer/kindergarten/registration.php:214
+#: inc/customizer/kindergarten/registration.php:242
+#: inc/customizer/university/registration.php:107
+#: inc/customizer/university/registration.php:135
+#: inc/customizer/university/registration.php:163
+#: inc/customizer/university/registration.php:191
+#: inc/customizer/university/registration.php:219
+#: inc/customizer/university/registration.php:247
+#: inc/customizer/school/registration.php:97
+#: inc/customizer/school/registration.php:125
+#: inc/customizer/school/registration.php:153
+#: inc/customizer/school/registration.php:181
+#: inc/customizer/school/registration.php:209
+#: inc/customizer/school/registration.php:237
+msgid "Font Weight"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:128
+#: inc/custom-post-types/kindergarten/custom-post-types.php:446
+#: inc/custom-post-types/kindergarten/custom-post-types.php:447
+#: inc/custom-post-types/university/custom-post-types.php:127
+#: inc/custom-post-types/university/custom-post-types.php:480
+#: inc/custom-post-types/university/custom-post-types.php:481
+#: inc/custom-post-types/school/custom-post-types.php:128
+#: inc/custom-post-types/school/custom-post-types.php:433
+#: inc/custom-post-types/school/custom-post-types.php:434
+#: inc/customizer/kindergarten/registration.php:29
+#: inc/customizer/university/registration.php:29
+#: inc/customizer/school/registration.php:29
+msgid "Footer"
+msgstr ""
+
+#: inc/setup.php:99
+msgid "Footer "
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:131
+#: inc/custom-post-types/university/custom-post-types.php:130
+#: inc/custom-post-types/school/custom-post-types.php:131
+msgid "Footers"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:296
+#: inc/customizer/university/registration.php:301
+#: inc/customizer/school/registration.php:291
+msgid "Frontend Customizer"
+msgstr ""
+
+#: inc/customizer/university/registration.php:280
+msgid "Geen"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/callback/section/oauth.php:12
+msgid "generate a personal token"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:471
+msgid "Global OAuth Personal Token"
+msgstr ""
+
+#: parts/kindergarten/content-donation.php:61
+#: parts/kindergarten/archive-stm_donation.php:66
+#: vc_templates/kindergarten/stm_donations.php:85
+msgid "Goal"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:349
+#: inc/custom-post-types/university/custom-post-types.php:383
+#: inc/custom-post-types/school/custom-post-types.php:336
+msgid "Goal:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Good"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:371
+#: inc/customizer/university/registration.php:376
+#: inc/customizer/school/registration.php:366
+msgid "Google API Key"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:366
+#: inc/customizer/university/registration.php:371
+#: inc/customizer/school/registration.php:361
+msgid "Google Api Settings"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:161
+#: inc/custom-post-types/university/custom-post-types.php:160
+#: inc/custom-post-types/university/custom-post-types.php:197
+#: inc/custom-post-types/school/custom-post-types.php:161
+#: inc/customizer/kindergarten/registration.php:4
+#: inc/customizer/university/registration.php:4
+#: inc/customizer/school/registration.php:4
+msgid "Google plus"
+msgstr ""
+
+#: inc/scripts_styles.php:24
+msgctxt "Grand Hotel font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:275
+msgid "Green"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:93
+#: inc/customizer/university/registration.php:98
+#: inc/customizer/school/registration.php:88
+msgid "H1"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:121
+#: inc/customizer/university/registration.php:126
+#: inc/customizer/school/registration.php:116
+msgid "H2"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:149
+#: inc/customizer/university/registration.php:154
+#: inc/customizer/school/registration.php:144
+msgid "H3"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:177
+#: inc/customizer/university/registration.php:182
+#: inc/customizer/school/registration.php:172
+msgid "H4"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:205
+#: inc/customizer/university/registration.php:210
+#: inc/customizer/school/registration.php:200
+msgid "H5"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:233
+#: inc/customizer/university/registration.php:238
+#: inc/customizer/school/registration.php:228
+msgid "H6"
+msgstr ""
+
+#: parts/content-donation.php:117 parts/kindergarten/content-donation.php:95
+#: parts/university/content-donation.php:117
+#: parts/university/archive-stm_donation.php:96
+#: parts/school/content-donation.php:117
+#: parts/school/archive-stm_donation.php:96
+#: vc_templates/kindergarten/stm_donation_info.php:119
+#: vc_templates/university/stm_donation_info.php:119
+#: vc_templates/university/stm_donations.php:123
+#: vc_templates/school/stm_donation_info.php:119
+#: vc_templates/school/stm_donations.php:121
+msgid "Has been completed"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:55
+msgctxt "hash before order number"
+msgid "#"
+msgstr ""
+
+#: inc/setup.php:41 inc/customizer/kindergarten/registration.php:393
+#: inc/customizer/university/registration.php:398
+#: inc/customizer/school/registration.php:388
+msgid "Header"
+msgstr ""
+
+#: parts/frontend-customizer.php:22
+msgid "Header Style"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:56
+#: inc/custom-post-types/university/custom-post-types.php:56
+#: inc/custom-post-types/school/custom-post-types.php:56
+msgid "Height"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:11
+#: inc/custom-post-types/kindergarten/custom-post-types.php:107
+#: inc/custom-post-types/university/custom-post-types.php:11
+#: inc/custom-post-types/university/custom-post-types.php:106
+#: inc/custom-post-types/school/custom-post-types.php:11
+#: inc/custom-post-types/school/custom-post-types.php:106
+#: inc/customizer/kindergarten/registration.php:608
+#: inc/customizer/kindergarten/registration.php:624
+#: inc/customizer/kindergarten/registration.php:653
+#: inc/customizer/kindergarten/registration.php:679
+#: inc/customizer/kindergarten/registration.php:705
+#: inc/customizer/kindergarten/registration.php:715
+#: inc/customizer/university/registration.php:601
+#: inc/customizer/university/registration.php:617
+#: inc/customizer/university/registration.php:646
+#: inc/customizer/university/registration.php:672
+#: inc/customizer/university/registration.php:698
+#: inc/customizer/university/registration.php:708
+#: inc/customizer/school/registration.php:591
+#: inc/customizer/school/registration.php:607
+#: inc/customizer/school/registration.php:636
+#: inc/customizer/school/registration.php:662
+#: inc/customizer/school/registration.php:688
+#: inc/customizer/school/registration.php:698
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:635
+#: inc/customizer/kindergarten/registration.php:664
+#: inc/customizer/kindergarten/registration.php:690
+#: inc/customizer/university/registration.php:628
+#: inc/customizer/university/registration.php:657
+#: inc/customizer/university/registration.php:683
+#: inc/customizer/school/registration.php:618
+#: inc/customizer/school/registration.php:647
+#: inc/customizer/school/registration.php:673
+msgid "Hide share social buttons"
+msgstr ""
+
+#: admin/screens/system_status.php:20
+msgid "Home URL:"
+msgstr ""
+
+#: parts/kindergarten/page-error.php:34 parts/university/page-error.php:40
+msgid "Homepage"
+msgstr ""
+
+#: vc_templates/kindergarten/stm_course_topics.php:13
+#: vc_templates/university/stm_course_topics.php:12
+msgid "Hours"
+msgstr ""
+
+#: parts/donation-form.php:34
+msgid "How much would you like to donate?"
+msgstr ""
+
+#. URI of the theme
+msgid "http://smartyschool.stylemixthemes.com/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://stylemixthemes.com/"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:383
+#: admin/includes/envato-market/inc/admin/view/callback/setting/items.php:22
+msgid "ID"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:394
+#: inc/custom-post-types/kindergarten/custom-post-types.php:405
+#: inc/custom-post-types/university/custom-post-types.php:428
+#: inc/custom-post-types/university/custom-post-types.php:439
+#: inc/custom-post-types/school/custom-post-types.php:381
+#: inc/custom-post-types/school/custom-post-types.php:392
+#: inc/customizer/kindergarten/registration.php:309
+#: inc/customizer/kindergarten/registration.php:315
+#: inc/customizer/university/registration.php:314
+#: inc/customizer/university/registration.php:320
+#: inc/customizer/school/registration.php:304
+#: inc/customizer/school/registration.php:310
+msgid "Image"
+msgstr ""
+
+#: inc/visual-composer/kindergarten/vc-map/stm_achievement.php:24
+#: inc/visual-composer/university/vc-map/stm_achievement.php:29
+#: inc/visual-composer/school/vc-map/stm_achievement.php:24
+msgid "Image size"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:175
+#: inc/custom-post-types/kindergarten/custom-post-types.php:346
+#: inc/custom-post-types/university/custom-post-types.php:211
+#: inc/custom-post-types/university/custom-post-types.php:380
+#: inc/custom-post-types/school/custom-post-types.php:175
+#: inc/custom-post-types/school/custom-post-types.php:333
+msgid "Information"
+msgstr ""
+
+#: admin/screens/system_status.php:85
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:165
+#: inc/custom-post-types/university/custom-post-types.php:164
+#: inc/custom-post-types/university/custom-post-types.php:201
+#: inc/custom-post-types/school/custom-post-types.php:165
+#: inc/customizer/kindergarten/registration.php:7
+#: inc/customizer/university/registration.php:7
+#: inc/customizer/school/registration.php:7
+msgid "Instagram"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:150
+#: admin/includes/envato-market/inc/admin/functions.php:355
+#: admin/includes/envato-market/inc/admin/admin.php:448
+#: admin/includes/envato-market/inc/admin/admin.php:449
+msgid "Install"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:151
+#: admin/includes/envato-market/inc/admin/functions.php:356
+#, php-format
+msgid "Install %s"
+msgstr ""
+
+#: admin/screens/install_demo.php:36
+msgid "Install and Activate"
+msgstr ""
+
+#: admin/includes/admin_screens.php:165 admin/includes/admin_screens.php:170
+msgid "Install Demos"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:762
+#: admin/includes/envato-market/inc/admin/admin.php:787
+msgid "Installing Plugin..."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:794
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:820
+#: admin/includes/envato-market/inc/admin/admin.php:845
+msgid "Installing Theme..."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:854
+#, php-format
+msgid "Installing Theme: %s"
+msgstr ""
+
+#: admin/screens/startup.php:66
+msgid "Instructions For Generating A Token"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:408
+msgid "Item ID"
+msgstr ""
+
+#: inc/visual-composer/kindergarten/vc-map/stm_achievement.php:18
+#: inc/visual-composer/university/vc-map/stm_achievement.php:23
+#: inc/visual-composer/school/vc-map/stm_achievement.php:18
+msgid "Items per page"
+msgstr ""
+
+#: parts/kindergarten/event-join-form.php:5
+#: parts/university/event-join-form.php:5 parts/school/event-join-form.php:5
+#: vc_templates/kindergarten/stm_post_comments.php:9
+#: vc_templates/university/stm_post_comments.php:9
+#: vc_templates/school/stm_post_comments.php:9
+msgid "Join event"
+msgstr ""
+
+#: parts/frontend-customizer.php:8
+msgid "Kindergarten"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:431
+#: inc/customizer/university/registration.php:436
+#: inc/customizer/school/registration.php:426
+msgid "Language"
+msgstr ""
+
+#: admin/screens/system_status.php:68
+msgid "Language:"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:60
+msgid "Last Name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:32
+msgid "Last name"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:244
+#: inc/custom-post-types/university/custom-post-types.php:280
+#: inc/custom-post-types/school/custom-post-types.php:244
+msgid "Latitude:"
+msgstr ""
+
+#: inc/scripts_styles.php:10 inc/scripts_styles.php:15
+msgctxt "Lato font: on or off"
+msgid "on"
+msgstr ""
+
+#: parts/frontend-customizer.php:32
+#: inc/customizer/kindergarten/registration.php:505
+#: inc/customizer/kindergarten/registration.php:589
+#: inc/customizer/university/registration.php:498
+#: inc/customizer/university/registration.php:582
+#: inc/customizer/school/registration.php:488
+#: inc/customizer/school/registration.php:572
+msgid "Layout"
+msgstr ""
+
+#: admin/screens/support.php:53 parts/kindergarten/archive-stm_donation.php:118
+#: vc_templates/kindergarten/stm_courses.php:78
+#: vc_templates/kindergarten/stm_courses.php:128
+#: vc_templates/kindergarten/stm_donations.php:137
+msgid "Learn more"
+msgstr ""
+
+#: parts/kindergarten/page-title.php:131 parts/kindergarten/comments.php:78
+#: parts/kindergarten/content.php:36 parts/university/comments.php:78
+#: parts/university/content.php:34 parts/university/search.php:80
+#: parts/school/comments.php:78 parts/school/content.php:30
+#: parts/school/content.php:100 parts/school/search.php:79
+#: vc_templates/kindergarten/stm_post_header.php:25
+#: vc_templates/university/stm_post_header.php:25
+#: vc_templates/school/stm_post_header.php:25
+#: vc_templates/school/stm_posts.php:110
+msgid "Leave a comment"
+msgstr ""
+
+#: parts/kindergarten/comments.php:79 parts/university/comments.php:79
+#: parts/school/comments.php:79
+#, php-format
+msgid "Leave a comment to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:63
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:84
+#: inc/custom-post-types/kindergarten/custom-post-types.php:361
+#: inc/custom-post-types/kindergarten/custom-post-types.php:933
+#: inc/custom-post-types/university/custom-post-types.php:395
+#: inc/custom-post-types/university/custom-post-types.php:1015
+#: inc/custom-post-types/school/custom-post-types.php:348
+#: inc/custom-post-types/school/custom-post-types.php:920
+#: inc/customizer/kindergarten/registration.php:606
+#: inc/customizer/kindergarten/registration.php:622
+#: inc/customizer/kindergarten/registration.php:651
+#: inc/customizer/kindergarten/registration.php:677
+#: inc/customizer/kindergarten/registration.php:703
+#: inc/customizer/kindergarten/registration.php:713
+#: inc/customizer/university/registration.php:599
+#: inc/customizer/university/registration.php:615
+#: inc/customizer/university/registration.php:644
+#: inc/customizer/university/registration.php:670
+#: inc/customizer/university/registration.php:696
+#: inc/customizer/university/registration.php:706
+#: inc/customizer/school/registration.php:589
+#: inc/customizer/school/registration.php:605
+#: inc/customizer/school/registration.php:634
+#: inc/customizer/school/registration.php:660
+#: inc/customizer/school/registration.php:686
+#: inc/customizer/school/registration.php:696
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:14
+#: inc/customizer/university/controls/font-weight.php:14
+#: inc/customizer/school/controls/font-weight.php:14
+msgid "Light"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:15
+#: inc/customizer/university/controls/font-weight.php:15
+#: inc/customizer/school/controls/font-weight.php:15
+msgid "Light Italic"
+msgstr ""
+
+#: inc/customizer/university/registration.php:46
+msgid "Light Logo"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:86
+#: inc/customizer/kindergarten/registration.php:114
+#: inc/customizer/kindergarten/registration.php:142
+#: inc/customizer/kindergarten/registration.php:170
+#: inc/customizer/kindergarten/registration.php:198
+#: inc/customizer/kindergarten/registration.php:226
+#: inc/customizer/kindergarten/registration.php:254
+#: inc/customizer/university/registration.php:86
+#: inc/customizer/university/registration.php:119
+#: inc/customizer/university/registration.php:147
+#: inc/customizer/university/registration.php:175
+#: inc/customizer/university/registration.php:203
+#: inc/customizer/university/registration.php:231
+#: inc/customizer/university/registration.php:259
+#: inc/customizer/school/registration.php:81
+#: inc/customizer/school/registration.php:109
+#: inc/customizer/school/registration.php:137
+#: inc/customizer/school/registration.php:165
+#: inc/customizer/school/registration.php:193
+#: inc/customizer/school/registration.php:221
+#: inc/customizer/school/registration.php:249
+msgid "Line Height"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:409
+#: inc/custom-post-types/university/custom-post-types.php:443
+#: inc/custom-post-types/school/custom-post-types.php:396
+msgid "Link"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:898
+#: inc/custom-post-types/university/custom-post-types.php:980
+#: inc/custom-post-types/school/custom-post-types.php:885
+msgid "Live"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:137
+#: admin/includes/envato-market/inc/admin/upgrader-skins.php:53
+msgid "Live Preview"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:137
+#: admin/includes/envato-market/inc/admin/upgrader-skins.php:53
+#, php-format
+msgid "Live Preview &#8220;%s&#8221;"
+msgstr ""
+
+#: vc_templates/kindergarten/stm_meal.php:144
+#: vc_templates/university/stm_meal.php:144
+#: vc_templates/school/stm_meal.php:144
+msgid "Load more"
+msgstr ""
+
+#: parts/kindergarten/comments.php:93 parts/university/comments.php:93
+#: parts/school/comments.php:93
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:34
+#: woocommerce/myaccount/form-login.php:56 woocommerce/global/form-login.php:51
+#: parts/kindergarten/top-bar-3.php:52 parts/kindergarten/top-bar-3.php:52
+#: parts/university/top-bar-1.php:51 parts/university/top-bar-1.php:51
+#: parts/school/top-bar-1.php:52 parts/school/top-bar-1.php:52
+msgid "Login"
+msgstr ""
+
+#: parts/kindergarten/header-2.php:35 parts/kindergarten/header-2.php:90
+#: parts/kindergarten/page-error.php:20 parts/university/header-4.php:50
+#: parts/university/header-4.php:97 parts/university/header-2.php:83
+#: parts/university/header-3.php:39 parts/university/header-3.php:97
+#: parts/university/header-1.php:38 parts/university/header-1.php:61
+#: parts/university/header-1.php:120 parts/university/content.php:99
+#: parts/university/page-error.php:21 parts/university/top-bar-2.php:14
+#: parts/school/header.php:49 parts/school/header.php:83
+#: inc/customizer/kindergarten/registration.php:46
+#: inc/customizer/school/registration.php:46
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:41
+#: inc/customizer/university/registration.php:41
+#: inc/customizer/school/registration.php:41
+msgid "Logo &amp; Title"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:50
+#: inc/customizer/university/registration.php:50
+#: inc/customizer/school/registration.php:50
+msgid "Logo - Width"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:248
+#: inc/custom-post-types/university/custom-post-types.php:284
+#: inc/custom-post-types/school/custom-post-types.php:248
+msgid "Longitude:"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50 woocommerce/global/form-login.php:47
+msgid "Lost your password?"
+msgstr ""
+
+#: admin/screens/system_status.php:244
+msgid "Max Upload Size:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:431
+#: inc/custom-post-types/kindergarten/custom-post-types.php:432
+#: inc/custom-post-types/university/custom-post-types.php:465
+#: inc/custom-post-types/university/custom-post-types.php:466
+#: inc/custom-post-types/school/custom-post-types.php:418
+#: inc/custom-post-types/school/custom-post-types.php:419
+msgid "Meal"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:618
+#: inc/custom-post-types/university/custom-post-types.php:659
+#: inc/custom-post-types/school/custom-post-types.php:605
+msgid "Meal Time"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:436
+#: inc/custom-post-types/kindergarten/custom-post-types.php:437
+#: inc/custom-post-types/university/custom-post-types.php:470
+#: inc/custom-post-types/university/custom-post-types.php:471
+#: inc/custom-post-types/school/custom-post-types.php:423
+#: inc/custom-post-types/school/custom-post-types.php:424
+msgid "Media Gallery"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:19
+#: inc/custom-post-types/university/custom-post-types.php:19
+#: inc/custom-post-types/school/custom-post-types.php:19
+#: inc/customizer/kindergarten/controls/font-weight.php:20
+#: inc/customizer/university/controls/font-weight.php:20
+#: inc/customizer/school/controls/font-weight.php:20
+msgid "Medium"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:21
+#: inc/customizer/university/controls/font-weight.php:21
+#: inc/customizer/school/controls/font-weight.php:21
+msgid "Medium Italic"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:451
+#: inc/custom-post-types/kindergarten/custom-post-types.php:452
+#: inc/custom-post-types/kindergarten/custom-post-types.php:667
+#: inc/custom-post-types/kindergarten/custom-post-types.php:668
+#: inc/custom-post-types/university/custom-post-types.php:485
+#: inc/custom-post-types/university/custom-post-types.php:486
+#: inc/custom-post-types/university/custom-post-types.php:720
+#: inc/custom-post-types/university/custom-post-types.php:721
+#: inc/custom-post-types/school/custom-post-types.php:438
+#: inc/custom-post-types/school/custom-post-types.php:439
+#: inc/custom-post-types/school/custom-post-types.php:654
+#: inc/custom-post-types/school/custom-post-types.php:655
+msgid "Meeting"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:504
+#: inc/custom-post-types/university/custom-post-types.php:543
+#: inc/custom-post-types/school/custom-post-types.php:491
+msgid "Member"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:17
+#: inc/customizer/university/registration.php:17
+#: inc/customizer/school/registration.php:17
+msgid "Menus"
+msgstr ""
+
+#: parts/kindergarten/event-join-form.php:12
+#: parts/kindergarten/comments.php:102 parts/university/event-join-form.php:25
+#: parts/university/comments.php:102 parts/school/event-join-form.php:19
+#: parts/school/comments.php:102
+#: vc_templates/kindergarten/stm_post_comments.php:23
+#: vc_templates/university/stm_post_comments.php:23
+#: vc_templates/school/stm_post_comments.php:23
+msgid "Message"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:894
+#: inc/custom-post-types/university/custom-post-types.php:976
+#: inc/custom-post-types/school/custom-post-types.php:881
+msgid "Mode:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:33
+msgid "My Account"
+msgstr ""
+
+#: parts/kindergarten/top-bar-3.php:50 parts/university/top-bar-1.php:49
+#: parts/university/top-bar-1.php:49 parts/school/top-bar-1.php:50
+#: parts/school/top-bar-1.php:50
+msgid "My account"
+msgstr ""
+
+#: admin/screens/system_status.php:233
+msgid "MySQL Version:"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:62
+#: woocommerce/order/order-details-customer.php:75
+#: woocommerce/single-product/meta.php:31
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:70 parts/donation-form.php:46
+#: parts/kindergarten/event-join-form.php:19 parts/kindergarten/comments.php:59
+#: parts/university/event-join-form.php:12 parts/university/comments.php:59
+#: parts/school/event-join-form.php:10 parts/school/comments.php:59
+#: vc_templates/kindergarten/stm_post_comments.php:14
+#: vc_templates/university/stm_post_comments.php:14
+#: vc_templates/school/stm_post_comments.php:14
+msgid "Name"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:479
+#: inc/customizer/university/registration.php:472
+#: inc/customizer/school/registration.php:462
+msgid "Navigation menu"
+msgstr ""
+
+#: inc/customizer/university/registration.php:279
+msgid "Navy"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:339
+#: admin/includes/envato-market/inc/admin/upgrader-skins.php:114
+msgid "Network Activate"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:340
+#, php-format
+msgid "Network Activate %s"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:117
+#: admin/includes/envato-market/inc/admin/upgrader-skins.php:62
+msgid "Network Enable"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:117
+#, php-format
+msgid "Network Enable &#8220;%s&#8221;"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:46
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: parts/kindergarten/comments.php:19 parts/kindergarten/comments.php:37
+#: parts/university/comments.php:19 parts/university/comments.php:37
+#: parts/school/comments.php:19 parts/school/comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: parts/page-title.php:125
+msgid "News"
+msgstr ""
+
+#: vc_templates/university/stm_donations.php:109
+msgid "No Days left"
+msgstr ""
+
+#: parts/content-donation.php:65 parts/university/content-donation.php:65
+#: parts/university/archive-stm_donation.php:88
+#: parts/school/content-donation.php:65
+#: parts/school/archive-stm_donation.php:88
+#: vc_templates/kindergarten/stm_donation_info.php:67
+#: vc_templates/university/stm_donation_info.php:67
+#: vc_templates/school/stm_donation_info.php:67
+#: vc_templates/school/stm_donations.php:113
+msgid "No Days left to achieve target"
+msgstr ""
+
+#: inc/custom.php:771 parts/mini-cart.php:12
+msgid "No products in the cart."
+msgstr ""
+
+#: parts/kindergarten/event-join-form.php:104
+#: parts/university/event-join-form.php:95 parts/school/event-join-form.php:96
+msgid "Not indicated"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/order/order-details.php:85
+#: woocommerce/order/order-details-customer.php:30
+msgid "Note:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:835
+#: inc/custom-post-types/university/custom-post-types.php:917
+#: inc/custom-post-types/school/custom-post-types.php:822
+#, php-format
+msgid ""
+"NOTE: After you change the rewrite field values, you'll need to refresh "
+"permalinks under Settings -> <a href=\"%s\">Permalinks</a>"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/callback/section/oauth.php:10
+msgid ""
+"OAuth is a protocol that lets external apps request authorization to private "
+"details in a user's Envato Market account without entering their password. "
+"This is preferred over Basic Authentication because tokens can be limited to "
+"specific types of data, and can be revoked by users at any time."
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:345
+#: inc/customizer/university/registration.php:350
+#: inc/customizer/school/registration.php:340
+msgid "One Click update"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/notice/error-single-use.php:11
+msgid ""
+"One or more Single Use OAuth Personal Tokens could not be verified and "
+"should be removed."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:109
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: inc/customizer/university/registration.php:278
+#: inc/customizer/school/registration.php:268
+msgid "Orange"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:13
+msgid "Order"
+msgstr ""
+
+#: woocommerce/order/order-details.php:39
+msgid "Order Details"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Order number:"
+msgstr ""
+
+#: admin/includes/admin_screens.php:168
+msgid "Other Themes"
+msgstr ""
+
+#: admin/includes/admin_screens.php:63 admin/includes/admin_screens.php:64
+msgid "Other themes"
+msgstr ""
+
+#: admin/screens/support.php:87
+#, php-format
+msgid ""
+"Our forum is the best place for user to user interactions. Ask another %s "
+"user or share your experience with the community to help others."
+msgstr ""
+
+#: admin/screens/support.php:50
+#, php-format
+msgid ""
+"Our online documentaiton is a useful resource for learning the every aspect "
+"and features of %s."
+msgstr ""
+
+#: woocommerce/cart/cart.php:96
+#, php-format
+msgid "out of %s5%s"
+msgstr ""
+
+#: woocommerce/single-product/review.php:59
+msgid "out of 5"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:47
+#: inc/custom-post-types/university/custom-post-types.php:47
+#: inc/custom-post-types/school/custom-post-types.php:47
+msgid "Overlay"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:72
+#: inc/custom-post-types/university/custom-post-types.php:72
+#: inc/custom-post-types/school/custom-post-types.php:72
+msgid "Overlay - Color"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:76
+#: inc/custom-post-types/university/custom-post-types.php:76
+#: inc/custom-post-types/school/custom-post-types.php:76
+msgid "Overlay - Color Opacity"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:60
+#: inc/custom-post-types/university/custom-post-types.php:60
+#: inc/custom-post-types/school/custom-post-types.php:60
+msgid "Padding"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:578
+#: inc/customizer/university/registration.php:571
+#: inc/customizer/school/registration.php:561
+msgid "Padding Bottom"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:571
+#: inc/customizer/university/registration.php:564
+#: inc/customizer/school/registration.php:554
+msgid "Padding Top"
+msgstr ""
+
+#: parts/content-page.php:10
+msgid "Page"
+msgstr ""
+
+#. Name of the template
+msgid "Page 404"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:724
+#: inc/customizer/university/registration.php:717
+#: inc/customizer/school/registration.php:707
+msgid "Page Not Found (404)"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:25
+#: inc/customizer/university/registration.php:25
+#: inc/customizer/school/registration.php:25
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:566
+#: inc/customizer/university/registration.php:559
+#: inc/customizer/school/registration.php:549
+msgid "Page Title"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:8
+#: inc/custom-post-types/university/custom-post-types.php:8
+#: inc/custom-post-types/school/custom-post-types.php:8
+msgid "Page title"
+msgstr ""
+
+#: parts/content-page.php:6 parts/kindergarten/content.php:44
+#: parts/university/content.php:42 parts/school/content.php:38
+msgid "Pages:"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:42
+#: woocommerce/myaccount/form-login.php:89 woocommerce/global/form-login.php:39
+msgid "Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:39
+msgid "Password Change"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:310
+#: inc/customizer/kindergarten/registration.php:328
+#: inc/customizer/university/registration.php:315
+#: inc/customizer/university/registration.php:333
+#: inc/customizer/school/registration.php:305
+#: inc/customizer/school/registration.php:323
+msgid "Pattern"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:72 woocommerce/checkout/thankyou.php:31
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:23
+msgid "Payment"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:61
+msgid "Payment method:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:905
+#: inc/custom-post-types/university/custom-post-types.php:987
+#: inc/custom-post-types/school/custom-post-types.php:892
+msgid "Paypal email:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:27
+msgid "Personal Information"
+msgstr ""
+
+#: parts/donation-form.php:50 parts/kindergarten/event-join-form.php:25
+#: parts/university/event-join-form.php:18 parts/school/event-join-form.php:16
+#: vc_templates/kindergarten/stm_post_comments.php:20
+#: vc_templates/university/stm_post_comments.php:20
+#: vc_templates/school/stm_post_comments.php:20
+#: inc/custom-post-types/kindergarten/custom-post-types.php:311
+#: inc/custom-post-types/kindergarten/custom-post-types.php:340
+#: inc/custom-post-types/university/custom-post-types.php:345
+#: inc/custom-post-types/university/custom-post-types.php:374
+#: inc/custom-post-types/school/custom-post-types.php:298
+#: inc/custom-post-types/school/custom-post-types.php:327
+#: inc/customizer/kindergarten/registration.php:443
+#: inc/customizer/kindergarten/registration.php:444
+#: inc/customizer/university/registration.php:448
+#: inc/customizer/university/registration.php:449
+#: inc/customizer/school/registration.php:438
+#: inc/customizer/school/registration.php:439
+msgid "Phone"
+msgstr ""
+
+#: admin/screens/system_status.php:118
+msgid "PHP Max Input Vars:"
+msgstr ""
+
+#: admin/screens/system_status.php:95
+msgid "PHP Post Max Size:"
+msgstr ""
+
+#: admin/screens/system_status.php:100
+msgid "PHP Time Limit:"
+msgstr ""
+
+#: admin/screens/system_status.php:89
+msgid "PHP Version:"
+msgstr ""
+
+#: parts/kindergarten/archive-stm_donation.php:24
+#: parts/university/archive-stm_donation.php:18
+#: parts/school/archive-stm_donation.php:18
+#: vc_templates/kindergarten/stm_posts.php:67
+#: vc_templates/kindergarten/stm_donations.php:43
+#: vc_templates/university/stm_events.php:94
+#: vc_templates/university/stm_events.php:178
+#: vc_templates/university/stm_posts.php:90
+#: vc_templates/university/stm_posts.php:130
+#: vc_templates/university/stm_posts.php:191
+#: vc_templates/university/stm_posts.php:312
+#: vc_templates/university/stm_donations.php:43
+#: vc_templates/school/stm_posts.php:63
+#: vc_templates/school/stm_donations.php:43
+msgid "Placeholder"
+msgstr ""
+
+#: inc/custom.php:244
+msgid "Please confirm the \"E-Mail\" field."
+msgstr ""
+
+#: inc/custom.php:236
+msgid "Please confirm the \"Name\" field."
+msgstr ""
+
+#: inc/custom.php:252
+msgid "Please confirm the \"Phone\" field."
+msgstr ""
+
+#: inc/updater/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: inc/updater/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: inc/custom.php:239 inc/custom.php:247 inc/custom.php:255
+msgid "Please fill in the field."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: admin/screens/install_demo.php:25 admin/screens/startup.php:23
+msgid ""
+"Please make sure you have purchased this theme with the account you "
+"registered current token"
+msgstr ""
+
+#: parts/content-donation.php:38 parts/university/content-donation.php:38
+#: parts/university/archive-stm_donation.php:56
+#: parts/school/content-donation.php:38
+#: parts/school/archive-stm_donation.php:56
+#: vc_templates/kindergarten/stm_donation_info.php:39
+#: vc_templates/university/stm_donation_info.php:39
+#: vc_templates/university/stm_donations.php:81
+#: vc_templates/school/stm_donation_info.php:39
+#: vc_templates/school/stm_donations.php:81
+msgid "Please, Set goal"
+msgstr ""
+
+#: admin/includes/admin_screens.php:86 admin/includes/admin_screens.php:87
+#: admin/includes/admin_screens.php:164 admin/includes/admin_screens.php:171
+#: admin/includes/envato-market/inc/admin/view/partials/tabs.php:42
+msgid "Plugins"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:145
+#: inc/custom-post-types/university/custom-post-types.php:144
+#: inc/custom-post-types/university/custom-post-types.php:177
+#: inc/custom-post-types/school/custom-post-types.php:145
+msgid "Position"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:84
+msgid "Postcode"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:91
+msgid "Postcode / ZIP"
+msgstr ""
+
+#: inc/custom.php:596
+msgid "Posts navigation"
+msgstr ""
+
+#: admin/screens/other_themes.php:38
+msgid "Preview"
+msgstr ""
+
+#: woocommerce/cart/cart.php:36 woocommerce/cart/cart.php:107
+#: vc_templates/kindergarten/stm_course_info.php:41
+#: vc_templates/kindergarten/stm_courses.php:72
+#: vc_templates/kindergarten/stm_courses.php:122
+#: inc/custom-post-types/kindergarten/custom-post-types.php:298
+msgid "Price"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:27
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/order/order-details.php:46
+#: woocommerce/checkout/review-order.php:30 woocommerce/cart/cart.php:55
+msgid "Product"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:710
+#: inc/customizer/university/registration.php:703
+#: inc/customizer/school/registration.php:693
+msgid "Product - Sidebar Position"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Product Description"
+msgstr ""
+
+#: woocommerce/cart/cart.php:35
+msgid "Product name"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:21
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:273
+#: inc/customizer/school/registration.php:269
+msgid "Purple"
+msgstr ""
+
+#: woocommerce/cart/cart.php:37 woocommerce/cart/cart.php:113
+msgid "Quantity"
+msgstr ""
+
+#: parts/kindergarten/content-donation.php:65
+msgid "Raised"
+msgstr ""
+
+#: parts/content-donation.php:87 parts/university/content-donation.php:87
+#: parts/school/content-donation.php:87
+#: vc_templates/kindergarten/stm_donation_info.php:89
+#: vc_templates/university/stm_donation_info.php:89
+#: vc_templates/school/stm_donation_info.php:89
+msgid "raised"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:370
+#: inc/custom-post-types/university/custom-post-types.php:404
+#: inc/custom-post-types/school/custom-post-types.php:357
+msgid "Raised:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/review.php:57
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: woocommerce/cart/cart.php:94
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: vc_templates/university/stm_administrators.php:81
+msgid "Read full profile"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:30
+msgid "Recent Orders"
+msgstr ""
+
+#: inc/customizer/school/registration.php:270
+msgid "Red"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:70
+#: woocommerce/myaccount/form-login.php:102
+msgid "Register"
+msgstr ""
+
+#: admin/includes/admin_screens.php:162
+msgid "Registration"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:18
+#: inc/customizer/university/controls/font-weight.php:18
+#: inc/customizer/school/controls/font-weight.php:18
+msgid "Regular"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:19
+#: inc/customizer/university/controls/font-weight.php:19
+#: inc/customizer/school/controls/font-weight.php:19
+msgid "Regular Italic"
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:53 woocommerce/global/form-login.php:49
+msgid "Remember me"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:356
+msgid "Remove"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:396
+msgid "Remove Item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:143
+msgid "Remove this item"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/upgrader-skins.php:118
+#: admin/includes/envato-market/inc/admin/admin.php:764
+#: admin/includes/envato-market/inc/admin/admin.php:789
+#: admin/includes/envato-market/inc/admin/admin.php:847
+msgid "Return to Plugin Installer"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:35
+msgid "Return to shop"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/upgrader-skins.php:68
+#: admin/includes/envato-market/inc/admin/admin.php:822
+msgid "Return to Theme Installer"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:86
+#: inc/custom-post-types/kindergarten/custom-post-types.php:362
+#: inc/custom-post-types/kindergarten/custom-post-types.php:934
+#: inc/custom-post-types/university/custom-post-types.php:396
+#: inc/custom-post-types/university/custom-post-types.php:1016
+#: inc/custom-post-types/school/custom-post-types.php:349
+#: inc/custom-post-types/school/custom-post-types.php:921
+#: inc/customizer/kindergarten/registration.php:607
+#: inc/customizer/kindergarten/registration.php:623
+#: inc/customizer/kindergarten/registration.php:652
+#: inc/customizer/kindergarten/registration.php:678
+#: inc/customizer/kindergarten/registration.php:704
+#: inc/customizer/kindergarten/registration.php:714
+#: inc/customizer/university/registration.php:600
+#: inc/customizer/university/registration.php:616
+#: inc/customizer/university/registration.php:645
+#: inc/customizer/university/registration.php:671
+#: inc/customizer/university/registration.php:697
+#: inc/customizer/university/registration.php:707
+#: inc/customizer/school/registration.php:590
+#: inc/customizer/school/registration.php:606
+#: inc/customizer/school/registration.php:635
+#: inc/customizer/school/registration.php:661
+#: inc/customizer/school/registration.php:687
+#: inc/customizer/school/registration.php:697
+msgid "Right"
+msgstr ""
+
+#: admin/screens/other_themes.php:36
+msgid "Sales"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:899
+#: inc/custom-post-types/university/custom-post-types.php:981
+#: inc/custom-post-types/school/custom-post-types.php:886
+msgid "Sandbox"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:355
+msgid "Save"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:49
+msgid "Save Address"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/partials/settings.php:17
+msgid "Save Changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:58
+msgid "Save changes"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:842
+#: inc/custom-post-types/kindergarten/custom-post-types.php:1006
+#: inc/custom-post-types/university/custom-post-types.php:924
+#: inc/custom-post-types/university/custom-post-types.php:1088
+#: inc/custom-post-types/school/custom-post-types.php:829
+#: inc/custom-post-types/school/custom-post-types.php:993
+msgid "Save settings"
+msgstr ""
+
+#: parts/frontend-customizer.php:6
+msgid "School"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/partials/intro.php:20
+msgid "Screenshot"
+msgstr ""
+
+#: inc/custom.php:60 inc/customizer/kindergarten/registration.php:467
+#: inc/customizer/university/registration.php:466
+#: inc/customizer/school/registration.php:456
+msgid "Search"
+msgstr ""
+
+#: parts/page-title.php:128 parts/university/search.php:28
+msgid "Search results"
+msgstr ""
+
+#: inc/custom.php:59
+msgid "Search..."
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:36
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:61
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: vc_templates/university/stm_courses.php:35
+#: inc/custom-post-types/university/custom-post-types.php:616
+msgid "Semester"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:22
+#: inc/customizer/university/controls/font-weight.php:22
+#: inc/customizer/school/controls/font-weight.php:22
+msgid "Semi-Bold"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:23
+#: inc/customizer/university/controls/font-weight.php:23
+#: inc/customizer/school/controls/font-weight.php:23
+msgid "Semi-Bold Italic"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:94
+#: inc/custom-post-types/university/custom-post-types.php:85
+#: inc/custom-post-types/school/custom-post-types.php:85
+msgid "Separator - Color"
+msgstr ""
+
+#: admin/screens/system_status.php:75 admin/screens/system_status.php:79
+msgid "Server Environment"
+msgstr ""
+
+#: admin/screens/system_status.php:84
+msgid "Server Info:"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/partials/tabs.php:45
+msgid "Settings"
+msgstr ""
+
+#: parts/content-donation.php:127 parts/kindergarten/content-event.php:142
+#: parts/kindergarten/content-donation.php:105
+#: parts/kindergarten/content.php:63 parts/university/content-event.php:130
+#: parts/university/content-donation.php:127 parts/university/content.php:61
+#: parts/school/content-event.php:130 parts/school/content-donation.php:127
+#: parts/school/content.php:57 vc_templates/kindergarten/stm_post_footer.php:19
+#: vc_templates/university/stm_post_footer.php:19
+#: vc_templates/school/stm_post_footer.php:19
+msgid "Share"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:41
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:55 woocommerce/cart/cart-totals.php:56
+msgid "Shipping"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:72
+#: woocommerce/myaccount/my-address.php:28
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-address.php:20
+msgid "Shipping address"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:696
+#: inc/customizer/university/registration.php:689
+#: inc/customizer/school/registration.php:679
+msgid "Shop"
+msgstr ""
+
+#: inc/setup.php:89
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:473
+msgid "Shopping Cart"
+msgstr ""
+
+#: parts/mini-cart.php:7
+msgid "Shopping cart"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:976
+#: inc/custom-post-types/kindergarten/custom-post-types.php:997
+#: inc/custom-post-types/university/custom-post-types.php:1058
+#: inc/custom-post-types/university/custom-post-types.php:1079
+#: inc/custom-post-types/school/custom-post-types.php:963
+#: inc/custom-post-types/school/custom-post-types.php:984
+msgid "Shortcodes:"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:422
+#: inc/customizer/university/registration.php:427
+#: inc/customizer/school/registration.php:417
+msgid "Show"
+msgstr ""
+
+#: inc/custom-post-types/university/custom-post-types.php:97
+#: inc/custom-post-types/school/custom-post-types.php:97
+msgid "Show - Shipping Cart"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:41
+#, php-format
+msgid "Showing all <strong>%d</strong> results"
+msgstr ""
+
+#: woocommerce/loop/result-count.php:39
+msgid "Showing the single result"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:441
+#: inc/custom-post-types/kindergarten/custom-post-types.php:442
+#: inc/custom-post-types/university/custom-post-types.php:475
+#: inc/custom-post-types/university/custom-post-types.php:476
+#: inc/custom-post-types/school/custom-post-types.php:428
+#: inc/custom-post-types/school/custom-post-types.php:429
+msgid "Sidebar"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:42
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your order."
+" You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:629
+#: inc/customizer/university/registration.php:622
+#: inc/customizer/school/registration.php:612
+msgid "Single Post - Sidebar"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:619
+#: inc/customizer/university/registration.php:612
+#: inc/customizer/school/registration.php:602
+msgid "Single Post - Sidebar Position"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:488
+msgid "Single Use OAuth Personal Tokens"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:331
+#: admin/includes/envato-market/inc/admin/upgrader-skins.php:110
+msgid "Site Activate"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:332
+#, php-format
+msgid "Site Activate %s"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:113
+#: admin/includes/envato-market/inc/admin/upgrader-skins.php:58
+msgid "Site Enable"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:113
+#, php-format
+msgid "Site Enable &#8220;%s&#8221;"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:13
+#: inc/customizer/university/registration.php:13
+#: inc/customizer/school/registration.php:13
+msgid "Site Settings"
+msgstr ""
+
+#: admin/screens/system_status.php:25
+msgid "Site URL:"
+msgstr ""
+
+#: vc_templates/kindergarten/stm_course_info.php:29
+#: vc_templates/kindergarten/stm_courses.php:68
+#: vc_templates/kindergarten/stm_courses.php:118
+#: inc/custom-post-types/kindergarten/custom-post-types.php:290
+msgid "Size"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:269
+#: inc/customizer/university/registration.php:274
+#: inc/customizer/school/registration.php:264
+msgid "Skin Color"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:31
+msgid "SKU:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:18
+#: inc/custom-post-types/university/custom-post-types.php:18
+#: inc/custom-post-types/school/custom-post-types.php:18
+msgid "Small"
+msgstr ""
+
+#. Name of the theme
+msgid "Smarty"
+msgstr ""
+
+#: parts/university/content.php:26
+msgctxt "smarty"
+msgid "Posted by:"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Smarty School WordPress theme has been specially designed with your learning "
+"community in mind. Perfect as a kindergarten, school, college or university "
+"WordPress theme, this contemporary and intuitive platform works for teachers,"
+" staff, parents and students at every level, engaging all parties in the "
+"life of your school or learning environment."
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:491
+#: inc/customizer/university/registration.php:484
+#: inc/customizer/school/registration.php:474
+msgid "Social Networks"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:149
+#: inc/custom-post-types/university/custom-post-types.php:148
+#: inc/custom-post-types/university/custom-post-types.php:185
+#: inc/custom-post-types/school/custom-post-types.php:149
+#: inc/customizer/kindergarten/registration.php:385
+#: inc/customizer/university/registration.php:390
+#: inc/customizer/school/registration.php:380
+msgid "Socials"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:381
+#: inc/customizer/university/registration.php:386
+#: inc/customizer/school/registration.php:376
+msgid "Socials Networks"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:8
+#: inc/customizer/university/registration.php:8
+#: inc/customizer/school/registration.php:8
+msgid "SoundCloud"
+msgstr ""
+
+#: parts/kindergarten/top-bar-1.php:30
+msgid "Staff/Parents"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:80
+msgid "State"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:55
+#: woocommerce/cart/shipping-calculator.php:60
+#: woocommerce/cart/shipping-calculator.php:72
+msgid "State / County"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:378
+#: inc/custom-post-types/university/custom-post-types.php:412
+#: inc/custom-post-types/school/custom-post-types.php:365
+msgid "State:"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:35
+#: inc/customizer/university/registration.php:35
+#: inc/customizer/school/registration.php:35
+msgid "Static Front Page"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:15
+msgid "Status"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:412
+#: inc/customizer/university/registration.php:417
+#: inc/customizer/school/registration.php:407
+msgid "Sticky header"
+msgstr ""
+
+#: inc/visual-composer/kindergarten/vc-map/stm_achievement.php:43
+#: inc/visual-composer/university/vc-map/stm_achievement.php:48
+#: inc/visual-composer/school/vc-map/stm_achievement.php:43
+msgid "STM"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:856
+#: inc/custom-post-types/university/custom-post-types.php:938
+#: inc/custom-post-types/university/custom-post-types.php:938
+#: inc/custom-post-types/school/custom-post-types.php:843
+#: inc/custom-post-types/school/custom-post-types.php:843
+msgid "STM Donation Options"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:652
+#: inc/custom-post-types/university/custom-post-types.php:705
+#: inc/custom-post-types/university/custom-post-types.php:705
+#: inc/custom-post-types/school/custom-post-types.php:639
+#: inc/custom-post-types/school/custom-post-types.php:639
+msgid "STM Post Types"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:397
+#: inc/customizer/university/registration.php:402
+#: inc/customizer/school/registration.php:392
+msgid "Style"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:264
+#: inc/customizer/university/registration.php:269
+#: inc/customizer/school/registration.php:259
+msgid "Style &amp; Settings"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:23
+#: inc/custom-post-types/university/custom-post-types.php:23
+#: inc/custom-post-types/school/custom-post-types.php:23
+msgid "Style - Color"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:15
+#: inc/custom-post-types/university/custom-post-types.php:15
+#: inc/custom-post-types/school/custom-post-types.php:15
+msgid "Style - Size"
+msgstr ""
+
+#: parts/frontend-customizer.php:25
+#: inc/customizer/kindergarten/registration.php:404
+#: inc/customizer/university/registration.php:409
+#: inc/customizer/school/registration.php:399
+msgid "Style 1"
+msgstr ""
+
+#: parts/frontend-customizer.php:26
+#: inc/customizer/kindergarten/registration.php:405
+#: inc/customizer/university/registration.php:410
+#: inc/customizer/school/registration.php:400
+msgid "Style 2"
+msgstr ""
+
+#: parts/frontend-customizer.php:27
+#: inc/customizer/kindergarten/registration.php:406
+#: inc/customizer/university/registration.php:411
+#: inc/customizer/school/registration.php:401
+msgid "Style 3"
+msgstr ""
+
+#: parts/frontend-customizer.php:28
+#: inc/customizer/kindergarten/registration.php:407
+#: inc/customizer/university/registration.php:412
+#: inc/customizer/school/registration.php:402
+msgid "Style 4"
+msgstr ""
+
+#. Author of the theme
+msgid "StylemixThemes"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78 admin/screens/startup.php:58
+#: parts/kindergarten/event-join-form.php:30
+#: parts/university/event-join-form.php:102 parts/school/event-join-form.php:22
+#: parts/school/comments.php:85
+#: vc_templates/kindergarten/stm_post_comments.php:26
+#: vc_templates/university/stm_post_comments.php:26
+#: vc_templates/school/stm_post_comments.php:26
+msgid "Submit"
+msgstr ""
+
+#: parts/kindergarten/comments.php:85
+msgid "Submit a Comment"
+msgstr ""
+
+#: parts/university/comments.php:85
+msgid "Submit a comment"
+msgstr ""
+
+#: admin/screens/support.php:36
+msgid "Submit a ticket"
+msgstr ""
+
+#: vc_templates/kindergarten/stm_subscribe_popup.php:21
+#: vc_templates/university/stm_subscribe_popup.php:21
+#: vc_templates/school/stm_subscribe_popup.php:21
+msgid "Subscribe"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:34
+#: inc/custom-post-types/university/custom-post-types.php:34
+#: inc/custom-post-types/school/custom-post-types.php:34
+msgid "Subtitle"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:98
+#: inc/custom-post-types/university/custom-post-types.php:89
+#: inc/custom-post-types/school/custom-post-types.php:89
+msgid "Subtitle - Color"
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:63 woocommerce/cart/cart-totals.php:33
+#: woocommerce/cart/cart-totals.php:34
+msgid "Subtotal"
+msgstr ""
+
+#: admin/screens/system_status.php:147
+msgid "SUHOSIN Installed:"
+msgstr ""
+
+#: admin/screens/system_status.php:148
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.\n"
+"\t\t\tIf enabled on your server, Suhosin may need to be configured to "
+"increase its data submission limits."
+msgstr ""
+
+#: admin/screens/system_status.php:212
+msgid "Suhosin Post Max Value Length:"
+msgstr ""
+
+#: admin/screens/system_status.php:154
+msgid "Suhosin Post Max Vars:"
+msgstr ""
+
+#: admin/screens/system_status.php:183
+msgid "Suhosin Request Max Vars:"
+msgstr ""
+
+#: admin/includes/admin_screens.php:43 admin/includes/admin_screens.php:44
+#: admin/includes/admin_screens.php:163
+msgid "Support"
+msgstr ""
+
+#: admin/includes/admin_screens.php:166
+msgid "System Status"
+msgstr ""
+
+#: admin/includes/admin_screens.php:53 admin/includes/admin_screens.php:54
+msgid "System status"
+msgstr ""
+
+#: parts/page-title.php:119
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: archive-stm_course.php:13 vc_templates/kindergarten/stm_course_info.php:18
+#: vc_templates/school/stm_courses.php:26
+#: inc/custom-post-types/kindergarten/custom-post-types.php:281
+#: inc/custom-post-types/kindergarten/custom-post-types.php:466
+#: inc/custom-post-types/kindergarten/custom-post-types.php:672
+#: inc/custom-post-types/university/custom-post-types.php:331
+#: inc/custom-post-types/university/custom-post-types.php:500
+#: inc/custom-post-types/university/custom-post-types.php:725
+#: inc/custom-post-types/school/custom-post-types.php:284
+#: inc/custom-post-types/school/custom-post-types.php:453
+#: inc/custom-post-types/school/custom-post-types.php:659
+msgid "Teacher"
+msgstr ""
+
+#: archive-stm_course.php:25 vc_templates/kindergarten/stm_course_info.php:23
+msgid "Teacher didn't  selected"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:467
+#: inc/custom-post-types/kindergarten/custom-post-types.php:673
+#: inc/custom-post-types/university/custom-post-types.php:501
+#: inc/custom-post-types/university/custom-post-types.php:726
+#: inc/custom-post-types/school/custom-post-types.php:454
+#: inc/custom-post-types/school/custom-post-types.php:660
+msgid "Teachers"
+msgstr ""
+
+#: woocommerce/order/order-details-customer.php:44
+#: inc/custom-post-types/kindergarten/custom-post-types.php:252
+#: inc/custom-post-types/university/custom-post-types.php:288
+#: inc/custom-post-types/school/custom-post-types.php:252
+msgid "Telephone:"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:378
+#: admin/includes/envato-market/inc/admin/view/partials/settings.php:19
+msgid "Test API Connection"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:456
+#: inc/custom-post-types/university/custom-post-types.php:490
+#: inc/custom-post-types/school/custom-post-types.php:443
+msgid "Testimonial"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:457
+#: inc/custom-post-types/university/custom-post-types.php:491
+#: inc/custom-post-types/school/custom-post-types.php:444
+msgid "Testimonials"
+msgstr ""
+
+#: admin/screens/startup.php:39
+#, php-format
+msgid ""
+"Thank you for choosing %s! Please register it to enable the %1$s demos and "
+"theme auto updates. The instructions below must be followed exactly."
+msgstr ""
+
+#: parts/content-donation.php:61
+#: parts/kindergarten/archive-stm_donation.php:106
+#: parts/university/content-donation.php:61
+#: parts/university/archive-stm_donation.php:84
+#: parts/school/content-donation.php:61
+#: parts/school/archive-stm_donation.php:84
+#: vc_templates/kindergarten/stm_donation_info.php:63
+#: vc_templates/kindergarten/stm_donations.php:125
+#: vc_templates/university/stm_donation_info.php:63
+#: vc_templates/university/stm_donations.php:105
+#: vc_templates/school/stm_donation_info.php:63
+#: vc_templates/school/stm_donations.php:109
+msgid "Thank You!"
+msgstr ""
+
+#: parts/kindergarten/event-join-form.php:120
+#: parts/university/event-join-form.php:120
+#: parts/school/event-join-form.php:112
+#: vc_templates/kindergarten/stm_post_comments.php:41
+#: vc_templates/university/stm_post_comments.php:41
+#: vc_templates/school/stm_post_comments.php:41
+msgid "Thank you! You joined the event."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:39 woocommerce/checkout/thankyou.php:76
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: admin/screens/system_status.php:101
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: inc/updater/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: admin/screens/system_status.php:69
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: inc/updater/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:41
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:977
+msgid "The item cannot be downloaded."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:962
+#: admin/includes/envato-market/inc/admin/admin.php:1054
+msgid "The Item ID is missing."
+msgstr ""
+
+#: admin/screens/system_status.php:96
+msgid "The largest file size that can be contained in one post."
+msgstr ""
+
+#: admin/screens/system_status.php:245
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: admin/screens/system_status.php:41
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: admin/screens/system_status.php:119 admin/screens/system_status.php:155
+#: admin/screens/system_status.php:184
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/notice/error.php:11
+msgid ""
+"The OAuth Personal Token could not be verified. Please check that the Token "
+"has been entered correctly and has the minimum required permissions."
+msgstr ""
+
+#: parts/school/page-error.php:17
+msgid "The page you are looking for<br>does not exist."
+msgstr ""
+
+#: admin/screens/system_status.php:26
+msgid "The root URL of your site."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:960
+msgid "The Token is missing."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:973
+msgid "The Token or Item ID is incorrect."
+msgstr ""
+
+#: admin/screens/system_status.php:21
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: admin/screens/system_status.php:234
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: admin/screens/system_status.php:90
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: admin/screens/system_status.php:31
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: admin/includes/admin_screens.php:167 admin/includes/admin_screens.php:172
+msgid "Theme Options"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/partials/tabs.php:28
+msgid "Themes"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:49
+msgid "There are no reviews yet."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/partials/intro.php:14
+msgid ""
+"This plugin can install WordPress themes and plugins purchased from "
+"ThemeForest & CodeCanyon by connecting with the Envato Market API using a "
+"secure OAuth personal token. Once your themes & plugins are installed "
+"WordPress will periodically check for updates, so keeping your items up to "
+"date is as simple as a few clicks."
+msgstr ""
+
+#: admin/screens/support.php:30
+msgid "Ticket System"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:194
+#: inc/custom-post-types/university/custom-post-types.php:230
+#: inc/custom-post-types/school/custom-post-types.php:194
+msgid "Time - End:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:190
+#: inc/custom-post-types/university/custom-post-types.php:226
+#: inc/custom-post-types/school/custom-post-types.php:190
+msgid "Time - Start:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:186
+#: inc/custom-post-types/university/custom-post-types.php:222
+#: inc/custom-post-types/school/custom-post-types.php:186
+msgid "Time - Text:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:198
+#: inc/custom-post-types/university/custom-post-types.php:234
+#: inc/custom-post-types/school/custom-post-types.php:198
+msgid "Time - Zone:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:374
+#: inc/custom-post-types/university/custom-post-types.php:408
+#: inc/custom-post-types/school/custom-post-types.php:361
+msgid "Time:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:30
+#: inc/custom-post-types/university/custom-post-types.php:30
+#: inc/custom-post-types/school/custom-post-types.php:30
+#: inc/customizer/kindergarten/registration.php:598
+#: inc/customizer/university/registration.php:591
+#: inc/customizer/school/registration.php:581
+msgid "Title"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:90
+#: inc/custom-post-types/university/custom-post-types.php:81
+#: inc/custom-post-types/school/custom-post-types.php:81
+msgid "Title - Color"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:81
+msgid "Title - Position"
+msgstr ""
+
+#: parts/kindergarten/content-event.php:92
+#: parts/kindergarten/archive-stm_event.php:54
+#: parts/kindergarten/taxonomy-stm_event_category.php:54
+#: parts/university/content-event.php:80
+#: parts/university/archive-stm_event.php:36
+#: parts/university/taxonomy-stm_event_category.php:36
+#: parts/school/content-event.php:80 parts/school/archive-stm_event.php:36
+#: parts/school/taxonomy-stm_event_category.php:36
+#: vc_templates/kindergarten/stm_events.php:86
+#: vc_templates/kindergarten/stm_event_header.php:86
+#: vc_templates/university/stm_events.php:125
+#: vc_templates/university/stm_events.php:209
+#: vc_templates/university/stm_events.php:275
+#: vc_templates/university/stm_event_header.php:86
+#: vc_templates/school/stm_events.php:68
+#: vc_templates/school/stm_event_header.php:86
+msgid "to"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:405
+#: admin/includes/envato-market/inc/admin/admin.php:479
+msgid "Token"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:63
+#: inc/custom-post-types/university/custom-post-types.php:63
+#: inc/custom-post-types/school/custom-post-types.php:63
+msgid "Top"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:418
+#: inc/customizer/university/registration.php:423
+#: inc/customizer/school/registration.php:413
+msgid "Top Bar"
+msgstr ""
+
+#: inc/setup.php:40
+msgid "Top bar"
+msgstr ""
+
+#: woocommerce/order/order-details.php:47
+#: woocommerce/myaccount/my-orders.php:16
+#: woocommerce/checkout/review-order.php:31
+#: woocommerce/checkout/review-order.php:110 woocommerce/cart/cart.php:38
+#: woocommerce/cart/cart.php:131 woocommerce/cart/cart-totals.php:92
+#: woocommerce/cart/cart-totals.php:93
+msgid "Total"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:54
+msgid "Total:"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:157
+#: inc/custom-post-types/university/custom-post-types.php:156
+#: inc/custom-post-types/university/custom-post-types.php:193
+#: inc/custom-post-types/school/custom-post-types.php:157
+#: inc/customizer/kindergarten/registration.php:5
+#: inc/customizer/university/registration.php:5
+#: inc/customizer/school/registration.php:5
+msgid "Twitter"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:391
+#: inc/custom-post-types/university/custom-post-types.php:425
+#: inc/custom-post-types/school/custom-post-types.php:378
+msgid "Type:"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:60
+#: inc/customizer/university/registration.php:65
+#: inc/customizer/school/registration.php:60
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:28
+#: inc/customizer/university/controls/font-weight.php:28
+#: inc/customizer/school/controls/font-weight.php:28
+msgid "Ultra Bold"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:29
+#: inc/customizer/university/controls/font-weight.php:29
+#: inc/customizer/school/controls/font-weight.php:29
+msgid "Ultra Bold Italic"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:12
+#: inc/customizer/university/controls/font-weight.php:12
+#: inc/customizer/school/controls/font-weight.php:12
+msgid "Ultra Light"
+msgstr ""
+
+#: inc/customizer/kindergarten/controls/font-weight.php:13
+#: inc/customizer/university/controls/font-weight.php:13
+#: inc/customizer/school/controls/font-weight.php:13
+msgid "Ultra Light Italic"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:938
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28
+msgid ""
+"Unfortunately your order cannot be processed as the originating "
+"bank/merchant has declined your transaction. Please attempt your purchase "
+"again."
+msgstr ""
+
+#: vc_templates/kindergarten/stm_course_topics.php:11
+#: vc_templates/university/stm_course_topics.php:11
+#: vc_templates/school/stm_course_topics.php:11
+msgid "Unit Name"
+msgstr ""
+
+#: parts/frontend-customizer.php:7
+msgid "University"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:69
+#: admin/includes/envato-market/inc/admin/functions.php:261
+#, php-format
+msgid "Update %s now"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:73
+#: admin/includes/envato-market/inc/admin/functions.php:266
+msgid "Update Available"
+msgstr ""
+
+#: woocommerce/cart/cart.php:166
+msgid "Update Cart"
+msgstr ""
+
+#: woocommerce/cart/shipping-calculator.php:96
+msgid "Update Totals"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr ""
+
+#: parts/kindergarten/page-title.php:124
+#: parts/kindergarten/content-event.php:17 parts/kindergarten/content.php:29
+#: parts/kindergarten/event-page-title.php:120
+#: parts/university/content-event.php:22 parts/university/content.php:27
+#: parts/school/content-event.php:22 parts/school/content.php:24
+#: vc_templates/kindergarten/stm_post_header.php:19
+#: vc_templates/kindergarten/stm_event_header.php:17
+#: vc_templates/university/stm_post_header.php:19
+#: vc_templates/university/stm_event_header.php:17
+#: vc_templates/school/stm_post_header.php:19
+#: vc_templates/school/stm_event_header.php:17
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: parts/kindergarten/content-event.php:135 parts/kindergarten/content.php:56
+#: parts/university/content-event.php:123 parts/university/content.php:54
+#: parts/school/content-event.php:123 parts/school/content.php:50
+#: vc_templates/kindergarten/stm_post_footer.php:12
+#: vc_templates/university/stm_post_footer.php:12
+#: vc_templates/school/stm_post_footer.php:12
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: parts/kindergarten/page-title.php:130 parts/kindergarten/content.php:35
+#: parts/university/content.php:33 parts/school/content.php:20
+#: vc_templates/kindergarten/stm_post_header.php:15
+#: vc_templates/university/stm_post_header.php:15
+#: vc_templates/school/stm_post_header.php:15
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:77
+msgid "Username"
+msgstr ""
+
+#: woocommerce/global/form-login.php:36
+msgid "Username or email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:39
+msgid "Username or email address"
+msgstr ""
+
+#: parts/kindergarten/content-event.php:100
+msgid "Venue"
+msgstr ""
+
+#: parts/university/content-event.php:88 parts/school/content-event.php:88
+#: vc_templates/kindergarten/stm_event_header.php:100
+#: vc_templates/university/stm_event_header.php:100
+#: vc_templates/school/stm_event_header.php:100
+#: inc/custom-post-types/kindergarten/custom-post-types.php:240
+#: inc/custom-post-types/university/custom-post-types.php:276
+#: inc/custom-post-types/school/custom-post-types.php:240
+msgid "Venue:"
+msgstr ""
+
+#: woocommerce/single-product/review.php:50
+msgid "verified owner"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:433
+msgid "Version"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:169
+#: admin/includes/envato-market/inc/admin/functions.php:374
+#: admin/includes/envato-market/inc/admin/functions.php:374
+#: admin/includes/envato-market/inc/admin/admin.php:433
+#: admin/includes/envato-market/inc/admin/admin.php:892
+#: admin/includes/envato-market/inc/admin/admin.php:928
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Very Poor"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:396
+#: inc/custom-post-types/university/custom-post-types.php:430
+#: inc/custom-post-types/school/custom-post-types.php:383
+msgid "Video"
+msgstr ""
+
+#: admin/screens/support.php:67
+msgid "Video Tutorials"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:76
+msgid "View"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/functions.php:88
+#: admin/includes/envato-market/inc/admin/functions.php:274
+#, php-format
+msgid "View version %1$s details."
+msgstr ""
+
+#: admin/screens/support.php:90
+msgid "Visit Our Forum"
+msgstr ""
+
+#: admin/screens/system_status.php:279
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/callback/section/items.php:12
+msgid "Warning: These tokens can be revoked by the account holder at any time."
+msgstr ""
+
+#: admin/includes/admin_screens.php:152
+msgid "Watch Our Quick Guided Tour!"
+msgstr ""
+
+#: admin/screens/support.php:73
+msgid "Watch Videos"
+msgstr ""
+
+#: admin/screens/support.php:33
+msgid ""
+"We offer excellent support through our advanced ticket system. Make sure to "
+"register your purchase first to access our support services and other "
+"resources."
+msgstr ""
+
+#: admin/screens/support.php:70
+#, php-format
+msgid ""
+"We recommend you to watch video tutorials before you start the theme "
+"customization. Our video tutorials can teach you the different aspects of "
+"using %s."
+msgstr ""
+
+#: parts/kindergarten/page-error.php:33 parts/university/page-error.php:39
+msgid "We're sorry, but the page you requested can't be found."
+msgstr ""
+
+#: parts/kindergarten/comments.php:69 parts/university/comments.php:69
+#: parts/school/comments.php:69
+msgid "Website"
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:617
+#: inc/custom-post-types/university/custom-post-types.php:658
+#: inc/custom-post-types/school/custom-post-types.php:604
+msgid "Weekdays"
+msgstr ""
+
+#: admin/includes/admin_screens.php:150
+#, php-format
+msgid "Welcome to %s"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/partials/intro.php:13
+msgid "Welcome!"
+msgstr ""
+
+#: admin/screens/system_status.php:36
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: inc/custom-post-types/kindergarten/custom-post-types.php:26
+#: inc/custom-post-types/university/custom-post-types.php:26
+#: inc/custom-post-types/school/custom-post-types.php:26
+msgid "White"
+msgstr ""
+
+#: parts/frontend-customizer.php:35
+msgid "Wide"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:509
+#: inc/customizer/university/registration.php:502
+#: inc/customizer/school/registration.php:492
+msgid "Widget Areas - Columns"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:21
+#: inc/customizer/university/registration.php:21
+#: inc/customizer/school/registration.php:21
+msgid "Widgets"
+msgstr ""
+
+#: inc/custom-post-types/university/custom-post-types.php:93
+#: inc/custom-post-types/school/custom-post-types.php:93
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:555
+#: inc/customizer/university/registration.php:548
+#: inc/customizer/school/registration.php:538
+msgid "WordPress"
+msgstr ""
+
+#: admin/screens/system_status.php:11 admin/screens/system_status.php:15
+msgid "WordPress Environment"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:455
+#: inc/customizer/kindergarten/registration.php:456
+msgid "Work schedulel"
+msgstr ""
+
+#: admin/screens/system_status.php:57
+msgid "WP Debug Mode:"
+msgstr ""
+
+#: admin/screens/system_status.php:40
+msgid "WP Memory Limit:"
+msgstr ""
+
+#: admin/screens/system_status.php:35
+msgid "WP Multisite:"
+msgstr ""
+
+#: admin/screens/system_status.php:30
+msgid "WP Version:"
+msgstr ""
+
+#: parts/kindergarten/event-join-form.php:114
+#: parts/university/event-join-form.php:114
+#: parts/school/event-join-form.php:106
+#: vc_templates/kindergarten/stm_post_comments.php:35
+#: vc_templates/university/stm_post_comments.php:35
+#: vc_templates/school/stm_post_comments.php:35
+msgid "You already has been joined the event."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:397
+msgid ""
+"You are about to remove the connection between the Envato Market API and "
+"this item. You cannot undo this action."
+msgstr ""
+
+#: parts/donation-form.php:29
+msgid "You are donating to:"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/partials/intro.php:15
+msgid ""
+"You can add a global token to connect all your items from your account, "
+"and/or connect directly with a specific item using a singe-use token & item "
+"ID. When the global token and single-use token are set for the same item, "
+"the single-use token will be used to communicate with the API."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:204
+msgid "You do not have sufficient permissions to delete transients."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:763
+msgid "You do not have sufficient permissions to install plugins on this site."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:821
+msgid "You do not have sufficient permissions to install themes on this site."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/admin.php:896
+msgid "You do not have sufficient permissions to update themes for this site."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:107
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: parts/kindergarten/comments.php:88 parts/university/comments.php:88
+#: parts/school/comments.php:88
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/callback/section/oauth.php:12
+#, php-format
+msgid "You will need to %s, and then insert it below."
+msgstr ""
+
+#: admin/screens/startup.php:71
+msgid ""
+"You will see a green check mark for success, or a failure message if "
+"something went wrong. If it failed, please make sure you followed the steps "
+"above correctly."
+msgstr ""
+
+#: parts/donation-form.php:39
+#, php-format
+msgid "Your amount (%s)"
+msgstr ""
+
+#: woocommerce/cart/cart-empty.php:27
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: woocommerce/single-product/review.php:41
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: inc/custom.php:636
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: admin/screens/system_status.php:50
+msgid ""
+"Your current memory limit is sufficient, but if you need to import classic "
+"demo content, the required memory limit is <strong>256MB.</strong>"
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/notice/success.php:11
+msgid "Your OAuth Personal Token has been verified."
+msgstr ""
+
+#: admin/includes/envato-market/inc/admin/view/notice/success-no-items.php:11
+msgid ""
+"Your OAuth Personal Token has been verified. However, there are no WordPress "
+"downloadable items in your account."
+msgstr ""
+
+#: woocommerce/checkout/review-order.php:25
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:100
+msgid "Your Review"
+msgstr ""
+
+#: inc/customizer/kindergarten/registration.php:6
+#: inc/customizer/university/registration.php:6
+#: inc/customizer/school/registration.php:6
+msgid "YouTube"
+msgstr ""
+
+#: admin/screens/system_status.php:229
+msgid ""
+"ZipArchive is required for importing demos. They are used to import and "
+"export zip files specifically for sliders."
+msgstr ""
+
+#: admin/screens/system_status.php:228
+msgid "ZipArchive:"
+msgstr ""

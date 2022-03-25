@@ -1,0 +1,28 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">stm_page_title</custom-field>
+        <custom-field action="translate">stm_page_subtitle</custom-field>
+        <custom-field action="translate">stm_teacher_position</custom-field>
+        <custom-field action="translate">stm_event_venue</custom-field>
+        <custom-field action="translate">media_item_descr</custom-field>
+    </custom-fields>
+    <custom-types>
+        <custom-type translate="1">stm_meal</custom-type>
+        <custom-type translate="1">stm_media_gallery</custom-type>
+        <custom-type translate="1">stm_sidebar</custom-type>
+        <custom-type translate="1">stm_footer</custom-type>
+        <custom-type translate="1">stm_event</custom-type>
+        <custom-type translate="1">stm_testimonial</custom-type>
+        <custom-type translate="1">stm_achievement</custom-type>
+        <custom-type translate="1">stm_teacher</custom-type>
+        <custom-type translate="1">stm_donation</custom-type>
+        <custom-type translate="1">stm_course</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">stm_event_category</taxonomy>
+        <taxonomy translate="1">stm_media_gallery_category</taxonomy>
+        <taxonomy translate="1">stm_meal_weekdays</taxonomy>
+        <taxonomy translate="1">stm_meal_time</taxonomy>
+        <taxonomy translate="1">stm_achievement_category</taxonomy>
+    </taxonomies>
+</wpml-config>
