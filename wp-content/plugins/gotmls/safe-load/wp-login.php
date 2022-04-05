@@ -6,6 +6,8 @@
 
 if (!defined("GOTMLS_REQUEST_METHOD"))
 	define("GOTMLS_REQUEST_METHOD", (isset($_SERVER["REQUEST_METHOD"])?strtoupper($_SERVER["REQUEST_METHOD"]):"none"));
+if (!(isset($GLOBALS["GOTMLS"]) && is_array($GLOBALS["GOTMLS"])))
+	$GLOBALS["GOTMLS"] = array();
 if ((GOTMLS_REQUEST_METHOD == "POST") && isset($_POST["log"]) && isset($_POST["pwd"]) && isset($_POST["session_id"]) && isset($_POST["sess".$_POST["session_id"]]) && is_numeric($_POST["sess".$_POST["session_id"]])) {
 	$sess = round($_POST["sess".$_POST["session_id"]] / 60000);
 	$time = round(time() / 60);

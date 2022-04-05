@@ -5,10 +5,10 @@ Author URI: http://wordpress.ieonly.com/category/my-plugins/anti-malware/
 Contributors: scheeeli, gotmls
 Donate link: https://gotmls.net/donate/
 Tags: security, firewall, anti-malware, scanner, automatic, repair, remove, malware, virus, threat, hacked, malicious, infection, timthumb, exploit, block, brute-force, wp-login, patch, antimalware, revslider, Revolution Slider
-Version: 4.20.95
-Stable tag: 4.20.95
+Version: 4.20.96
+Stable tag: 4.20.96
 Requires at least: 3.3
-Tested up to: 5.9
+Tested up to: 5.9.2
 
 This Anti-Malware scanner searches for Malware, Viruses, and other security threats and vulnerabilities on your server and it helps you fix them.
 
@@ -92,6 +92,11 @@ sucuri.net caches their scan results and will not refresh the scan until you cli
 5. The Quarantine showing threats that have been fix already.
 
 == Changelog ==
+
+= 4.20.96 =
+* Fixed XSS vulnerability by removing unsanitized QUERY_STRING.
+* Cleaned up Quarantine code, removing legacy functions and adding more detailed info.
+* Fixed undefined variable notice and checked code for compatibility with WordPress 5.9.2.
 
 = 4.20.95 =
 * Added more sanitization and validation to all user data entered for better security.
@@ -379,6 +384,9 @@ sucuri.net caches their scan results and will not refresh the scan until you cli
 * First versions available for WordPress (code removed, no longer compatible).
 
 == Upgrade Notice ==
+
+= 4.20.96 =
+Fixed XSS vulnerability by removing unsanitized QUERY_STRING, cleaned up Quarantine code, and checked code for compatibility with WordPress 5.9.2.
 
 = 4.20.95 =
 Added more sanitization and validation to all user data entered for better security and checked code for compatibility with WordPress 5.9.
